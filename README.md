@@ -1,2 +1,6 @@
 # Hands-on-Python
-Ipython notebook for basics of python programming
+## Requirements
+1. Python3
+2. Jupyter notebook
+
+
