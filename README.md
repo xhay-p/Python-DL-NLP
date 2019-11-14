@@ -26,9 +26,8 @@
 2. Most distribution comes with pip, [if not](https://www.liquidweb.com/kb/install-pip-windows/)
 3. Download and Install Virtual Environment `pip install virtualenv`
 4. [Creating and Activating Virtual Environment](https://programwithus.com/learn-to-code/Pip-and-virtualenv-on-Windows/)
-e. Installing necessary libraries in virtual environment: `pip install jupyter ipython`
-
-f. Well Done! You are ready for hands-on-sessions.
+5. Installing necessary libraries in virtual environment: `pip install jupyter ipython`
+6. Well Done! You are ready for hands-on-sessions.
 
 ## Topics Covered
 1. **Python Basics** - Data-types, Variables, Operators and Operations, Conditionals (if, if-else, if-elif-else), Loops (for and while), Exception Handling, Strings, Lists, Dictionaries, Tuples, File & I/O, command-line and os-module. <br>
