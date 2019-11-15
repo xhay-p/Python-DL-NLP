@@ -33,4 +33,6 @@
 1. **Python Basics** - Data-types, Variables, Operators and Operations, Conditionals (if, if-else, if-elif-else), Loops (for and while), Exception Handling, Strings, Lists, Dictionaries, Tuples, File & I/O, command-line and os-module. <br>
 *File* : basic-python.ipynb
 2. **Object-Oriented Concepts** - Classes, Objects, Classes and Functions, Methods, Inheritence <br>
-*File* : Object-Oriented.ipynb
+*File* : oops.ipynb
+3. **Numpy** - primitive data-types support in numpy, ndarry, creating array, basic operations and in-built functions, reshaping, multi-dimension array, indexing, slicing, broadcasting, linear algebra
+*File* : numpy.ipynb
