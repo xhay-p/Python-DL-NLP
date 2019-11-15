@@ -6,7 +6,8 @@
 4. [Numpy](https://pypi.org/project/numpy/)
 5. [Matplotlib](https://pypi.org/project/matplotlib/)
 ## Installation
-### Linux (Ubuntu)
+
+1. **Linux (Ubuntu)**
 1. Download and install Python3: `sudo apt-get install python3`
 2. Download and install pip3: `sudo apt-get install python3-pip`
 3. Download and install virtual environment: `pip3 install virtualenv`
@@ -16,20 +17,22 @@
 7. `./requirements.sh`
 9. Well Done! You are ready for hands-on-sessions
 
-### Mac OS
+2. **Mac OS**
 1. Follow the instructions given in the link below, [For installing python 3 and virtual environment](https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-local-programming-environment-on-macos)
 2. Download the file **requirements.sh**
 3. `chmod +x requirements.sh`
 4. `./requirements.sh`
 6. Well Done! You are ready for hands-on-sessions.
 
-### Windows
+3. **Windows**
 1. [Download Python3 latest version](https://www.python.org/downloads/windows/)
 2. Most distribution comes with pip, [if not](https://www.liquidweb.com/kb/install-pip-windows/)
 3. Download and Install Virtual Environment `pip install virtualenv`
 4. [Creating and Activating Virtual Environment](https://programwithus.com/learn-to-code/Pip-and-virtualenv-on-Windows/)
 5. Installing necessary libraries in virtual environment: `pip install jupyter ipython numpy matplotlib`
 6. Well Done! You are ready for hands-on-sessions.
+
+**NOTE** You can also download all the necessary tools and framework using [Anaconda](https://www.anaconda.com/distribution/).
 
 ## Topics Covered
 1. **Python Basics** - Data-types, Variables, Operators and Operations, Conditionals (if, if-else, if-elif-else), Loops (for and while), Exception Handling, Strings, Lists, Dictionaries, Tuples, File & I/O, command-line and os-module. <br>
