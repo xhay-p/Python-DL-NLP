@@ -8,8 +8,8 @@
 ## Installation
 
 **Linux (Ubuntu)**
-. Download and install Python3: `sudo apt-get install python3`
-. Download and install pip3: `sudo apt-get install python3-pip`
+1. Download and install Python3: `sudo apt-get install python3`
+2. Download and install pip3: `sudo apt-get install python3-pip`
 3. Download and install virtual environment: `pip3 install virtualenv`
 4. Update: `sudo apt-get update`
 5. Download the file **requirements.sh**
