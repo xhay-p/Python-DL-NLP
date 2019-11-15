@@ -3,6 +3,8 @@
 1. [Python3](https://www.python.org/)
 2. [Ipython](https://ipython.org/index.html)
 3. [Jupyter](https://jupyter.readthedocs.io/en/latest/install.html)
+4. [Numpy](https://pypi.org/project/numpy/)
+5. [Matplotlib](https://pypi.org/project/matplotlib/)
 ## Installation
 ### Linux (Ubuntu)
 1. Download and install Python3: `sudo apt-get install python3`
@@ -26,7 +28,7 @@
 2. Most distribution comes with pip, [if not](https://www.liquidweb.com/kb/install-pip-windows/)
 3. Download and Install Virtual Environment `pip install virtualenv`
 4. [Creating and Activating Virtual Environment](https://programwithus.com/learn-to-code/Pip-and-virtualenv-on-Windows/)
-5. Installing necessary libraries in virtual environment: `pip install jupyter ipython`
+5. Installing necessary libraries in virtual environment: `pip install jupyter ipython numpy matplotlib`
 6. Well Done! You are ready for hands-on-sessions.
 
 ## Topics Covered
