@@ -32,7 +32,7 @@
 5. Installing necessary libraries in virtual environment: `pip install jupyter ipython numpy matplotlib`
 6. Well Done! You are ready for hands-on-sessions.
 
-**NOTE** You can also download all the necessary tools and framework using [Anaconda](https://www.anaconda.com/distribution/).
+**NOTE** You can also download all the above-mentioned necessary tools and framework using [Anaconda](https://www.anaconda.com/distribution/).
 
 ## Topics Covered
 1. **Python Basics** - Data-types, Variables, Operators and Operations, Conditionals (if, if-else, if-elif-else), Loops (for and while), Exception Handling, Strings, Lists, Dictionaries, Tuples, File & I/O, command-line and os-module. <br>
