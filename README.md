@@ -7,9 +7,9 @@
 5. [Matplotlib](https://pypi.org/project/matplotlib/)
 ## Installation
 
-1. **Linux (Ubuntu)**
-1. Download and install Python3: `sudo apt-get install python3`
-2. Download and install pip3: `sudo apt-get install python3-pip`
+**Linux (Ubuntu)**
+. Download and install Python3: `sudo apt-get install python3`
+. Download and install pip3: `sudo apt-get install python3-pip`
 3. Download and install virtual environment: `pip3 install virtualenv`
 4. Update: `sudo apt-get update`
 5. Download the file **requirements.sh**
@@ -17,14 +17,14 @@
 7. `./requirements.sh`
 9. Well Done! You are ready for hands-on-sessions
 
-2. **Mac OS**
+**Mac OS**
 1. Follow the instructions given in the link below, [For installing python 3 and virtual environment](https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-local-programming-environment-on-macos)
 2. Download the file **requirements.sh**
 3. `chmod +x requirements.sh`
 4. `./requirements.sh`
 6. Well Done! You are ready for hands-on-sessions.
 
-3. **Windows**
+**Windows**
 1. [Download Python3 latest version](https://www.python.org/downloads/windows/)
 2. Most distribution comes with pip, [if not](https://www.liquidweb.com/kb/install-pip-windows/)
 3. Download and Install Virtual Environment `pip install virtualenv`
