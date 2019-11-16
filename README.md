@@ -41,3 +41,4 @@
 *File* : oops.ipynb
 3. **Numpy** - primitive data-types support in numpy, ndarry, creating array, basic operations and in-built functions, reshaping, multi-dimension array, indexing, slicing, broadcasting, linear algebra
 *File* : numpy.ipynb
+4. **Matplotlib** - plotting a figure, adding labels to the axis, adding title, adding legends, adding grids, multiple plots using subplot, scatter plot, step plot, bar plot, histogram
