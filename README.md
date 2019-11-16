@@ -5,7 +5,7 @@
 3. [Jupyter](https://jupyter.readthedocs.io/en/latest/install.html)
 4. [Numpy](https://pypi.org/project/numpy/)
 5. [Matplotlib](https://pypi.org/project/matplotlib/)
-6. [Pandas]((https://pypi.org/project/pandas/))
+6. [Pandas](https://pypi.org/project/pandas/)
 ## Installation
 
 **Linux (Ubuntu)**
