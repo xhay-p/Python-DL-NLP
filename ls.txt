@@ -1,0 +1,17 @@
+total 1244
+drwxr-xr-x 4 labpc labpc    4096 Nov 16 08:17 .
+drwxr-xr-x 7 labpc labpc    4096 Nov 11 10:31 ..
+-rw-r--r-- 1 labpc labpc      66 Nov 11 10:31 command.py
+drwxr-xr-x 8 labpc labpc    4096 Nov 16 08:09 .git
+-rw-r--r-- 1 labpc labpc      26 Nov 16 08:17 hello.txt
+drwxr-xr-x 2 labpc labpc    4096 Nov 15 16:19 .ipynb_checkpoints
+-rw-r--r-- 1 labpc labpc       0 Nov 16 08:17 ls.txt
+-rw-r--r-- 1 labpc labpc    6821 Nov 16 08:15 matplotlib.ipynb
+-rw-r--r-- 1 labpc labpc   18625 Nov 15 16:19 numpy.ipynb
+-rw-r--r-- 1 labpc labpc    7630 Nov 15 12:41 oops.ipynb
+-rw-r--r-- 1 labpc labpc   54128 Nov 16 08:15 python-basics.ipynb
+-rw-r--r-- 1 labpc labpc  122482 Nov 11 10:31 Python Programming.pdf
+-rw-r--r-- 1 labpc labpc    2391 Nov 15 12:48 README.md
+-rwxrwxr-x 1 labpc labpc      95 Nov 15 12:14 requirements.sh
+-rw-r--r-- 1 labpc labpc      33 Nov 11 10:31 script.py
+-rw-r--r-- 1 labpc labpc 1016714 Nov 11 10:31 words.txt
