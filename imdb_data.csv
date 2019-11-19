@@ -1,0 +1,1001 @@
+Seq	Title	Year	Certificate	Runtime(Minutes)	Genre	Imdb Rating	Directors	Actors	User Votes	Gross(in Million Dollars)
+1	The Godfather	1972	A	175	['Crime', ' Drama']	9.2	['Francis Ford Coppola']	['Marlon Brando, Al Pacino, James Caan, Diane Keaton']	1419575	134.97
+2	Goodfellas	1990	A	146	['Biography', ' Crime', ' Drama']	8.7	['Martin Scorsese']	['Robert De Niro, Ray Liotta, Joe Pesci, Lorraine Bracco']	893239	46.84
+3	Pulp Fiction	1994	A	154	['Crime', ' Drama']	8.9	['Quentin Tarantino']	['John Travolta, Uma Thurman, Samuel L. Jackson, Bruce Willis']	1617833	107.93
+4	The Usual Suspects	1995	A	106	['Crime', ' Mystery', ' Thriller']	8.6	['Bryan Singer']	['Kevin Spacey, Gabriel Byrne, Chazz Palminteri, Stephen Baldwin']	896100	23.34
+5	Apocalypse Now	1979	R	147	['Drama', ' War']	8.5	['Francis Ford Coppola']	['Martin Sheen, Marlon Brando, Robert Duvall, Frederic Forrest']	541335	83.47
+6	Trainspotting	1996	R	93	['Drama']	8.2	['Danny Boyle']	['Ewan McGregor, Ewen Bremner, Jonny Lee Miller, Kevin McKidd']	584303	16.50
+7	Fight Club	1999	A	139	['Drama']	8.8	['David Fincher']	['Brad Pitt, Edward Norton, Meat Loaf, Zach Grenier']	1655694	37.03
+8	Schindler's List	1993	A	195	['Biography', ' Drama', ' History']	8.9	['Steven Spielberg']	['Liam Neeson, Ralph Fiennes, Ben Kingsley, Caroline Goodall']	1072084	96.07
+9	Boogie Nights	1997	R	155	['Drama']	7.9	['Paul Thomas Anderson']	['Mark Wahlberg, Julianne Moore, Burt Reynolds, Luis Guzmán']	218235	26.40
+10	Reservoir Dogs	1992	R	99	['Crime', ' Drama', ' Thriller']	8.3	['Quentin Tarantino']	['Harvey Keitel, Tim Roth, Michael Madsen, Chris Penn']	812319	2.83
+11	The Shawshank Redemption	1994	A	142	['Drama']	9.3	['Frank Darabont']	['Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler']	2069007	28.34
+12	Jaws	1975	A	124	['Adventure', ' Drama', ' Thriller']	8	['Steven Spielberg']	['Roy Scheider, Robert Shaw, Richard Dreyfuss, Lorraine Gary']	504732	260.00
+13	Taxi Driver	1976		114	['Crime', ' Drama']	8.3	['Martin Scorsese']	['Robert De Niro, Jodie Foster, Cybill Shepherd, Albert Brooks']	627995	28.26
+14	L.A. Confidential	1997	R	138	['Crime', ' Drama', ' Mystery']	8.3	['Curtis Hanson']	['Kevin Spacey, Russell Crowe, Guy Pearce, Kim Basinger']	488560	64.62
+15	Back to the Future	1985	U	116	['Adventure', ' Comedy', ' Sci-Fi']	8.5	['Robert Zemeckis']	['Michael J. Fox, Christopher Lloyd, Lea Thompson, Crispin Glover']	921154	210.61
+16	The Godfather: Part II	1974		202	['Crime', ' Drama']	9	['Francis Ford Coppola']	['Al Pacino, Robert De Niro, Robert Duvall, Diane Keaton']	984996	57.30
+17	Fargo	1996	R	98	['Crime', ' Drama', ' Thriller']	8.1	['Joel Coen, Ethan Coen']	['William H. Macy, Frances McDormand, Steve Buscemi, Peter Stormare']	556036	24.61
+18	The Dark Knight	2008	UA	152	['Action', ' Crime', ' Drama']	9	['Christopher Nolan']	['Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine']	2034929	534.86
+19	Magnolia	1999	R	188	['Drama']	8	['Paul Thomas Anderson']	['Tom Cruise, Jason Robards, Julianne Moore, Philip Seymour Hoffman']	268255	22.46
+20	Scarface	1983	A	170	['Crime', ' Drama']	8.3	['Brian De Palma']	['Al Pacino, Michelle Pfeiffer, Steven Bauer, Mary Elizabeth Mastrantonio']	656022	45.60
+21	The Royal Tenenbaums	2001	R	110	['Comedy', ' Drama']	7.6	['Wes Anderson']	['Gene Hackman, Gwyneth Paltrow, Anjelica Huston, Ben Stiller']	244089	52.36
+22	Donnie Darko	2001	R	113	['Drama', ' Sci-Fi', ' Thriller']	8.1	['Richard Kelly']	['Jake Gyllenhaal, Jena Malone, Mary McDonnell, Holmes Osborne']	691949	1.48
+23	Platoon	1986	A	120	['Drama', ' War']	8.1	['Oliver Stone']	['Charlie Sheen, Tom Berenger, Willem Dafoe, Keith David']	348339	138.53
+24	Heat	1995	R	170	['Crime', ' Drama', ' Thriller']	8.2	['Michael Mann']	['Al Pacino, Robert De Niro, Val Kilmer, Jon Voight']	518876	67.44
+25	American Beauty	1999	A	122	['Drama']	8.4	['Sam Mendes']	['Kevin Spacey, Annette Bening, Thora Birch, Wes Bentley']	980507	130.10
+26	The Big Lebowski	1998	R	117	['Comedy', ' Crime']	8.1	['Joel Coen, Ethan Coen']	['Jeff Bridges, John Goodman, Julianne Moore, Steve Buscemi']	656062	17.50
+27	Raging Bull	1980		129	['Biography', ' Drama', ' Sport']	8.2	['Martin Scorsese']	['Robert De Niro, Cathy Moriarty, Joe Pesci, Frank Vincent']	284401	23.38
+28	Un prophète	2009	R	155	['Crime', ' Drama']	7.9	['Jacques Audiard']	['Tahar Rahim, Niels Arestrup, Adel Bencherif, Reda Kateb']	87671	2.08
+29	The Departed	2006	A	151	['Crime', ' Drama', ' Thriller']	8.5	['Martin Scorsese']	['Leonardo DiCaprio, Matt Damon, Jack Nicholson, Mark Wahlberg']	1062307	132.38
+30	There's Something About Mary	1998	R	119	['Comedy', ' Romance']	7.1	['Bobby Farrelly, Peter Farrelly']	['Cameron Diaz, Matt Dillon, Ben Stiller, Lee Evans']	273426	176.48
+31	Léon	1994	A	110	['Action', ' Crime', ' Drama']	8.6	['Luc Besson']	['Jean Reno, Gary Oldman, Natalie Portman, Danny Aiello']	911408	19.50
+32	Cidade de Deus	2002	R	130	['Crime', ' Drama']	8.6	['Fernando Meirelles, Kátia Lund']	['Alexandre Rodrigues, Leandro Firmino, Matheus Nachtergaele, Phellipe Haagensen']	636780	7.56
+33	Once Upon a Time in America	1984	R	229	['Crime', ' Drama']	8.4	['Sergio Leone']	['Robert De Niro, James Woods, Elizabeth McGovern, Treat Williams']	273183	5.32
+34	Lock, Stock and Two Smoking Barrels	1998	R	107	['Comedy', ' Crime']	8.2	['Guy Ritchie']	['Jason Flemyng, Dexter Fletcher, Nick Moran, Jason Statham']	489106	3.90
+35	The Truman Show	1998	PG	103	['Comedy', ' Drama', ' Sci-Fi']	8.1	['Peter Weir']	['Jim Carrey, Ed Harris, Laura Linney, Noah Emmerich']	828332	125.62
+36	Toy Story	1995		81	['Animation', ' Adventure', ' Comedy']	8.3	['John Lasseter']	['Tom Hanks, Tim Allen, Don Rickles, Jim Varney']	780874	191.80
+37	Alien	1979	A	116	['Horror', ' Sci-Fi']	8.5	['Ridley Scott']	['Sigourney Weaver, Tom Skerritt, John Hurt, Veronica Cartwright']	704146	78.90
+38	Rushmore	1998	R	93	['Comedy', ' Drama']	7.7	['Wes Anderson']	['Jason Schwartzman, Bill Murray, Olivia Williams, Seymour Cassel']	156215	17.11
+39	The Matrix	1999	A	136	['Action', ' Sci-Fi']	8.7	['Lana Wachowski, Lilly Wachowski']	['Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving']	1486228	171.48
+40	Se7en	1995	R	127	['Crime', ' Drama', ' Mystery']	8.6	['David Fincher']	['Morgan Freeman, Brad Pitt, Kevin Spacey, Andrew Kevin Walker']	1268913	100.13
+41	Good Will Hunting	1997	R	126	['Drama', ' Romance']	8.3	['Gus Van Sant']	['Robin Williams, Matt Damon, Ben Affleck, Stellan Skarsgård']	756512	138.43
+42	Aliens	1986	A	137	['Action', ' Adventure', ' Sci-Fi']	8.4	['James Cameron']	['Sigourney Weaver, Michael Biehn, Carrie Henn, Paul Reiser']	593522	85.16
+43	The Exorcist	1973	R	122	['Horror']	8	['William Friedkin']	['Ellen Burstyn, Max von Sydow, Linda Blair, Lee J. Cobb']	328800	232.91
+44	One Flew Over the Cuckoo's Nest	1975		133	['Drama']	8.7	['Milos Forman']	['Jack Nicholson, Louise Fletcher, Will Sampson, Michael Berryman']	820822	112.00
+45	Chinatown	1974		130	['Drama', ' Mystery', ' Thriller']	8.2	['Roman Polanski']	['Jack Nicholson, Faye Dunaway, John Huston, Perry Lopez']	263274	29.20
+46	Casino	1995	A	178	['Crime', ' Drama']	8.2	['Martin Scorsese']	['Robert De Niro, Sharon Stone, Joe Pesci, James Woods']	409689	42.44
+47	True Romance	1993	R	119	['Crime', ' Drama', ' Romance']	7.9	['Tony Scott']	['Christian Slater, Patricia Arquette, Dennis Hopper, Val Kilmer']	187010	12.28
+48	Sin City	2005	R	124	['Crime', ' Thriller']	8	['Frank Miller, Robert Rodriguez, Quentin Tarantino']	['Mickey Rourke, Clive Owen, Bruce Willis, Jessica Alba']	712406	74.10
+49	Gladiator	2000	R	155	['Action', ' Adventure', ' Drama']	8.5	['Ridley Scott']	['Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed']	1196091	187.71
+50	Raiders of the Lost Ark	1981	PG	115	['Action', ' Adventure']	8.5	['Steven Spielberg']	['Harrison Ford, Karen Allen, Paul Freeman, John Rhys-Davies']	801603	248.16
+51	Miller's Crossing	1990		115	['Crime', ' Drama', ' Thriller']	7.8	['Joel Coen, Ethan Coen']	['Gabriel Byrne, Albert Finney, John Turturro, Marcia Gay Harden']	117449	5.08
+52	Being John Malkovich	1999	R	113	['Comedy', ' Drama', ' Fantasy']	7.8	['Spike Jonze']	['John Cusack, Cameron Diaz, Catherine Keener, John Malkovich']	287096	22.86
+53	Die Hard	1988	A	132	['Action', ' Thriller']	8.2	['John McTiernan']	['Bruce Willis, Alan Rickman, Bonnie Bedelia, Reginald VelJohnson']	712717	83.01
+54	Casablanca	1942	PG	102	['Drama', ' Romance', ' War']	8.5	['Michael Curtiz']	['Humphrey Bogart, Ingrid Bergman, Paul Henreid, Claude Rains']	470411	1.02
+55	Kick-Ass	2010	UA	117	['Action', ' Comedy']	7.6	['Matthew Vaughn']	['Aaron Taylor-Johnson, Nicolas Cage, Chloë Grace Moretz, Garrett M. Brown']	493408	48.07
+56	The Prestige	2006	PG-13	130	['Drama', ' Mystery', ' Sci-Fi']	8.5	['Christopher Nolan']	['Christian Bale, Hugh Jackman, Scarlett Johansson, Michael Caine']	1051013	53.09
+57	Inglourious Basterds	2009	A	153	['Adventure', ' Drama', ' War']	8.3	['Quentin Tarantino, Eli Roth']	['Brad Pitt, Diane Kruger, Eli Roth, Mélanie Laurent']	1103980	120.54
+58	Evil Dead II	1987	R	84	['Comedy', ' Horror']	7.8	['Sam Raimi']	['Bruce Campbell, Sarah Berry, Dan Hicks, Kassie Wesley DePaiva']	134187	5.92
+59	Jurassic Park	1993	UA	127	['Adventure', ' Sci-Fi', ' Thriller']	8.1	['Steven Spielberg']	['Sam Neill, Laura Dern, Jeff Goldblum, Richard Attenborough']	773803	402.45
+60	Batman Begins	2005	UA	140	['Action', ' Adventure']	8.2	['Christopher Nolan']	['Christian Bale, Michael Caine, Ken Watanabe, Liam Neeson']	1179069	206.85
+61	The Green Mile	1999	A	189	['Crime', ' Drama', ' Fantasy']	8.6	['Frank Darabont']	['Tom Hanks, Michael Clarke Duncan, David Morse, Bonnie Hunt']	998648	136.80
+62	The French Connection	1971		104	['Action', ' Crime', ' Drama']	7.8	['William Friedkin']	['Gene Hackman, Roy Scheider, Fernando Rey, Tony Lo Bianco']	98503	
+63	Unforgiven	1992	R	130	['Drama', ' Western']	8.2	['Clint Eastwood']	['Clint Eastwood, Gene Hackman, Morgan Freeman, Richard Harris']	336921	101.16
+64	Drive	I 2011	A	100	['Crime', ' Drama']	7.8	['Nicolas Winding Refn']	['Ryan Gosling, Carey Mulligan, Bryan Cranston, Albert Brooks']	516811	35.06
+65	The Shining	1980	A	146	['Drama', ' Horror']	8.4	['Stanley Kubrick']	['Jack Nicholson, Shelley Duvall, Danny Lloyd, Scatman Crothers']	769532	44.02
+66	The Evil Dead	1981	NC-17	85	['Horror']	7.5	['Sam Raimi']	['Bruce Campbell, Ellen Sandweiss, Richard DeManincor, Betsy Baker']	168118	2.40
+67	Forrest Gump	1994	PG-13	142	['Drama', ' Romance']	8.8	['Robert Zemeckis']	['Tom Hanks, Robin Wright, Gary Sinise, Sally Field']	1585727	330.25
+68	The Thing	1982	(Banned)	109	['Horror', ' Mystery', ' Sci-Fi']	8.1	['John Carpenter']	['Kurt Russell, Wilford Brimley, Keith David, Richard Masur']	326651	13.78
+69	Citizen Kane	1941	PG	119	['Drama', ' Mystery']	8.3	['Orson Welles']	['Orson Welles, Joseph Cotten, Dorothy Comingore, Agnes Moorehead']	359287	1.59
+70	Blue Velvet	1986		120	['Drama', ' Mystery', ' Thriller']	7.8	['David Lynch']	['Isabella Rossellini, Kyle MacLachlan, Dennis Hopper, Laura Dern']	160884	8.55
+71	The Wicker Man	1973		88	['Horror', ' Mystery', ' Thriller']	7.6	['Robin Hardy']	['Edward Woodward, Christopher Lee, Diane Cilento, Britt Ekland']	58157	0.06
+72	Eternal Sunshine of the Spotless Mind	2004	A	108	['Drama', ' Romance', ' Sci-Fi']	8.3	['Michel Gondry']	['Jim Carrey, Kate Winslet, Tom Wilkinson, Gerry Robert Byrne']	815190	34.40
+73	The Princess Bride	1987		98	['Adventure', ' Family', ' Fantasy']	8.1	['Rob Reiner']	['Cary Elwes, Mandy Patinkin, Robin Wright, Chris Sarandon']	354349	30.86
+74	A Clockwork Orange	1971		136	['Crime', ' Drama', ' Sci-Fi']	8.3	['Stanley Kubrick']	['Malcolm McDowell, Patrick Magee, Michael Bates, Warren Clarke']	680398	
+75	Go	1999	R	102	['Comedy', ' Crime']	7.3	['Doug Liman']	['Sarah Polley, Jay Mohr, Scott Wolf, Taye Diggs']	63719	16.84
+76	Stand by Me	1986		89	['Adventure', ' Drama']	8.1	['Rob Reiner']	"[""Wil Wheaton, River Phoenix, Corey Feldman, Jerry O'Connell""]"	330462	52.29
+77	The Lord of the Rings: The Return of the King	2003	PG-13	201	['Adventure', ' Drama', ' Fantasy']	8.9	['Peter Jackson']	['Elijah Wood, Viggo Mortensen, Ian McKellen, Orlando Bloom']	1473001	377.85
+78	Terminator 2: Judgment Day	1991	U	137	['Action', ' Sci-Fi']	8.5	['James Cameron']	['Arnold Schwarzenegger, Linda Hamilton, Edward Furlong, Robert Patrick']	896057	204.84
+79	Toy Story 2	1999		92	['Animation', ' Adventure', ' Comedy']	7.9	['John Lasseter, Ash Brannon, Lee Unkrich']	['Tom Hanks, Tim Allen, Joan Cusack, Kelsey Grammer']	463450	245.85
+80	Saving Private Ryan	1998	A	169	['Drama', ' War']	8.6	['Steven Spielberg']	['Tom Hanks, Matt Damon, Tom Sizemore, Edward Burns']	1094058	216.54
+81	Desperado	1995	R	104	['Action', ' Thriller']	7.2	['Robert Rodriguez']	['Antonio Banderas, Salma Hayek, Joaquim de Almeida, Cheech Marin']	158529	25.63
+82	Indiana Jones and the Last Crusade	1989	U	127	['Action', ' Adventure']	8.2	['Steven Spielberg']	['Harrison Ford, Sean Connery, Alison Doody, Denholm Elliott']	625961	197.17
+83	Saw	2004	R	103	['Crime', ' Horror', ' Mystery']	7.6	['James Wan']	['Cary Elwes, Leigh Whannell, Danny Glover, Ken Leung']	348837	56.00
+84	My Left Foot: The Story of Christy Brown	1989		103	['Biography', ' Drama']	7.9	['Jim Sheridan']	['Daniel Day-Lewis, Brenda Fricker, Alison Whelan, Kirsten Sheridan']	60406	14.74
+85	Bowling for Columbine	2002	R	120	['Documentary', ' Crime', ' Drama']	8	['Michael Moore']	['Michael Moore, Charlton Heston, Marilyn Manson, Salvador Allende']	134350	21.24
+86	Man on Fire	2004	R	146	['Action', ' Crime', ' Drama']	7.7	['Tony Scott']	['Denzel Washington, Christopher Walken, Dakota Fanning, Radha Mitchell']	305138	77.91
+87	Almost Famous	2000	R	122	['Adventure', ' Comedy', ' Drama']	7.9	['Cameron Crowe']	['Billy Crudup, Patrick Fugit, Kate Hudson, Frances McDormand']	233425	32.53
+88	High Fidelity	2000	R	113	['Comedy', ' Drama', ' Music']	7.5	['Stephen Frears']	['John Cusack, Iben Hjejle, Todd Louiso, Jack Black']	157564	27.28
+89	Django Unchained	2012	A	165	['Drama', ' Western']	8.4	['Quentin Tarantino']	['Jamie Foxx, Christoph Waltz, Leonardo DiCaprio, Kerry Washington']	1193792	162.81
+90	12 Angry Men	1957		96	['Drama']	8.9	['Sidney Lumet']	['Henry Fonda, Lee J. Cobb, Martin Balsam, John Fiedler']	584097	4.36
+91	Memento	2000	R	113	['Mystery', ' Thriller']	8.5	['Christopher Nolan']	['Guy Pearce, Carrie-Anne Moss, Joe Pantoliano, Mark Boone Junior']	1019957	25.54
+92	Rain Man	1988		133	['Drama']	8	['Barry Levinson']	['Dustin Hoffman, Tom Cruise, Valeria Golino, Gerald R. Molen']	437952	178.80
+93	Minority Report	2002	A	145	['Action', ' Crime', ' Mystery']	7.7	['Steven Spielberg']	['Tom Cruise, Colin Farrell, Samantha Morton, Max von Sydow']	465781	132.07
+94	The Lord of the Rings: The Two Towers	2002	PG-13	179	['Adventure', ' Drama', ' Fantasy']	8.7	['Peter Jackson']	['Elijah Wood, Ian McKellen, Viggo Mortensen, Orlando Bloom']	1332142	342.55
+95	Goldfinger	1964	PG	110	['Action', ' Adventure', ' Thriller']	7.7	['Guy Hamilton']	['Sean Connery, Gert Fröbe, Honor Blackman, Shirley Eaton']	157606	51.08
+96	The Social Network	2010	PG-13	120	['Biography', ' Drama']	7.7	['David Fincher']	['Jesse Eisenberg, Andrew Garfield, Justin Timberlake, Rooney Mara']	564039	96.96
+97	American Psycho	2000	R	101	['Crime', ' Drama']	7.6	['Mary Harron']	['Christian Bale, Justin Theroux, Josh Lucas, Bill Sage']	425513	15.07
+98	Men in Black	1997	PG-13	98	['Adventure', ' Comedy', ' Mystery']	7.3	['Barry Sonnenfeld']	"[""Tommy Lee Jones, Will Smith, Linda Fiorentino, Vincent D'Onofrio""]"	471174	250.69
+99	No Country for Old Men	2007	R	122	['Crime', ' Drama', ' Thriller']	8.1	['Ethan Coen, Joel Coen']	['Tommy Lee Jones, Javier Bardem, Josh Brolin, Woody Harrelson']	758411	74.28
+100	Airplane!	1980		88	['Comedy']	7.8	['Jim Abrahams, David Zucker, Jerry Zucker']	['Robert Hays, Julie Hagerty, Leslie Nielsen, Kareem Abdul-Jabbar']	188454	83.40
+901	King Kong	1933		100	['Adventure', ' Horror', ' Sci-Fi']	7.9	['Merian C. Cooper, Ernest B. Schoedsack']	['Fay Wray, Robert Armstrong, Bruce Cabot, Frank Reicher']	73097	10.00
+902	Spring	I 2014		109	['Horror', ' Romance', ' Sci-Fi']	6.7	['Justin Benson, Aaron Moorhead']	['Lou Taylor Pucci, Nadia Hilker, Francesco Carnelutti, Nick Nevern']	20609	0.05
+903	Sicario	2015	A	121	['Action', ' Crime', ' Drama']	7.6	['Denis Villeneuve']	['Emily Blunt, Josh Brolin, Benicio Del Toro, Jon Bernthal']	323629	46.89
+904	Awakenings	1990		121	['Biography', ' Drama']	7.8	['Penny Marshall']	['Robert De Niro, Robin Williams, Julie Kavner, Ruth Nelson']	111015	52.10
+905	Young Adult	2011	R	94	['Comedy', ' Drama']	6.3	['Jason Reitman']	['Charlize Theron, Patrick Wilson, Patton Oswalt, Elizabeth Reaser']	73405	16.31
+906	Blowup	1966		111	['Drama', ' Mystery', ' Thriller']	7.6	['Michelangelo Antonioni']	['David Hemmings, Vanessa Redgrave, Sarah Miles, John Castle']	50223	
+907	The Long Goodbye	1973		112	['Comedy', ' Crime', ' Drama']	7.7	['Robert Altman']	['Elliott Gould, Nina van Pallandt, Sterling Hayden, Mark Rydell']	22164	0.96
+908	Spartacus	1960		197	['Adventure', ' Biography', ' Drama']	7.9	['Stanley Kubrick']	['Kirk Douglas, Laurence Olivier, Jean Simmons, Charles Laughton']	112227	30.00
+909	Ronin	1998	R	122	['Action', ' Adventure', ' Crime']	7.3	['John Frankenheimer']	['Robert De Niro, Jean Reno, Natascha McElhone, Stellan Skarsgård']	160650	41.62
+910	Mad Max	1979		88	['Action', ' Adventure', ' Sci-Fi']	7	['George Miller']	['Mel Gibson, Joanne Samuel, Hugh Keays-Byrne, Steve Bisley']	175252	8.75
+911	Touch of Evil	1958	PG-13	95	['Crime', ' Drama', ' Film-Noir']	8	['Orson Welles']	['Charlton Heston, Orson Welles, Janet Leigh, Joseph Calleia']	92304	2.24
+912	Nymphomaniac: Vol. I	2013		117	['Drama']	6.9	['Lars von Trier']	['Charlotte Gainsbourg, Stellan Skarsgård, Stacy Martin, Shia LaBeouf']	105513	0.79
+913	Ong-bak	2003	R	108	['Action', ' Crime', ' Thriller']	7.2	['Prachya Pinkaew']	['Tony Jaa, Petchtai Wongkamlao, Pumwaree Yodkamol, Suchao Pongwilai']	67161	4.56
+914	Manhattan Melodrama	1934		93	['Crime', ' Drama', ' Romance']	7.2	['W.S. Van Dyke, George Cukor']	['Clark Gable, William Powell, Myrna Loy, Leo Carrillo']	3156	
+915	Boyhood	I 2014	A	165	['Drama']	7.9	['Richard Linklater']	['Ellar Coltrane, Patricia Arquette, Ethan Hawke, Elijah Smith']	313554	25.38
+916	Terms of Endearment	1983		132	['Comedy', ' Drama']	7.4	['James L. Brooks']	['Shirley MacLaine, Debra Winger, Jack Nicholson, Danny DeVito']	48952	108.42
+917	The Master	2012	A	138	['Drama']	7.1	['Paul Thomas Anderson']	['Philip Seymour Hoffman, Joaquin Phoenix, Amy Adams, Jesse Plemons']	129575	16.38
+918	How to Train Your Dragon 2	2014	PG	102	['Animation', ' Action', ' Adventure']	7.8	['Dean DeBlois']	['Jay Baruchel, Cate Blanchett, Gerard Butler, Craig Ferguson']	272578	177.00
+919	What We Do in the Shadows	2014	R	86	['Comedy', ' Horror']	7.7	['Jemaine Clement, Taika Waititi']	['Jemaine Clement, Taika Waititi, Cori Gonzalez-Macuer, Jonny Brugh']	121683	3.33
+920	Roger & Me	1989		91	['Documentary']	7.5	['Michael Moore']	['Michael Moore, Roger B. Smith, Rhonda Britton, Fred Ross']	24682	6.71
+921	Role Models	2008	R	99	['Comedy']	6.8	['David Wain']	['Paul Rudd, Seann William Scott, Elizabeth Banks, Christopher Mintz-Plasse']	210744	67.29
+922	Wayne's World 2	1993	PG-13	95	['Comedy', ' Music']	6.2	['Stephen Surjik']	['Mike Myers, Dana Carvey, Christopher Walken, Tia Carrere']	71098	48.20
+923	The Warriors	1979	R	92	['Action', ' Crime', ' Thriller']	7.7	['Walter Hill']	['Michael Beck, James Remar, Dorsey Wright, Brian Tyler']	84789	22.49
+924	The Castle	1997	R	85	['Comedy', ' Drama']	7.7	['Rob Sitch']	['Michael Caton, Anne Tenney, Stephen Curry, Anthony Simcoe']	13668	0.86
+925	Home Alone 2: Lost in New York	1992	PG	120	['Adventure', ' Comedy', ' Family']	6.7	['Chris Columbus']	"[""Macaulay Culkin, Joe Pesci, Daniel Stern, Catherine O'Hara""]"	261405	173.59
+926	Final Destination 2	2003	R	90	['Horror']	6.2	['David R. Ellis']	['A.J. Cook, Ali Larter, Tony Todd, Michael Landes']	139018	46.96
+927	Mean Streets	1973	R	112	['Crime', ' Drama', ' Thriller']	7.3	['Martin Scorsese']	['Robert De Niro, Harvey Keitel, David Proval, Amy Robinson']	83439	3.13
+928	The Full Monty	1997	R	91	['Comedy', ' Drama']	7.2	['Peter Cattaneo']	['Robert Carlyle, Tom Wilkinson, Mark Addy, Wim Snape']	92059	45.95
+929	Fast Times at Ridgemont High	1982		90	['Comedy', ' Drama']	7.2	['Amy Heckerling']	['Sean Penn, Jennifer Jason Leigh, Judge Reinhold, Robert Romanus']	84302	27.09
+930	Black Dynamite	2009	R	84	['Action', ' Comedy']	7.4	['Scott Sanders']	['Michael Jai White, Arsenio Hall, Tommy Davidson, Phyllis Applegate']	42552	0.23
+931	Everything Is Illuminated	2005	PG-13	106	['Comedy', ' Drama']	7.5	['Liev Schreiber']	['Elijah Wood, Eugene Hutz, Boris Lyoskin, Jonathan Safran Foer']	54694	1.71
+932	No Way Out	1987		114	['Action', ' Crime', ' Drama']	7.1	['Roger Donaldson']	['Kevin Costner, Gene Hackman, Sean Young, Will Patton']	31647	35.51
+933	The Darjeeling Limited	2007	R	91	['Adventure', ' Comedy', ' Drama']	7.2	['Wes Anderson']	['Owen Wilson, Adrien Brody, Jason Schwartzman, Amara Karan']	164005	11.90
+934	Star Trek Into Darkness	2013	UA	132	['Action', ' Adventure', ' Sci-Fi']	7.7	['J.J. Abrams']	['Chris Pine, Zachary Quinto, Zoe Saldana, Benedict Cumberbatch']	443327	228.78
+935	State of Grace	1990		134	['Action', ' Crime', ' Drama']	7.3	['Phil Joanou, Michael Lee Baron']	['Sean Penn, Ed Harris, Gary Oldman, Robin Wright']	19221	1.91
+936	The Hunger Games: Catching Fire	2013	UA	146	['Action', ' Adventure', ' Sci-Fi']	7.5	['Francis Lawrence']	['Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth, Philip Seymour Hoffman']	570756	424.67
+937	Miracle on 34th Street	1947		96	['Comedy', ' Drama', ' Family']	7.9	['George Seaton']	"[""Edmund Gwenn, Maureen O'Hara, John Payne, Gene Lockhart""]"	36740	2.65
+938	Big Fish	2003	PG-13	125	['Adventure', ' Drama', ' Fantasy']	8	['Tim Burton']	['Ewan McGregor, Albert Finney, Billy Crudup, Jessica Lange']	387650	66.26
+939	Analyze This	1999	R	103	['Comedy', ' Crime']	6.7	['Harold Ramis']	['Robert De Niro, Billy Crystal, Lisa Kudrow, Chazz Palminteri']	137157	106.89
+940	Ben-Hur	1959		212	['Adventure', ' Drama', ' History']	8.1	['William Wyler']	['Charlton Heston, Jack Hawkins, Stephen Boyd, Haya Harareet']	199502	74.70
+941	Top Secret!	1984		90	['Comedy', ' Music']	7.2	['Jim Abrahams, David Zucker, Jerry Zucker']	['Val Kilmer, Lucy Gutteridge, Peter Cushing, Jeremy Kemp']	54098	20.50
+942	Fast Five	2011	A	130	['Action', ' Crime', ' Thriller']	7.3	['Justin Lin']	['Vin Diesel, Paul Walker, Dwayne Johnson, Jordana Brewster']	327296	209.84
+943	An Officer and a Gentleman	1982		124	['Drama', ' Romance']	7	['Taylor Hackford']	['Richard Gere, Debra Winger, David Keith, Robert Loggia']	44020	129.80
+944	Mystic River	2003	A	138	['Crime', ' Drama', ' Mystery']	8	['Clint Eastwood']	['Sean Penn, Tim Robbins, Kevin Bacon, Emmy Rossum']	385769	90.14
+945	Shut Up and Play the Hits	2012		108	['Documentary', ' Music']	7.4	['Will Lovelace, Dylan Southern']	['James Murphy, Chuck Klosterman, Keith Wood, Nancy Whang']	2451	0.51
+946	Bobby Fischer Against the World	2011		93	['Documentary', ' Biography', ' History']	7.4	['Liz Garbus']	['Bobby Fischer, David Edmonds, Anthony Saidy, Susan Polgar']	6349	
+947	Rocky II	1979		119	['Drama', ' Sport']	7.2	['Sylvester Stallone']	['Sylvester Stallone, Talia Shire, Burt Young, Carl Weathers']	170686	6.39
+948	Time Bandits	1981		116	['Adventure', ' Comedy', ' Fantasy']	7	['Terry Gilliam']	['Sean Connery, Shelley Duvall, John Cleese, Katherine Helmond']	52933	42.37
+949	Jungle Fever	1991	R	132	['Drama', ' Romance']	6.5	['Spike Lee']	['Wesley Snipes, Annabella Sciorra, Spike Lee, Ossie Davis']	15418	32.48
+950	Down Terrace	2009	R	93	['Crime', ' Drama']	6.5	['Ben Wheatley']	['Robin Hill, Robert Hill, Julia Deakin, David Schaal']	3204	0.01
+951	Play It Again, Sam	1972		85	['Comedy', ' Romance']	7.7	['Herbert Ross']	['Woody Allen, Diane Keaton, Tony Roberts, Jerry Lacy']	22811	
+952	Bill & Ted's Bogus Journey	1991		93	['Adventure', ' Comedy', ' Fantasy']	6.2	['Peter Hewitt']	['Keanu Reeves, Alex Winter, William Sadler, Joss Ackland']	56947	38.04
+953	Napoleon Dynamite	2004	PG	96	['Comedy']	6.9	['Jared Hess']	['Jon Heder, Efren Ramirez, Jon Gries, Aaron Ruell']	182596	44.54
+954	We Need to Talk About Kevin	2011	R	112	['Drama', ' Mystery', ' Thriller']	7.5	['Lynne Ramsay']	['Tilda Swinton, John C. Reilly, Ezra Miller, Jasper Newell']	122093	1.74
+955	August: Osage County	2013	A	121	['Drama']	7.2	['John Wells']	['Meryl Streep, Dermot Mulroney, Julia Roberts, Juliette Lewis']	78902	37.74
+956	The Wedding Singer	1998	PG-13	100	['Comedy', ' Music', ' Romance']	6.8	['Frank Coraci']	['Adam Sandler, Drew Barrymore, Christine Taylor, Allen Covert']	123948	80.25
+957	The Naked Gun 2½: The Smell of Fear	1991		85	['Comedy', ' Crime']	6.9	['David Zucker']	['Leslie Nielsen, Priscilla Presley, George Kennedy, O.J. Simpson']	95745	86.93
+958	Midnight in Paris	2011	PG-13	94	['Comedy', ' Fantasy', ' Romance']	7.7	['Woody Allen']	['Owen Wilson, Rachel McAdams, Kathy Bates, Kurt Fuller']	353386	56.82
+959	Philadelphia	1993	PG-13	125	['Drama']	7.7	['Jonathan Demme']	['Tom Hanks, Denzel Washington, Roberta Maxwell, Buzz Kilman']	204853	77.32
+960	Beowulf	2007	PG-13	115	['Animation', ' Action', ' Adventure']	6.2	['Robert Zemeckis']	['Ray Winstone, Crispin Glover, Angelina Jolie, Robin Wright']	154438	82.16
+961	Deep Cover	1992	R	107	['Action', ' Crime', ' Thriller']	6.9	['Bill Duke']	['Laurence Fishburne, Jeff Goldblum, Lira Angel, René Assa']	7873	16.64
+962	Runaway Jury	2003	PG-13	127	['Crime', ' Drama', ' Thriller']	7.1	['Gary Fleder']	['John Cusack, Rachel Weisz, Gene Hackman, Dustin Hoffman']	85152	49.44
+963	Save the Tiger	1973		100	['Drama']	6.9	['John G. Avildsen']	['Jack Lemmon, Jack Gilford, Laurie Heineman, Norman Burton']	4148	
+964	Mississippi Burning	1988		128	['Crime', ' Drama', ' History']	7.8	['Alan Parker']	['Gene Hackman, Willem Dafoe, Frances McDormand, Brad Dourif']	78093	34.60
+965	Goon	2011	R	92	['Comedy', ' Sport']	6.8	['Michael Dowse']	['Seann William Scott, Jay Baruchel, Alison Pill, Eugene Levy']	79410	4.17
+966	Final Destination	2000	R	98	['Horror', ' Thriller']	6.7	['James Wong']	['Devon Sawa, Ali Larter, Kerr Smith, Kristen Cloke']	209238	53.33
+967	Fletch	1985		98	['Comedy', ' Crime', ' Mystery']	6.9	['Michael Ritchie']	['Chevy Chase, Joe Don Baker, Dana Wheeler-Nicholson, Richard Libertini']	43448	50.61
+968	The Lion King	1994	U	88	['Animation', ' Adventure', ' Drama']	8.5	['Roger Allers, Rob Minkoff']	['Matthew Broderick, Jeremy Irons, James Earl Jones, Whoopi Goldberg']	821362	312.90
+969	Sleeper	1973		89	['Comedy', ' Sci-Fi']	7.3	['Woody Allen']	['Woody Allen, Diane Keaton, John Beck, Mary Gregory']	37462	
+970	Shichinin no samurai	1954		207	['Adventure', ' Drama']	8.7	['Akira Kurosawa']	['Toshirô Mifune, Takashi Shimura, Keiko Tsushima, Yukiko Shimazaki']	279507	0.27
+971	Amy	III 2015	R	128	['Documentary', ' Biography', ' Music']	7.8	['Asif Kapadia']	['Amy Winehouse, Mitch Winehouse, Mark Ronson, Russell Brand']	43360	8.41
+972	Crazy, Stupid, Love.	2011	A	118	['Comedy', ' Drama', ' Romance']	7.4	['Glenn Ficarra, John Requa']	['Steve Carell, Ryan Gosling, Julianne Moore, Emma Stone']	433877	84.35
+973	The Lobster	2015	R	119	['Comedy', ' Drama', ' Romance']	7.1	['Yorgos Lanthimos']	['Colin Farrell, Rachel Weisz, Jessica Barden, Olivia Colman']	178462	8.70
+974	Commando	1985		90	['Action', ' Adventure', ' Thriller']	6.7	['Mark L. Lester']	['Arnold Schwarzenegger, Rae Dawn Chong, Dan Hedaya, Vernon Wells']	132427	35.10
+975	Ted	2012	A	106	['Comedy', ' Fantasy']	6.9	['Seth MacFarlane']	['Mark Wahlberg, Mila Kunis, Seth MacFarlane, Joel McHale']	534334	218.82
+976	The 40 Year Old Virgin	2005	R	116	['Comedy', ' Romance']	7.1	['Judd Apatow']	['Steve Carell, Catherine Keener, Paul Rudd, Romany Malco']	360683	109.45
+977	Mary Poppins	1964	G	139	['Comedy', ' Family', ' Fantasy']	7.8	['Robert Stevenson']	['Julie Andrews, Dick Van Dyke, David Tomlinson, Glynis Johns']	140031	102.27
+978	The Sound of Music	1965		172	['Biography', ' Drama', ' Family']	8	['Robert Wise']	['Julie Andrews, Christopher Plummer, Eleanor Parker, Richard Haydn']	180780	163.21
+979	Arrival	II 2016	UA	116	['Drama', ' Mystery', ' Sci-Fi']	7.9	['Denis Villeneuve']	['Amy Adams, Jeremy Renner, Forest Whitaker, Michael Stuhlbarg']	504256	100.55
+980	Manchester by the Sea	2016	R	137	['Drama']	7.8	['Kenneth Lonergan']	['Casey Affleck, Michelle Williams, Kyle Chandler, Lucas Hedges']	211015	47.70
+981	Blade Runner 2049	2017	R	164	['Drama', ' Mystery', ' Sci-Fi']	8	['Denis Villeneuve']	['Harrison Ford, Ryan Gosling, Ana de Armas, Dave Bautista']	368111	92.05
+982	Baby Driver	2017	R	112	['Action', ' Crime', ' Drama']	7.6	['Edgar Wright']	['Ansel Elgort, Jon Bernthal, Jon Hamm, Eiza González']	352273	107.83
+983	Thor: Ragnarok	2017	UA	130	['Action', ' Adventure', ' Comedy']	7.9	['Taika Waititi']	['Chris Hemsworth, Tom Hiddleston, Cate Blanchett, Mark Ruffalo']	448614	315.06
+984	Detroit	2017	R	143	['Crime', ' Drama', ' History']	7.4	['Kathryn Bigelow']	['John Boyega, Anthony Mackie, Algee Smith, Jacob Latimore']	39153	16.79
+985	Guardians of the Galaxy Vol. 2	2017	UA	136	['Action', ' Adventure', ' Comedy']	7.7	['James Gunn']	['Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel']	457868	389.81
+986	The Ballad of Buster Scruggs	2018	R	133	['Comedy', ' Drama', ' Musical']	7.3	['Ethan Coen, Joel Coen']	['Tim Blake Nelson, Willie Watson, Clancy Brown, Danny McCarthy']	80574	
+987	The Post	2017	UA	116	['Biography', ' Drama', ' History']	7.2	['Steven Spielberg']	['Meryl Streep, Tom Hanks, Sarah Paulson, Bob Odenkirk']	104958	81.90
+988	Hellboy II: The Golden Army	2008	PG-13	120	['Action', ' Adventure', ' Fantasy']	7	['Guillermo del Toro']	['Ron Perlman, Selma Blair, Doug Jones, John Alexander']	237456	75.75
+989	Dear Zachary: A Letter to a Son About His Father	2008		95	['Documentary', ' Biography', ' Crime']	8.6	['Kurt Kuenne']	['Kurt Kuenne, Andrew Bagby, David Bagby, Kathleen Bagby']	29011	
+990	The Edge of Seventeen	2016	R	104	['Comedy', ' Drama']	7.4	['Kelly Fremon Craig']	['Hailee Steinfeld, Haley Lu Richardson, Blake Jenner, Kyra Sedgwick']	85099	14.26
+991	13th	2016		100	['Documentary', ' Crime', ' History']	8.2	['Ava DuVernay']	['Melina Abdullah, Michelle Alexander, Cory Booker, Dolores Canales']	19021	
+992	Molly's Game	2017	R	140	['Biography', ' Crime', ' Drama']	7.5	['Aaron Sorkin']	['Jessica Chastain, Idris Elba, Kevin Costner, Michael Cera']	100766	28.78
+993	Free Fire	2016	R	91	['Action', ' Comedy', ' Crime']	6.4	['Ben Wheatley']	['Sharlto Copley, Brie Larson, Armie Hammer, Cillian Murphy']	35234	1.80
+994	Deadpool 2	2018	R	119	['Action', ' Adventure', ' Comedy']	7.8	['David Leitch']	['Ryan Reynolds, Josh Brolin, Morena Baccarin, Julian Dennison']	367471	324.59
+995	A Star Is Born	2018	R	136	['Drama', ' Music', ' Romance']	7.8	['Bradley Cooper']	['Lady Gaga, Bradley Cooper, Sam Elliott, Greg Grunberg']	226043	215.27
+996	Blade II	2002	R	117	['Action', ' Horror', ' Sci-Fi']	6.7	['Guillermo del Toro']	['Wesley Snipes, Kris Kristofferson, Ron Perlman, Leonor Varela']	184739	82.35
+997	Falling Down	1993	R	113	['Crime', ' Drama', ' Thriller']	7.6	['Joel Schumacher']	['Michael Douglas, Robert Duvall, Barbara Hershey, Rachel Ticotin']	154562	40.90
+998	Eyes Wide Shut	1999	R	159	['Drama', ' Mystery', ' Thriller']	7.4	['Stanley Kubrick']	['Tom Cruise, Nicole Kidman, Todd Field, Sydney Pollack']	269864	55.69
+999	The Lost Boys	1987		97	['Comedy', ' Horror']	7.3	['Joel Schumacher']	['Jason Patric, Corey Haim, Dianne Wiest, Barnard Hughes']	110286	32.22
+1,000	Assault on Precinct 13	1976		91	['Action', ' Crime', ' Thriller']	7.4	['John Carpenter']	['Austin Stoker, Darwin Joston, Laurie Zimmer, Martin West']	38815	
+101	There Will Be Blood	2007	R	158	['Drama']	8.2	['Paul Thomas Anderson']	['Daniel Day-Lewis, Paul Dano, Ciarán Hinds, Martin Stringer']	458524	40.22
+102	Inception	2010	UA	148	['Action', ' Adventure', ' Sci-Fi']	8.8	['Christopher Nolan']	['Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Ken Watanabe']	1813835	292.58
+103	JFK	1991	R	189	['Drama', ' History', ' Thriller']	8	['Oliver Stone']	['Kevin Costner, Gary Oldman, Jack Lemmon, Walter Matthau']	129935	70.41
+104	King Kong	2005	UA	187	['Action', ' Adventure', ' Drama']	7.2	['Peter Jackson']	['Naomi Watts, Jack Black, Adrien Brody, Thomas Kretschmann']	363549	218.08
+105	The Terminator	1984		107	['Action', ' Sci-Fi']	8	['James Cameron']	['Arnold Schwarzenegger, Linda Hamilton, Michael Biehn, Paul Winfield']	721362	38.40
+106	The Lord of the Rings: The Fellowship of the Ring	2001	PG-13	178	['Adventure', ' Drama', ' Fantasy']	8.8	['Peter Jackson']	['Elijah Wood, Ian McKellen, Orlando Bloom, Sean Bean']	1489567	315.54
+107	Kill Bill: Vol. 1	2003	R	111	['Action', ' Crime', ' Thriller']	8.1	['Quentin Tarantino']	['Uma Thurman, David Carradine, Daryl Hannah, Michael Madsen']	895102	70.10
+108	The Silence of the Lambs	1991	A	118	['Crime', ' Drama', ' Thriller']	8.6	['Jonathan Demme']	['Jodie Foster, Anthony Hopkins, Lawrence A. Bonney, Kasi Lemmons']	1116408	130.74
+109	The Color of Money	1986		119	['Drama', ' Sport']	7	['Martin Scorsese']	['Paul Newman, Tom Cruise, Mary Elizabeth Mastrantonio, Helen Shaver']	67323	52.29
+110	This Is England	2006		101	['Crime', ' Drama']	7.7	['Shane Meadows']	['Thomas Turgoose, Stephen Graham, Jo Hartley, Andrew Shim']	109108	0.33
+111	It's a Wonderful Life	1946	PG	130	['Drama', ' Family', ' Fantasy']	8.6	['Frank Capra']	['James Stewart, Donna Reed, Lionel Barrymore, Thomas Mitchell']	352181	
+112	Children of Men	2006	A	109	['Drama', ' Sci-Fi', ' Thriller']	7.9	['Alfonso Cuarón']	['Julianne Moore, Clive Owen, Chiwetel Ejiofor, Michael Caine']	426641	35.55
+113	In the Name of the Father	1993	R	133	['Biography', ' Drama']	8.1	['Jim Sheridan']	['Daniel Day-Lewis, Pete Postlethwaite, Alison Crosbie, Philip King']	139901	25.01
+114	American History X	1998	A	119	['Drama']	8.5	['Tony Kaye']	"[""Edward Norton, Edward Furlong, Beverly D'Angelo, Jennifer Lien""]"	940421	6.72
+115	Twelve Monkeys	1995	A	129	['Mystery', ' Sci-Fi', ' Thriller']	8	['Terry Gilliam']	['Bruce Willis, Madeleine Stowe, Brad Pitt, Joseph Melito']	536073	57.14
+116	Dog Day Afternoon	1975		125	['Biography', ' Crime', ' Drama']	8	['Sidney Lumet']	['Al Pacino, John Cazale, Penelope Allen, Sully Boyar']	216269	50.00
+117	The Untouchables	1987		119	['Crime', ' Drama', ' Thriller']	7.9	['Brian De Palma']	['Kevin Costner, Sean Connery, Robert De Niro, Charles Martin Smith']	253514	76.27
+118	Close Encounters of the Third Kind	1977	U	138	['Drama', ' Sci-Fi']	7.7	['Steven Spielberg']	['Richard Dreyfuss, François Truffaut, Teri Garr, Melinda Dillon']	165863	132.09
+119	Il buono, il brutto, il cattivo	1966		161	['Western']	8.9	['Sergio Leone']	['Clint Eastwood, Eli Wallach, Lee Van Cleef, Aldo Giuffrè']	614060	6.10
+120	Glengarry Glen Ross	1992	R	100	['Crime', ' Drama', ' Mystery']	7.8	['James Foley']	['Al Pacino, Jack Lemmon, Alec Baldwin, Alan Arkin']	88077	10.73
+121	The Wolf of Wall Street	2013	A	180	['Biography', ' Crime', ' Drama']	8.2	['Martin Scorsese']	['Leonardo DiCaprio, Jonah Hill, Margot Robbie, Matthew McConaughey']	1019505	116.90
+122	Road to Perdition	2002	A	117	['Crime', ' Drama', ' Thriller']	7.7	['Sam Mendes']	['Tom Hanks, Tyler Hoechlin, Rob Maxey, Liam Aiken']	226841	104.45
+123	Up	2009	PG	96	['Animation', ' Adventure', ' Comedy']	8.3	['Pete Docter, Bob Peterson']	['Edward Asner, Jordan Nagai, John Ratzenberger, Christopher Plummer']	833448	293.00
+124	Natural Born Killers	1994	R	118	['Crime', ' Drama']	7.3	['Oliver Stone']	['Woody Harrelson, Juliette Lewis, Tom Sizemore, Rodney Dangerfield']	198499	50.28
+125	Out of Sight	1998	R	123	['Crime', ' Drama', ' Romance']	7	['Steven Soderbergh']	['George Clooney, Jennifer Lopez, Ving Rhames, Steve Zahn']	79321	37.56
+126	The Bourne Identity	2002	UA	119	['Action', ' Mystery', ' Thriller']	7.9	['Doug Liman']	['Franka Potente, Matt Damon, Chris Cooper, Clive Owen']	471732	121.66
+127	An American Werewolf in London	1981		97	['Comedy', ' Horror']	7.6	['John Landis']	['David Naughton, Jenny Agutter, Joe Belcher, Griffin Dunne']	80778	30.57
+128	United 93	2006	R	111	['Drama', ' History', ' Thriller']	7.6	['Paul Greengrass']	['David Alan Basche, Olivia Thirlby, Liza Colón-Zayas, J.J. Johnson']	92373	31.57
+129	Full Metal Jacket	1987		116	['Drama', ' War']	8.3	['Stanley Kubrick']	"[""Matthew Modine, R. Lee Ermey, Vincent D'Onofrio, Adam Baldwin""]"	601258	46.36
+130	The General	1998	R	124	['Biography', ' Crime', ' Drama']	7.3	['John Boorman']	['Brendan Gleeson, Adrian Dunbar, Sean McGinley, Maria Doyle Kennedy']	7511	1.21
+131	The Deer Hunter	1978	A	183	['Drama', ' War']	8.1	['Michael Cimino']	['Robert De Niro, Christopher Walken, John Cazale, John Savage']	281822	48.98
+132	Interview with the Vampire: The Vampire Chronicles	1994	R	123	['Drama', ' Horror']	7.6	['Neil Jordan']	['Brad Pitt, Tom Cruise, Antonio Banderas, Kirsten Dunst']	272076	105.26
+133	Things to Do in Denver When You're Dead	1995	R	115	['Crime', ' Drama']	6.8	['Gary Fleder']	['Andy Garcia, Christopher Walken, Christopher Lloyd, William Forsythe']	24557	0.53
+134	Little Miss Sunshine	2006	R	101	['Comedy', ' Drama']	7.8	['Jonathan Dayton, Valerie Faris']	['Steve Carell, Toni Collette, Greg Kinnear, Abigail Breslin']	406583	59.89
+135	Carlito's Way	1993	R	144	['Crime', ' Drama', ' Thriller']	7.9	['Brian De Palma']	['Al Pacino, Sean Penn, Penelope Ann Miller, John Leguizamo']	184258	36.95
+136	Casino Royale	2006	PG-13	144	['Action', ' Adventure', ' Thriller']	8	['Martin Campbell']	['Daniel Craig, Eva Green, Judi Dench, Jeffrey Wright']	535539	167.45
+137	Dirty Harry	1971		102	['Action', ' Crime', ' Thriller']	7.8	['Don Siegel']	['Clint Eastwood, Andrew Robinson, Harry Guardino, Reni Santoni']	131000	
+138	Gremlins	1984		106	['Comedy', ' Fantasy', ' Horror']	7.3	['Joe Dante']	['Zach Galligan, Phoebe Cates, Hoyt Axton, John Louie']	175713	148.17
+139	Butch Cassidy and the Sundance Kid	1969	PG	110	['Biography', ' Crime', ' Drama']	8.1	['George Roy Hill']	['Paul Newman, Robert Redford, Katharine Ross, Strother Martin']	185472	102.31
+140	Ocean's Eleven	2001	UA	116	['Crime', ' Thriller']	7.8	['Steven Soderbergh']	['George Clooney, Brad Pitt, Julia Roberts, Matt Damon']	470131	183.42
+141	Amores perros	2000	R	154	['Drama', ' Thriller']	8.1	['Alejandro G. Iñárritu']	['Emilio Echevarría, Gael García Bernal, Goya Toledo, Álvaro Guerrero']	205455	5.38
+142	Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan	2006	R	84	['Comedy']	7.3	['Larry Charles']	['Sacha Baron Cohen, Ken Davitian, Luenell, Chester']	330089	128.51
+143	Austin Powers: The Spy Who Shagged Me	1999	PG-13	95	['Action', ' Adventure', ' Comedy']	6.6	['Jay Roach']	['Mike Myers, Heather Graham, Michael York, Robert Wagner']	202254	206.04
+144	Batman Returns	1992	PG-13	126	['Action', ' Crime', ' Fantasy']	7	['Tim Burton']	['Michael Keaton, Danny DeVito, Michelle Pfeiffer, Christopher Walken']	250538	162.83
+145	The Virgin Suicides	1999	R	97	['Drama', ' Romance']	7.2	['Sofia Coppola']	['Kirsten Dunst, Josh Hartnett, James Woods, Kathleen Turner']	133417	4.86
+146	28 Days Later...	2002	A	113	['Drama', ' Horror', ' Sci-Fi']	7.6	['Danny Boyle']	['Cillian Murphy, Naomie Harris, Christopher Eccleston, Alex Palmer']	342919	45.06
+147	The Life Aquatic with Steve Zissou	2004	R	119	['Action', ' Adventure', ' Comedy']	7.3	['Wes Anderson']	['Bill Murray, Owen Wilson, Anjelica Huston, Cate Blanchett']	164845	24.01
+148	Requiem for a Dream	2000	R	102	['Drama']	8.3	['Darren Aronofsky']	['Ellen Burstyn, Jared Leto, Jennifer Connelly, Marlon Wayans']	692296	3.64
+149	The Italian Job	1969		99	['Action', ' Comedy', ' Crime']	7.3	['Peter Collinson']	['Michael Caine, Noël Coward, Benny Hill, Raf Vallone']	36939	
+150	Get Carter	1971		112	['Crime', ' Thriller']	7.5	['Mike Hodges']	['Michael Caine, Ian Hendry, Britt Ekland, John Osborne']	25835	
+151	The Rules of Attraction	2002	Not Rated	110	['Comedy', ' Drama', ' Romance']	6.7	['Roger Avary']	['James Van Der Beek, Ian Somerhalder, Shannyn Sossamon, Jessica Biel']	47459	6.53
+152	Zodiac	2007	UA	157	['Crime', ' Drama', ' Mystery']	7.7	['David Fincher']	['Jake Gyllenhaal, Robert Downey Jr., Mark Ruffalo, Anthony Edwards']	385692	33.08
+153	Hot Fuzz	2007	R	121	['Action', ' Comedy', ' Mystery']	7.9	['Edgar Wright']	['Simon Pegg, Nick Frost, Martin Freeman, Bill Nighy']	421053	23.64
+154	O Brother, Where Art Thou?	2000	PG-13	107	['Adventure', ' Comedy', ' Crime']	7.8	['Joel Coen, Ethan Coen']	['George Clooney, John Turturro, Tim Blake Nelson, John Goodman']	262599	45.51
+155	Braindead	1992	R	104	['Comedy', ' Horror']	7.5	['Peter Jackson']	['Timothy Balme, Diana Peñalver, Elizabeth Moody, Ian Watkin']	86067	0.24
+156	Dumb and Dumber	1994		107	['Comedy']	7.3	['Peter Farrelly, Bobby Farrelly']	['Jim Carrey, Jeff Daniels, Lauren Holly, Mike Starr']	326799	127.18
+157	The Jungle Book	1967	G	78	['Animation', ' Adventure', ' Family']	7.6	['Wolfgang Reitherman']	['Phil Harris, Sebastian Cabot, Louis Prima, Bruce Reitherman']	149154	141.84
+158	The Bourne Ultimatum	2007	UA	115	['Action', ' Mystery', ' Thriller']	8	['Paul Greengrass']	['Matt Damon, Edgar Ramírez, Joan Allen, Julia Stiles']	576968	227.47
+159	Shallow Grave	1994	R	89	['Crime', ' Thriller']	7.3	['Danny Boyle']	['Kerry Fox, Christopher Eccleston, Ewan McGregor, Ken Stott']	52469	2.88
+160	From Dusk Till Dawn	1996	R	108	['Action', ' Crime', ' Horror']	7.2	['Robert Rodriguez']	['Harvey Keitel, George Clooney, Juliette Lewis, Quentin Tarantino']	258108	25.75
+161	Gone with the Wind	1939		238	['Drama', ' History', ' Romance']	8.2	['Victor Fleming, George Cukor, Sam Wood']	"[""Clark Gable, Vivien Leigh, Thomas Mitchell, Barbara O'Neil""]"	261789	198.68
+162	American Pie	1999	R	95	['Comedy']	7	['Paul Weitz, Chris Weitz']	['Jason Biggs, Chris Klein, Thomas Ian Nicholas, Jennifer Coolidge']	350819	102.56
+163	Slumdog Millionaire	2008	R	120	['Drama', ' Romance']	8	['Danny Boyle, Loveleen Tandan']	['Dev Patel, Freida Pinto, Saurabh Shukla, Anil Kapoor']	741306	141.32
+164	On the Waterfront	1954		108	['Crime', ' Drama', ' Thriller']	8.2	['Elia Kazan']	['Marlon Brando, Karl Malden, Lee J. Cobb, Rod Steiger']	127482	9.60
+165	Snatch	2000	R	104	['Comedy', ' Crime']	8.3	['Guy Ritchie']	['Jason Statham, Brad Pitt, Benicio Del Toro, Dennis Farina']	710638	30.33
+166	The Naked Gun: From the Files of Police Squad!	1988		85	['Comedy', ' Crime']	7.6	['David Zucker']	['Leslie Nielsen, Priscilla Presley, O.J. Simpson, Ricardo Montalban']	135199	78.04
+167	Animal House	1978		109	['Comedy']	7.6	['John Landis']	['John Belushi, Karen Allen, Tom Hulce, Stephen Furst']	104277	0.20
+168	Three Kings	1999	R	114	['Action', ' Adventure', ' Comedy']	7.1	['David O. Russell']	['George Clooney, Mark Wahlberg, Ice Cube, Spike Jonze']	151912	60.65
+169	In Bruges	2008	R	107	['Comedy', ' Crime', ' Drama']	7.9	['Martin McDonagh']	['Colin Farrell, Brendan Gleeson, Ciarán Hinds, Elizabeth Berrington']	358598	7.76
+170	Toy Story 3	2010	U	103	['Animation', ' Adventure', ' Comedy']	8.3	['Lee Unkrich']	['Tom Hanks, Tim Allen, Joan Cusack, Ned Beatty']	672033	415.00
+171	Cloverfield	2008	PG-13	85	['Action', ' Horror', ' Sci-Fi']	7	['Matt Reeves']	['Mike Vogel, Jessica Lucas, Lizzy Caplan, T.J. Miller']	348430	80.05
+172	Dawn of the Dead	1978	A	127	['Horror', ' Thriller']	7.9	['George A. Romero']	['David Emge, Ken Foree, Scott H. Reiniger, Gaylen Ross']	102667	5.10
+173	Quiz Show	1994	PG-13	133	['Biography', ' Drama', ' History']	7.5	['Robert Redford']	['Ralph Fiennes, John Turturro, Rob Morrow, Paul Scofield']	60401	24.82
+174	Dalkomhan insaeng	2005		120	['Action', ' Drama']	7.6	['Jee-woon Kim']	['Byung-Hun Lee, Min-a Shin, Yeong-cheol Kim, Jung-min Hwang']	31270	
+175	The Sixth Sense	1999	PG-13	107	['Drama', ' Mystery', ' Thriller']	8.1	['M. Night Shyamalan']	['Bruce Willis, Haley Joel Osment, Toni Collette, Olivia Williams']	836078	293.51
+176	The Long Good Friday	1980		114	['Crime', ' Drama', ' Mystery']	7.7	['John Mackenzie']	['Bob Hoskins, Helen Mirren, Paul Freeman, Leo Dolan']	16690	
+177	Juno	2007	PG-13	96	['Comedy', ' Drama']	7.5	['Jason Reitman']	['Ellen Page, Michael Cera, Jennifer Garner, Jason Bateman']	463041	143.50
+178	Planet of the Apes	1968		112	['Adventure', ' Sci-Fi']	8	['Franklin J. Schaffner']	['Charlton Heston, Roddy McDowall, Kim Hunter, Maurice Evans']	155015	33.40
+179	Kiss Kiss Bang Bang	2005	R	103	['Action', ' Comedy', ' Crime']	7.6	['Shane Black']	['Robert Downey Jr., Val Kilmer, Michelle Monaghan, Corbin Bernsen']	201044	4.24
+180	Jackie Brown	1997	R	154	['Crime', ' Drama', ' Thriller']	7.5	['Quentin Tarantino']	['Pam Grier, Samuel L. Jackson, Robert Forster, Bridget Fonda']	278214	39.67
+181	Sideways	2004	R	127	['Comedy', ' Drama', ' Romance']	7.5	['Alexander Payne']	['Paul Giamatti, Thomas Haden Church, Virginia Madsen, Sandra Oh']	168736	71.50
+182	Edward Scissorhands	1990	U	105	['Drama', ' Fantasy', ' Romance']	7.9	['Tim Burton']	['Johnny Depp, Winona Ryder, Dianne Wiest, Anthony Michael Hall']	411680	56.36
+183	The Thin Red Line	1998	R	170	['Drama', ' War']	7.6	['Terrence Malick']	['Jim Caviezel, Sean Penn, Nick Nolte, Kirk Acevedo']	159391	36.40
+184	Hotel Rwanda	2004	PG-13	121	['Biography', ' Drama', ' History']	8.1	['Terry George']	['Don Cheadle, Sophie Okonedo, Joaquin Phoenix, Xolani Mali']	310920	23.53
+185	Sexy Beast	2000	R	89	['Crime', ' Drama', ' Thriller']	7.3	['Jonathan Glazer']	['Ray Winstone, Ben Kingsley, Ian McShane, Amanda Redman']	49808	6.95
+186	Swingers	1996	R	96	['Comedy', ' Drama']	7.3	['Doug Liman']	['Vince Vaughn, Heather Graham, Jon Favreau, Ron Livingston']	70586	4.51
+187	Amélie	2001	R	122	['Comedy', ' Romance']	8.3	['Jean-Pierre Jeunet']	['Audrey Tautou, Mathieu Kassovitz, Rufus, Lorella Cravotta']	645003	33.23
+188	Män som hatar kvinnor	2009	R	152	['Crime', ' Drama', ' Mystery']	7.8	['Niels Arden Oplev']	['Michael Nyqvist, Noomi Rapace, Ewa Fröling, Lena Endre']	196677	10.10
+189	Nuovo Cinema Paradiso	1988	R	155	['Drama']	8.5	['Giuseppe Tornatore']	['Philippe Noiret, Enzo Cannavale, Antonella Attili, Isa Danieli']	197941	11.99
+190	Witness for the Prosecution	1957		116	['Crime', ' Drama', ' Mystery']	8.4	['Billy Wilder']	['Tyrone Power, Marlene Dietrich, Charles Laughton, Elsa Lanchester']	89749	8.18
+191	The Apartment	1960		125	['Comedy', ' Drama', ' Romance']	8.3	['Billy Wilder']	['Jack Lemmon, Shirley MacLaine, Fred MacMurray, Ray Walston']	141236	18.60
+192	Meet the Parents	2000	PG-13	108	['Comedy', ' Romance']	7	['Jay Roach']	['Ben Stiller, Robert De Niro, Teri Polo, Blythe Danner']	291389	166.24
+193	The Right Stuff	1983		193	['Adventure', ' Biography', ' Drama']	7.9	['Philip Kaufman']	['Sam Shepard, Scott Glenn, Ed Harris, Dennis Quaid']	51691	21.50
+194	Catch Me If You Can	2002	UA	141	['Biography', ' Crime', ' Drama']	8.1	['Steven Spielberg']	['Leonardo DiCaprio, Tom Hanks, Christopher Walken, Martin Sheen']	707394	164.62
+195	Saturday Night Fever	1977	R	118	['Drama', ' Music']	6.8	['John Badham']	['John Travolta, Karen Lynn Gorney, Barry Miller, Joseph Cali']	63713	94.21
+196	Anchorman: The Legend of Ron Burgundy	2004	PG-13	94	['Comedy']	7.2	['Adam McKay']	['Will Ferrell, Christina Applegate, Steve Carell, Paul Rudd']	306098	85.29
+197	Happiness	1998		134	['Comedy', ' Drama']	7.8	['Todd Solondz']	['Jane Adams, Jon Lovitz, Philip Seymour Hoffman, Dylan Baker']	62208	2.81
+198	Knocked Up	2007	R	129	['Comedy', ' Drama', ' Romance']	7	['Judd Apatow']	['Seth Rogen, Katherine Heigl, Paul Rudd, Leslie Mann']	329553	148.73
+199	District 9	2009	A	112	['Action', ' Sci-Fi', ' Thriller']	7.9	['Neill Blomkamp']	['Sharlto Copley, David James, Jason Cope, Nathalie Boltt']	600017	115.65
+200	Fahrenheit 9/11	2004	R	122	['Documentary', ' Drama', ' War']	7.5	['Michael Moore']	['Michael Moore, George W. Bush, Ben Affleck, Stevie Wonder']	121935	119.19
+201	Star Trek	2009	PG-13	127	['Action', ' Adventure', ' Sci-Fi']	8	['J.J. Abrams']	['Chris Pine, Zachary Quinto, Simon Pegg, Leonard Nimoy']	554045	257.73
+202	Senna	2010	PG-13	106	['Documentary', ' Biography', ' Sport']	8.6	['Asif Kapadia']	['Ayrton Senna, Alain Prost, Frank Williams, Ron Dennis']	54369	1.61
+203	Serbuan maut	2011	A	101	['Action', ' Thriller']	7.6	['Gareth Evans']	['Iko Uwais, Ananda George, Ray Sahetapy, Donny Alamsyah']	174353	4.11
+204	Brick	2005	R	110	['Action', ' Crime', ' Drama']	7.4	['Rian Johnson']	['Joseph Gordon-Levitt, Lukas Haas, Emilie de Ravin, Meagan Good']	94303	2.06
+205	The Lives of Others	2006	A	137	['Drama', ' Thriller']	8.4	['Florian Henckel von Donnersmarck']	['Ulrich Mühe, Martina Gedeck, Sebastian Koch, Ulrich Tukur']	318552	11.29
+206	When We Were Kings	1996	PG	88	['Documentary', ' Sport']	8	['Leon Gast']	['Muhammad Ali, George Foreman, Don King, James Brown']	13714	2.67
+207	Groundhog Day	1993	PG	101	['Comedy', ' Fantasy', ' Romance']	8	['Harold Ramis']	['Bill Murray, Andie MacDowell, Chris Elliott, Stephen Tobolowsky']	536106	70.91
+208	All the President's Men	1976		138	['Biography', ' Drama', ' History']	8	['Alan J. Pakula']	['Dustin Hoffman, Robert Redford, Jack Warden, Martin Balsam']	90956	70.60
+209	A Quiet Place	2018	A	90	['Drama', ' Horror', ' Mystery']	7.6	['John Krasinski']	['Emily Blunt, John Krasinski, Millicent Simmonds, Noah Jupe']	287888	188.02
+210	Unbreakable	2000	PG-13	106	['Drama', ' Mystery', ' Sci-Fi']	7.3	['M. Night Shyamalan']	['Bruce Willis, Samuel L. Jackson, Robin Wright, Spencer Treat Clark']	340944	95.01
+211	Pan's Labyrinth	2006	R	118	['Drama', ' Fantasy', ' War']	8.2	['Guillermo del Toro']	['Ivana Baquero, Ariadna Gil, Sergi López, Maribel Verdú']	566737	37.63
+212	Hugo	2011	U	126	['Adventure', ' Drama', ' Family']	7.5	['Martin Scorsese']	['Asa Butterfield, Chloë Grace Moretz, Christopher Lee, Ben Kingsley']	282984	73.86
+213	Sunshine	2007	R	107	['Adventure', ' Sci-Fi', ' Thriller']	7.3	['Danny Boyle']	['Cillian Murphy, Rose Byrne, Chris Evans, Cliff Curtis']	218307	3.68
+214	The King of Kong	2007	PG-13	79	['Documentary', ' Biography', ' Sport']	8.1	['Seth Gordon']	['Steve Wiebe, Billy Mitchell, Mark Alpiger, Adam Wood']	33156	0.68
+215	The People vs. Larry Flynt	1996	R	129	['Biography', ' Drama']	7.3	['Milos Forman']	['Woody Harrelson, Courtney Love, Edward Norton, Brett Harrelson']	81510	20.19
+216	Superbad	2007	R	113	['Comedy']	7.6	['Greg Mottola']	['Michael Cera, Jonah Hill, Christopher Mintz-Plasse, Bill Hader']	478998	121.46
+217	Serenity	2005	PG-13	119	['Action', ' Adventure', ' Sci-Fi']	7.9	['Joss Whedon']	['Nathan Fillion, Gina Torres, Chiwetel Ejiofor, Alan Tudyk']	268476	25.51
+218	Night of the Living Dead	1968		96	['Horror']	7.9	['George A. Romero']	"[""Duane Jones, Judith O'Dea, Karl Hardman, Marilyn Eastman""]"	104107	0.09
+219	Austin Powers: International Man of Mystery	1997	PG-13	94	['Adventure', ' Comedy']	7	['Jay Roach']	['Mike Myers, Elizabeth Hurley, Michael York, Mimi Rogers']	205084	53.88
+220	28 Weeks Later	2007	R	100	['Drama', ' Horror', ' Sci-Fi']	7	['Juan Carlos Fresnadillo']	['Jeremy Renner, Rose Byrne, Robert Carlyle, Harold Perrineau']	240016	28.64
+221	The Thin Blue Line	1988		101	['Documentary', ' Crime', ' Drama']	8	['Errol Morris']	['Randall Adams, David Harris, Gus Rose, Jackie Johnson']	19655	1.21
+222	Dog Soldiers	2002	R	105	['Action', ' Horror', ' Thriller']	6.8	['Neil Marshall']	['Sean Pertwee, Kevin McKidd, Emma Cleasby, Liam Cunningham']	50936	
+223	Dead Poets Society	1989		128	['Comedy', ' Drama']	8.1	['Peter Weir']	['Robin Williams, Robert Sean Leonard, Ethan Hawke, Josh Charles']	363281	95.86
+224	Get Shorty	1995	R	105	['Comedy', ' Crime', ' Thriller']	6.9	['Barry Sonnenfeld']	['Gene Hackman, Rene Russo, Danny DeVito, John Travolta']	70634	72.08
+225	Bad Santa	2003	R	91	['Comedy', ' Crime', ' Drama']	7.1	['Terry Zwigoff']	['Billy Bob Thornton, Bernie Mac, Lauren Graham, John Ritter']	126770	60.06
+226	Ghost Busters	1984		105	['Action', ' Comedy', ' Fantasy']	7.8	['Ivan Reitman']	['Bill Murray, Dan Aykroyd, Sigourney Weaver, Harold Ramis']	320609	238.63
+227	Donnie Brasco	1997	R	127	['Biography', ' Crime', ' Drama']	7.8	['Mike Newell']	['Al Pacino, Johnny Depp, Michael Madsen, Bruno Kirby']	253624	41.91
+228	Top Gun	1986	U	110	['Action', ' Drama']	6.9	['Tony Scott']	['Tom Cruise, Tim Robbins, Kelly McGillis, Val Kilmer']	259192	179.80
+229	(500) Days of Summer	2009	PG-13	95	['Comedy', ' Drama', ' Romance']	7.7	['Marc Webb']	['Zooey Deschanel, Joseph Gordon-Levitt, Geoffrey Arend, Chloë Grace Moretz']	437399	32.39
+230	Chopper	2000		94	['Biography', ' Crime', ' Drama']	7.2	['Andrew Dominik']	['Eric Bana, Simon Lyndon, Vince Colosimo, Renée Brack']	34389	0.23
+231	The Breakfast Club	1985	A	97	['Comedy', ' Drama']	7.9	['John Hughes']	['Emilio Estevez, Judd Nelson, Molly Ringwald, Ally Sheedy']	315406	45.88
+232	Grosse Pointe Blank	1997	R	107	['Action', ' Comedy', ' Crime']	7.4	['George Armitage']	['John Cusack, Minnie Driver, Dan Aykroyd, Joan Cusack']	81729	28.01
+233	The Dirty Dozen	1967		150	['Action', ' Adventure', ' War']	7.8	['Robert Aldrich']	['Lee Marvin, Ernest Borgnine, Charles Bronson, John Cassavetes']	61218	45.30
+234	To Kill a Mockingbird	1962		129	['Crime', ' Drama']	8.3	['Robert Mulligan']	['Gregory Peck, John Megna, Frank Overton, Rosemary Murphy']	268428	
+235	Harold and Maude	1971		91	['Comedy', ' Drama', ' Romance']	8	['Hal Ashby']	['Ruth Gordon, Bud Cort, Vivian Pickles, Cyril Cusack']	64816	
+236	Vals Im Bashir	2008	R	90	['Animation', ' Biography', ' Drama']	8	['Ari Folman']	['Ari Folman, Ron Ben-Yishai, Ronny Dayag, Ori Sivan']	52031	2.28
+237	Shame	2011	(Banned)	101	['Drama']	7.2	['Steve McQueen']	['Michael Fassbender, Carey Mulligan, James Badge Dale, Lucy Walters']	170186	4.00
+238	Kill Bill: Vol. 2	2004	R	137	['Action', ' Crime', ' Thriller']	8	['Quentin Tarantino']	['Uma Thurman, David Carradine, Michael Madsen, Daryl Hannah']	607726	66.21
+239	Pirates of the Caribbean: The Curse of the Black Pearl	2003	PG-13	143	['Action', ' Adventure', ' Fantasy']	8	['Gore Verbinski']	['Johnny Depp, Geoffrey Rush, Orlando Bloom, Keira Knightley']	955653	305.41
+240	Bottle Rocket	1996	R	91	['Comedy', ' Crime', ' Drama']	7	['Wes Anderson']	['Luke Wilson, Owen Wilson, Ned Dowd, Shea Fowler']	63724	0.56
+241	Star Wars: Episode V - The Empire Strikes Back	1980	PG	124	['Action', ' Adventure', ' Fantasy']	8.8	['Irvin Kershner']	['Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams']	1038260	290.48
+242	Jackass: The Movie	2002	R	87	['Documentary', ' Action', ' Comedy']	6.6	['Jeff Tremaine']	['Johnny Knoxville, Bam Margera, Chris Pontius, Steve-O']	76041	64.26
+243	Point Break	1991	R	122	['Action', ' Crime', ' Thriller']	7.2	['Kathryn Bigelow']	['Patrick Swayze, Keanu Reeves, Gary Busey, Lori Petty']	136431	43.22
+244	The Squid and the Whale	2005	R	81	['Comedy', ' Drama']	7.4	['Noah Baumbach']	['Owen Kline, Jeff Daniels, Laura Linney, Jesse Eisenberg']	68950	7.36
+245	Network	1976		121	['Drama']	8.1	['Sidney Lumet']	['Faye Dunaway, William Holden, Peter Finch, Robert Duvall']	129772	
+246	Once Upon a Time in the West	1968	PG-13	165	['Western']	8.5	['Sergio Leone']	['Henry Fonda, Charles Bronson, Claudia Cardinale, Jason Robards']	267643	5.32
+247	RoboCop	1987	A	102	['Action', ' Crime', ' Sci-Fi']	7.6	['Paul Verhoeven']	"[""Peter Weller, Nancy Allen, Dan O'Herlihy, Ronny Cox""]"	212763	53.42
+248	Bonnie and Clyde	1967	R	111	['Action', ' Biography', ' Crime']	7.9	['Arthur Penn']	['Warren Beatty, Faye Dunaway, Michael J. Pollard, Gene Hackman']	92880	
+249	South Park: Bigger, Longer & Uncut	1999	R	81	['Animation', ' Comedy', ' Fantasy']	7.8	['Trey Parker']	['Trey Parker, Matt Stone, Mary Kay Bergman, Isaac Hayes']	180881	52.01
+250	The Texas Chain Saw Massacre	1974		83	['Horror']	7.5	['Tobe Hooper']	['Marilyn Burns, Edwin Neal, Allen Danziger, Paul A. Partain']	119216	30.86
+251	Dodgeball: A True Underdog Story	2004	PG-13	92	['Comedy', ' Sport']	6.7	['Rawson Marshall Thurber']	['Ben Stiller, Christine Taylor, Vince Vaughn, Rip Torn']	212107	114.33
+252	La piel que habito	2011	R	120	['Drama', ' Horror', ' Thriller']	7.6	['Pedro Almodóvar']	['Antonio Banderas, Elena Anaya, Jan Cornet, Marisa Paredes']	122133	3.19
+253	Ruby Sparks	2012	R	104	['Comedy', ' Drama', ' Fantasy']	7.2	['Jonathan Dayton, Valerie Faris']	['Paul Dano, Zoe Kazan, Annette Bening, Antonio Banderas']	90446	2.54
+254	Layer Cake	2004	R	105	['Action', ' Crime', ' Drama']	7.3	['Matthew Vaughn']	['Daniel Craig, Sienna Miller, Michael Gambon, Tom Hardy']	152193	2.34
+255	Rounders	1998	R	121	['Crime', ' Drama']	7.3	['John Dahl']	['Matt Damon, Edward Norton, Gretchen Mol, John Malkovich']	133769	22.91
+256	Superman	1978	U	143	['Action', ' Adventure', ' Drama']	7.4	['Richard Donner']	['Christopher Reeve, Margot Kidder, Gene Hackman, Marlon Brando']	146580	134.22
+257	Day of the Dead	1985		96	['Horror', ' Thriller']	7.2	['George A. Romero']	['Lori Cardille, Terry Alexander, Joseph Pilato, Jarlath Conroy']	57440	5.80
+258	Marathon Man	1976		125	['Crime', ' Thriller']	7.5	['John Schlesinger']	['Dustin Hoffman, Laurence Olivier, Roy Scheider, William Devane']	52000	21.71
+259	Midnight Cowboy	1969		113	['Drama']	7.9	['John Schlesinger']	['Dustin Hoffman, Jon Voight, Sylvia Miles, John McGiver']	89431	44.79
+260	Life of Brian	1979		94	['Comedy']	8.1	['Terry Jones']	['Graham Chapman, John Cleese, Michael Palin, Terry Gilliam']	330972	20.05
+261	Raising Arizona	1987		94	['Comedy', ' Crime']	7.4	['Joel Coen, Ethan Coen']	['Nicolas Cage, Holly Hunter, Trey Wilson, John Goodman']	115646	22.85
+262	Moon	2009	R	97	['Drama', ' Mystery', ' Sci-Fi']	7.9	['Duncan Jones']	['Sam Rockwell, Kevin Spacey, Dominique McElligott, Rosie Shaw']	309588	5.01
+263	Clerks	1994	R	92	['Comedy']	7.8	['Kevin Smith']	"[""Brian O'Halloran, Jeff Anderson, Marilyn Ghigliotti, Lisa Spoonauer""]"	200348	3.15
+264	Drag Me to Hell	2009	PG-13	99	['Horror', ' Thriller']	6.6	['Sam Raimi']	['Alison Lohman, Justin Long, Ruth Livier, Lorna Raver']	176027	42.10
+265	Brazil	1985	R	132	['Drama', ' Sci-Fi']	8	['Terry Gilliam']	['Jonathan Pryce, Kim Greist, Robert De Niro, Katherine Helmond']	174070	9.93
+266	The Bourne Supremacy	2004	A	108	['Action', ' Mystery', ' Thriller']	7.8	['Paul Greengrass']	['Matt Damon, Franka Potente, Joan Allen, Brian Cox']	404441	176.24
+267	Trois couleurs: Rouge	1994	R	99	['Drama', ' Mystery', ' Romance']	8.1	['Krzysztof Kieslowski']	['Irène Jacob, Jean-Louis Trintignant, Frédérique Feder, Jean-Pierre Lorit']	78908	4.04
+268	A History of Violence	2005	UA	96	['Drama', ' Thriller']	7.5	['David Cronenberg']	['Viggo Mortensen, Maria Bello, Ed Harris, William Hurt']	209572	31.49
+269	The Hangover	2009	A	100	['Comedy']	7.7	['Todd Phillips']	['Zach Galifianakis, Bradley Cooper, Justin Bartha, Ed Helms']	664195	277.32
+270	Scott Pilgrim vs. the World	2010	PG-13	112	['Action', ' Comedy', ' Fantasy']	7.5	['Edgar Wright']	['Michael Cera, Mary Elizabeth Winstead, Kieran Culkin, Anna Kendrick']	335270	31.49
+271	The Producers	1967		88	['Comedy', ' Music']	7.7	['Mel Brooks']	['Zero Mostel, Gene Wilder, Estelle Winwood, Renée Taylor']	45990	0.11
+272	Animal Kingdom	2010	R	113	['Crime', ' Drama']	7.3	['David Michôd']	['James Frecheville, Guy Pearce, Joel Edgerton, Bryce Lindemann']	51263	1.04
+273	The Hudsucker Proxy	1994	PG	111	['Comedy', ' Drama', ' Fantasy']	7.3	['Joel Coen, Ethan Coen']	['Tim Robbins, Paul Newman, Jennifer Jason Leigh, Charles Durning']	72322	2.87
+274	Jerry Maguire	1996	R	139	['Comedy', ' Drama', ' Romance']	7.3	['Cameron Crowe']	['Tom Cruise, Cuba Gooding Jr., Renée Zellweger, Kelly Preston']	220601	153.95
+275	Speed	1994	R	116	['Action', ' Adventure', ' Crime']	7.2	['Jan de Bont']	['Keanu Reeves, Dennis Hopper, Sandra Bullock, Joe Morton']	299759	121.25
+276	True Grit	2010	PG-13	110	['Adventure', ' Drama', ' Western']	7.6	['Ethan Coen, Joel Coen']	['Jeff Bridges, Matt Damon, Hailee Steinfeld, Josh Brolin']	281476	171.24
+277	Cool Hand Luke	1967		126	['Crime', ' Drama']	8.1	['Stuart Rosenberg']	['Paul Newman, George Kennedy, Strother Martin, J.D. Cannon']	147035	
+278	Zombieland	2009	R	88	['Adventure', ' Comedy', ' Horror']	7.6	['Ruben Fleischer']	['Jesse Eisenberg, Emma Stone, Woody Harrelson, Abigail Breslin']	453157	75.59
+279	American: The Bill Hicks Story	2009		102	['Documentary', ' Animation', ' Biography']	7.8	['Matt Harlock, Paul Thomas']	['Bill Hicks, Dwight Slade, Mary Hicks, Steve Hicks']	4577	0.09
+280	Crash	I 2004	A	112	['Crime', ' Drama', ' Thriller']	7.8	['Paul Haggis']	['Don Cheadle, Sandra Bullock, Thandie Newton, Karina Arroyave']	398786	54.58
+281	The Graduate	1967	PG	106	['Comedy', ' Drama', ' Romance']	8	['Mike Nichols']	['Dustin Hoffman, Anne Bancroft, Katharine Ross, William Daniels']	236154	104.95
+282	A Bronx Tale	1993	R	121	['Crime', ' Drama', ' Romance']	7.8	['Robert De Niro']	['Robert De Niro, Chazz Palminteri, Lillo Brancato, Francis Capra']	115237	17.27
+283	Låt den rätte komma in	2008	R	114	['Drama', ' Horror', ' Romance']	7.9	['Tomas Alfredson']	['Kåre Hedebrant, Lina Leandersson, Per Ragnar, Henrik Dahl']	193860	2.12
+284	As Good as It Gets	1997	PG-13	139	['Comedy', ' Drama', ' Romance']	7.7	['James L. Brooks']	['Jack Nicholson, Helen Hunt, Greg Kinnear, Cuba Gooding Jr.']	252228	148.48
+285	Das Boot	1981	R	149	['Adventure', ' Drama', ' Thriller']	8.4	['Wolfgang Petersen']	['Jürgen Prochnow, Herbert Grönemeyer, Klaus Wennemann, Hubertus Bengsch']	206581	11.49
+286	A Serious Man	2009	R	106	['Comedy', ' Drama']	7.1	['Ethan Coen, Joel Coen']	['Michael Stuhlbarg, Richard Kind, Sari Lennick, Fred Melamed']	120621	9.19
+287	The Fly	1986		96	['Drama', ' Horror', ' Sci-Fi']	7.5	['David Cronenberg']	['Jeff Goldblum, Geena Davis, John Getz, Joy Boushel']	143101	40.46
+288	The Wrestler	2008	R	109	['Drama', ' Sport']	7.9	['Darren Aronofsky']	['Mickey Rourke, Marisa Tomei, Evan Rachel Wood, Mark Margolis']	275963	26.24
+289	Titanic	1997	UA	194	['Drama', ' Romance']	7.8	['James Cameron']	['Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates']	944612	659.33
+290	Finding Nemo	2003		100	['Animation', ' Adventure', ' Comedy']	8.1	['Andrew Stanton, Lee Unkrich']	['Albert Brooks, Ellen DeGeneres, Alexander Gould, Willem Dafoe']	857171	380.84
+291	The Fugitive	1993	PG-13	130	['Action', ' Crime', ' Drama']	7.8	['Andrew Davis']	['Harrison Ford, Tommy Lee Jones, Sela Ward, Julianne Moore']	243182	183.88
+292	Star Wars	1977	U	121	['Action', ' Adventure', ' Fantasy']	8.6	['George Lucas']	['Mark Hamill, Harrison Ford, Carrie Fisher, Alec Guinness']	1107952	322.74
+293	The Hustler	1961		134	['Drama', ' Sport']	8	['Robert Rossen']	['Paul Newman, Jackie Gleason, Piper Laurie, George C. Scott']	70113	
+294	Per un pugno di dollari	1964	R	99	['Western']	8	['Sergio Leone']	['Clint Eastwood, Gian Maria Volontè, Marianne Koch, Wolfgang Lukschy']	176357	14.50
+295	Don't Look Now	1973		110	['Drama', ' Horror', ' Thriller']	7.3	['Nicolas Roeg']	['Julie Christie, Donald Sutherland, Hilary Mason, Clelia Matania']	42419	
+296	Fantastic Mr. Fox	2009	PG	87	['Animation', ' Adventure', ' Comedy']	7.9	['Wes Anderson']	['George Clooney, Meryl Streep, Bill Murray, Jason Schwartzman']	174912	21.00
+297	The Mist	2007	R	126	['Horror', ' Sci-Fi']	7.2	['Frank Darabont']	['Thomas Jane, Marcia Gay Harden, Laurie Holden, Andre Braugher']	258265	25.59
+298	Field of Dreams	1989		107	['Drama', ' Family', ' Fantasy']	7.5	['Phil Alden Robinson']	['Kevin Costner, James Earl Jones, Ray Liotta, Amy Madigan']	99027	64.43
+299	Rise of the Planet of the Apes	2011	PG-13	105	['Action', ' Drama', ' Sci-Fi']	7.6	['Rupert Wyatt']	['James Franco, Andy Serkis, Freida Pinto, Karin Konoval']	469531	176.76
+300	Moneyball	2011	PG-13	133	['Biography', ' Drama', ' Sport']	7.6	['Bennett Miller']	['Brad Pitt, Robin Wright, Jonah Hill, Philip Seymour Hoffman']	323394	75.61
+301	Jackass Number Two	2006	R	92	['Documentary', ' Action', ' Comedy']	7.1	['Jeff Tremaine']	['Johnny Knoxville, Steve-O, Chris Pontius, Bam Margera']	62524	72.78
+302	The Fighter	I 2010	R	116	['Biography', ' Drama', ' Sport']	7.8	['David O. Russell']	['Mark Wahlberg, Christian Bale, Amy Adams, Melissa Leo']	314286	93.62
+303	Mud	2012	UA	130	['Drama']	7.4	['Jeff Nichols']	['Matthew McConaughey, Tye Sheridan, Jacob Lofland, Sam Shepard']	155779	21.59
+304	Hodejegerne	2011	R	96	['Crime', ' Drama', ' Thriller']	7.6	['Morten Tyldum']	['Aksel Hennie, Synnøve Macody Lund, Nikolaj Coster-Waldau, Julie R. Ølgaard']	90685	1.20
+305	This Is the End	2013	R	107	['Comedy', ' Fantasy']	6.6	['Evan Goldberg, Seth Rogen']	['James Franco, Jonah Hill, Seth Rogen, Jay Baruchel']	357529	101.47
+306	Gone Girl	2014	A	149	['Drama', ' Mystery', ' Thriller']	8.1	['David Fincher']	['Ben Affleck, Rosamund Pike, Neil Patrick Harris, Tyler Perry']	751361	167.77
+307	Guardians of the Galaxy	2014	UA	121	['Action', ' Adventure', ' Comedy']	8.1	['James Gunn']	['Chris Pratt, Vin Diesel, Bradley Cooper, Zoe Saldana']	922617	333.18
+308	Serbuan maut 2: Berandal	2014	A	150	['Action', ' Crime', ' Thriller']	8	['Gareth Evans']	['Iko Uwais, Yayan Ruhian, Arifin Putra, Oka Antara']	103424	2.63
+309	Mad Max: Fury Road	2015	UA	120	['Action', ' Adventure', ' Sci-Fi']	8.1	['George Miller']	['Tom Hardy, Charlize Theron, Nicholas Hoult, Zoë Kravitz']	769121	154.06
+310	The Descent	2005	R	99	['Adventure', ' Horror', ' Thriller']	7.2	['Neil Marshall']	['Shauna Macdonald, Natalie Mendoza, Alex Reid, Saskia Mulder']	182853	26.02
+311	Patriots Day	2016	R	133	['Action', ' Crime', ' Drama']	7.4	['Peter Berg']	['Mark Wahlberg, Michelle Monaghan, J.K. Simmons, John Goodman']	74765	31.89
+312	2001: A Space Odyssey	1968		149	['Adventure', ' Sci-Fi']	8.3	['Stanley Kubrick']	['Keir Dullea, Gary Lockwood, William Sylvester, Daniel Richter']	534744	56.95
+313	Insomnia	2002	R	118	['Drama', ' Mystery', ' Thriller']	7.2	['Christopher Nolan']	['Al Pacino, Robin Williams, Hilary Swank, Martin Donovan']	251799	67.36
+314	Capturing the Friedmans	2003		107	['Documentary', ' Biography']	7.8	['Andrew Jarecki']	['Arnold Friedman, Jesse Friedman, David Friedman, Elaine Friedman']	22182	3.12
+315	The Curious Case of Benjamin Button	2008	PG-13	166	['Drama', ' Fantasy', ' Romance']	7.8	['David Fincher']	['Brad Pitt, Cate Blanchett, Tilda Swinton, Julia Ormond']	534461	127.51
+316	Batman	1989	U	126	['Action', ' Adventure']	7.5	['Tim Burton']	['Michael Keaton, Jack Nicholson, Kim Basinger, Robert Wuhl']	310058	251.19
+317	Sleepy Hollow	1999	R	105	['Fantasy', ' Horror', ' Mystery']	7.4	['Tim Burton']	['Johnny Depp, Christina Ricci, Miranda Richardson, Michael Gambon']	303771	101.07
+318	The Third Man	1949		104	['Film-Noir', ' Mystery', ' Thriller']	8.2	['Carol Reed']	['Orson Welles, Joseph Cotten, Alida Valli, Trevor Howard']	141904	0.45
+319	Spider-Man 2	2004	U	127	['Action', ' Adventure', ' Sci-Fi']	7.3	['Sam Raimi']	['Tobey Maguire, Kirsten Dunst, Alfred Molina, James Franco']	493751	373.59
+320	24 Hour Party People	2002	R	117	['Biography', ' Comedy', ' Drama']	7.4	['Michael Winterbottom']	['Steve Coogan, Lennie James, John Thomson, Paul Popplewell']	30197	1.13
+321	The Blair Witch Project	1999	R	81	['Horror', ' Mystery']	6.4	['Daniel Myrick, Eduardo Sánchez']	['Heather Donahue, Michael C. Williams, Joshua Leonard, Bob Griffin']	215007	140.54
+322	End of Watch	2012	A	109	['Action', ' Crime', ' Drama']	7.6	['David Ayer']	['Jake Gyllenhaal, Michael Peña, Anna Kendrick, America Ferrera']	209736	41.00
+323	WALL·E	2008		98	['Animation', ' Adventure', ' Family']	8.4	['Andrew Stanton']	['Ben Burtt, Elissa Knight, Jeff Garlin, Fred Willard']	893700	223.81
+324	The Imposter	2012	R	99	['Documentary', ' Biography', ' Crime']	7.5	['Bart Layton']	"[""Adam O'Brian, Nicholas Barclay, Carey Gibson, Bryan Gibson""]"	41879	0.89
+325	Salvador	1986		122	['Drama', ' History', ' Thriller']	7.5	['Oliver Stone']	['James Woods, Jim Belushi, Michael Murphy, John Savage']	17550	
+326	X2	2003	PG-13	134	['Action', ' Adventure', ' Sci-Fi']	7.5	['Bryan Singer']	['Patrick Stewart, Hugh Jackman, Halle Berry, Ian McKellen']	475571	214.95
+327	Spider-Man	2002	U	121	['Action', ' Adventure', ' Sci-Fi']	7.3	['Sam Raimi']	['Tobey Maguire, Kirsten Dunst, Willem Dafoe, James Franco']	632502	403.71
+328	North by Northwest	1959		136	['Adventure', ' Mystery', ' Thriller']	8.3	['Alfred Hitchcock']	['Cary Grant, Eva Marie Saint, James Mason, Jessie Royce Landis']	268190	13.28
+329	Inside Man	2006	R	129	['Crime', ' Drama', ' Mystery']	7.6	['Spike Lee']	['Denzel Washington, Clive Owen, Jodie Foster, Christopher Plummer']	311457	88.51
+330	Face/Off	1997	R	138	['Action', ' Crime', ' Sci-Fi']	7.3	['John Woo']	['John Travolta, Nicolas Cage, Joan Allen, Alessandro Nivola']	323410	112.23
+331	The Lego Movie	2014	U	100	['Animation', ' Action', ' Adventure']	7.8	['Phil Lord, Christopher Miller']	['Chris Pratt, Will Ferrell, Elizabeth Banks, Will Arnett']	300668	257.76
+332	Batoru rowaiaru	2000		114	['Adventure', ' Drama', ' Sci-Fi']	7.7	['Kinji Fukasaku']	['Tatsuya Fujiwara, Aki Maeda, Tarô Yamamoto, Takeshi Kitano']	158237	
+333	Mission: Impossible - Ghost Protocol	2011	UA	132	['Action', ' Adventure', ' Thriller']	7.4	['Brad Bird']	['Tom Cruise, Jeremy Renner, Simon Pegg, Paula Patton']	424490	209.40
+334	Mission: Impossible	1996	U	110	['Action', ' Adventure', ' Thriller']	7.1	['Brian De Palma']	['Tom Cruise, Jon Voight, Emmanuelle Béart, Henry Czerny']	356007	180.98
+335	Collateral	2004	A	120	['Crime', ' Drama', ' Thriller']	7.5	['Michael Mann']	['Tom Cruise, Jamie Foxx, Jada Pinkett Smith, Mark Ruffalo']	333241	101.01
+336	Edge of Tomorrow	2014	UA	113	['Action', ' Sci-Fi']	7.9	['Doug Liman']	['Tom Cruise, Emily Blunt, Bill Paxton, Brendan Gleeson']	540262	100.21
+337	Snowpiercer	2013	A	126	['Action', ' Drama', ' Sci-Fi']	7.1	['Joon-ho Bong']	['Chris Evans, Jamie Bell, Tilda Swinton, Ed Harris']	233106	4.56
+338	Blade	1998	R	120	['Action', ' Horror', ' Sci-Fi']	7.1	['Stephen Norrington']	"[""Wesley Snipes, Stephen Dorff, Kris Kristofferson, N'Bushe Wright""]"	223979	70.09
+339	The Artist	I 2011	U	100	['Comedy', ' Drama', ' Romance']	7.9	['Michel Hazanavicius']	['Jean Dujardin, Bérénice Bejo, John Goodman, James Cromwell']	216020	44.67
+340	The Crying Game	1992	R	112	['Crime', ' Drama', ' Romance']	7.3	['Neil Jordan']	['Stephen Rea, Jaye Davidson, Forest Whitaker, Miranda Richardson']	47054	62.55
+341	Grizzly Man	2005	R	103	['Documentary', ' Biography']	7.8	['Werner Herzog']	['Timothy Treadwell, Amie Huguenard, Werner Herzog, Carol Dexter']	47997	3.17
+342	Starship Troopers	1997	R	129	['Action', ' Adventure', ' Sci-Fi']	7.2	['Paul Verhoeven']	['Casper Van Dien, Denise Richards, Dina Meyer, Jake Busey']	249634	54.81
+343	Dig!	2004	R	107	['Documentary', ' Music']	7.8	['Ondi Timoner']	['Anton Newcombe, Courtney Taylor-Taylor, Joel Gion, Matt Hollywood']	5706	0.13
+344	Caché	2005	R	117	['Drama', ' Mystery', ' Thriller']	7.3	['Michael Haneke']	['Daniel Auteuil, Juliette Binoche, Maurice Bénichou, Annie Girardot']	65723	3.63
+345	Idi i smotri	1985		142	['Drama', ' War']	8.2	['Elem Klimov']	['Aleksey Kravchenko, Olga Mironova, Liubomiras Laucevicius, Vladas Bagdonas']	42554	
+346	Jûsan-nin no shikaku	2010	R	141	['Action', ' Adventure', ' Drama']	7.6	['Takashi Miike']	['Kôji Yakusho, Takayuki Yamada, Yûsuke Iseya, Ikki Sawamura']	57826	0.80
+347	Gone Baby Gone	2007	R	114	['Crime', ' Drama', ' Mystery']	7.7	['Ben Affleck']	['Morgan Freeman, Ed Harris, Casey Affleck, Michelle Monaghan']	231741	20.30
+348	Rango	2011	PG	107	['Animation', ' Adventure', ' Comedy']	7.2	['Gore Verbinski']	['Johnny Depp, Isla Fisher, Timothy Olyphant, Abigail Breslin']	213783	123.48
+349	Trois couleurs: Blanc	1994	R	92	['Comedy', ' Drama', ' Romance']	7.7	['Krzysztof Kieslowski']	['Zbigniew Zamachowski, Julie Delpy, Janusz Gajos, Jerzy Stuhr']	54936	1.46
+350	Murderball	2005	R	88	['Documentary', ' Sport']	7.7	['Henry Alex Rubin, Dana Adam Shapiro']	['Joe Soares, Keith Cavill, Mark Zupan, Joe Bishop']	9510	1.52
+351	Dogville	2003	R	178	['Crime', ' Drama']	8	['Lars von Trier']	['Nicole Kidman, Paul Bettany, Lauren Bacall, Harriet Andersson']	125224	1.53
+352	Blow Out	1981		108	['Mystery', ' Thriller']	7.4	['Brian De Palma']	['John Travolta, Nancy Allen, John Lithgow, Dennis Franz']	36753	13.75
+353	Marley	2012	PG-13	144	['Documentary', ' Biography', ' Music']	8	['Kevin Macdonald']	['Bob Marley, Ziggy Marley, Rita Marley, Jimmy Cliff']	12435	1.41
+354	American Splendor	2003	R	101	['Biography', ' Comedy', ' Drama']	7.5	['Shari Springer Berman, Robert Pulcini']	['Paul Giamatti, Shari Springer Berman, Harvey Pekar, Chris Ambrose']	45362	6.00
+355	Changeling	2008	R	141	['Biography', ' Crime', ' Drama']	7.7	['Clint Eastwood']	['Angelina Jolie, Colm Feore, Amy Ryan, Gattlin Griffith']	221856	35.74
+356	Braveheart	1995	R	178	['Biography', ' Drama', ' History']	8.4	['Mel Gibson']	['Mel Gibson, Sophie Marceau, Patrick McGoohan, Angus Macfadyen']	882446	75.60
+357	The Fisher King	1991	R	137	['Comedy', ' Drama', ' Fantasy']	7.6	['Terry Gilliam']	['Jeff Bridges, Robin Williams, Adam Bryant, Paul Lombardi']	72932	41.90
+358	Wild at Heart	1990		125	['Comedy', ' Crime', ' Drama']	7.2	['David Lynch']	['Nicolas Cage, Laura Dern, Willem Dafoe, J.E. Freeman']	74158	14.56
+359	Control	2007	R	122	['Biography', ' Drama', ' Music']	7.7	['Anton Corbijn']	['Sam Riley, Samantha Morton, Craig Parkinson, Alexandra Maria Lara']	57459	0.87
+360	In the Loop	2009		106	['Comedy']	7.5	['Armando Iannucci']	['Tom Hollander, Peter Capaldi, James Gandolfini, Harry Hadden-Paton']	50696	2.38
+361	Cop Land	1997	R	105	['Crime', ' Drama', ' Thriller']	6.9	['James Mangold']	['Sylvester Stallone, Harvey Keitel, Ray Liotta, Robert De Niro']	78839	44.89
+362	Oldeuboi	2003	UA	101	['Action', ' Drama', ' Mystery']	8.4	['Chan-wook Park']	['Min-sik Choi, Ji-tae Yu, Hye-jeong Kang, Dae-han Ji']	452083	0.71
+363	Black Swan	2010	R	108	['Drama', ' Thriller']	8	['Darren Aronofsky']	['Natalie Portman, Mila Kunis, Vincent Cassel, Winona Ryder']	642890	106.95
+364	Salinui chueok	2003		131	['Action', ' Crime', ' Drama']	8.1	['Joon-ho Bong']	['Kang-ho Song, Sang-kyung Kim, Roe-ha Kim, Jae-ho Song']	98635	0.01
+365	Willy Wonka & the Chocolate Factory	1971		100	['Family', ' Fantasy', ' Musical']	7.8	['Mel Stuart']	['Gene Wilder, Jack Albertson, Peter Ostrum, Roy Kinnear']	159115	4.00
+366	Argo	2012	A	120	['Biography', ' Drama', ' Thriller']	7.7	['Ben Affleck']	['Ben Affleck, Bryan Cranston, John Goodman, Alan Arkin']	530581	136.03
+367	Dawn of the Planet of the Apes	2014	UA	130	['Action', ' Adventure', ' Drama']	7.6	['Matt Reeves']	['Gary Oldman, Keri Russell, Andy Serkis, Kodi Smit-McPhee']	386761	208.55
+368	The Taking of Pelham One Two Three	1974		104	['Action', ' Crime', ' Thriller']	7.7	['Joseph Sargent']	['Walter Matthau, Robert Shaw, Martin Balsam, Hector Elizondo']	23569	
+369	50/50	2011	R	100	['Comedy', ' Drama', ' Romance']	7.7	['Jonathan Levine']	['Joseph Gordon-Levitt, Seth Rogen, Anna Kendrick, Bryce Dallas Howard']	298681	35.01
+370	Notting Hill	1999	PG-13	124	['Comedy', ' Drama', ' Romance']	7.1	['Roger Michell']	['Hugh Grant, Julia Roberts, Richard McCabe, Rhys Ifans']	242437	116.09
+371	The Grand Budapest Hotel	2014	R	99	['Adventure', ' Comedy', ' Crime']	8.1	['Wes Anderson']	['Ralph Fiennes, F. Murray Abraham, Mathieu Amalric, Adrien Brody']	625852	59.10
+372	The Proposition	2005	R	104	['Crime', ' Drama', ' Western']	7.4	['John Hillcoat']	['Ray Winstone, Guy Pearce, Emily Watson, Richard Wilson']	47163	1.90
+373	Bernie	2011	PG-13	99	['Biography', ' Comedy', ' Crime']	6.8	['Richard Linklater']	['Jack Black, Shirley MacLaine, Matthew McConaughey, Brady Coleman']	53454	9.20
+374	The Aviator	2004	UA	170	['Biography', ' Drama']	7.5	['Martin Scorsese']	['Leonardo DiCaprio, Cate Blanchett, Kate Beckinsale, John C. Reilly']	305220	102.61
+375	Knuckle	2011	R	97	['Documentary', ' Biography', ' Drama']	6.8	['Ian Palmer']	['James Quinn McDonagh, Paddy Quinn McDonagh, Michael Quinn McDonagh, Ian Palmer']	2627	0.00
+376	Paths of Glory	1957		88	['Drama', ' War']	8.4	['Stanley Kubrick']	['Kirk Douglas, Ralph Meeker, Adolphe Menjou, George Macready']	153554	
+377	A Hard Day's Night	1964	G	87	['Comedy', ' Music', ' Musical']	7.7	['Richard Lester']	['John Lennon, Paul McCartney, George Harrison, Ringo Starr']	36556	13.78
+378	Holy Motors	2012		115	['Drama', ' Fantasy']	7.1	['Leos Carax']	['Denis Lavant, Edith Scob, Eva Mendes, Kylie Minogue']	36470	
+379	Moonrise Kingdom	2012	A	94	['Adventure', ' Comedy', ' Drama']	7.8	['Wes Anderson']	['Jared Gilman, Kara Hayward, Bruce Willis, Bill Murray']	289113	45.51
+380	Capitalism: A Love Story	2009	R	127	['Documentary', ' Crime', ' News']	7.4	['Michael Moore']	['Michael Moore, William Black, Jimmy Carter, Elijah Cummings']	39482	14.36
+381	Galaxy Quest	1999	PG	102	['Adventure', ' Comedy', ' Sci-Fi']	7.3	['Dean Parisot']	['Tim Allen, Sigourney Weaver, Alan Rickman, Tony Shalhoub']	137127	71.58
+382	A Room for Romeo Brass	1999	R	90	['Comedy', ' Drama']	7.6	['Shane Meadows']	['Martin Arrowsmith, Dave Blant, Darren Campbell, Paddy Considine']	5043	0.02
+383	Big	1988		104	['Comedy', ' Drama', ' Family']	7.3	['Penny Marshall']	['Tom Hanks, Elizabeth Perkins, Robert Loggia, John Heard']	176840	114.97
+384	L'instinct de mort	2008	R	113	['Action', ' Biography', ' Crime']	7.6	['Jean-François Richet']	['Vincent Cassel, Cécile de France, Gérard Depardieu, Gilles Lellouche']	29938	0.55
+385	Performance	1970	R	105	['Crime', ' Drama']	7	['Donald Cammell, Nicolas Roeg']	['James Fox, Mick Jagger, Anita Pallenberg, Michèle Breton']	8163	
+386	Michael Clayton	2007	A	119	['Crime', ' Drama', ' Mystery']	7.3	['Tony Gilroy']	"[""George Clooney, Tilda Swinton, Tom Wilkinson, Michael O'Keefe""]"	148076	49.03
+387	The Fifth Element	1997	PG-13	126	['Action', ' Adventure', ' Sci-Fi']	7.7	['Luc Besson']	['Bruce Willis, Milla Jovovich, Gary Oldman, Ian Holm']	399074	63.54
+388	Shaun of the Dead	2004	R	99	['Comedy', ' Horror']	7.9	['Edgar Wright']	['Simon Pegg, Nick Frost, Kate Ashfield, Lucy Davis']	465181	13.54
+389	The Spy Who Loved Me	1977		125	['Action', ' Adventure', ' Thriller']	7.1	['Lewis Gilbert']	['Roger Moore, Barbara Bach, Curd Jürgens, Richard Kiel']	88644	46.80
+390	A Monster Calls	2016	UA	108	['Animation', ' Drama', ' Fantasy']	7.5	['J.A. Bayona']	['Lewis MacDougall, Sigourney Weaver, Felicity Jones, Toby Kebbell']	69052	3.73
+391	I, Tonya	2017	R	120	['Biography', ' Comedy', ' Drama']	7.5	['Craig Gillespie']	['Margot Robbie, Sebastian Stan, Allison Janney, Julianne Nicholson']	136596	30.01
+392	El secreto de sus ojos	2009	R	129	['Drama', ' Mystery', ' Romance']	8.2	['Juan José Campanella']	['Ricardo Darín, Soledad Villamil, Pablo Rago, Carla Quevedo']	170955	6.39
+393	Broadcast News	1987		133	['Comedy', ' Drama', ' Romance']	7.2	['James L. Brooks']	['William Hurt, Albert Brooks, Holly Hunter, Robert Prosky']	24538	51.25
+394	The Goonies	1985		114	['Adventure', ' Comedy', ' Family']	7.8	['Richard Donner']	['Sean Astin, Josh Brolin, Jeff Cohen, Corey Feldman']	214474	61.50
+395	Rebel Without a Cause	1955		111	['Drama']	7.8	['Nicholas Ray']	['James Dean, Natalie Wood, Sal Mineo, Jim Backus']	75346	
+396	Training Day	2001	R	122	['Crime', ' Drama', ' Thriller']	7.7	['Antoine Fuqua']	['Denzel Washington, Ethan Hawke, Scott Glenn, Tom Berenger']	353804	76.63
+397	Coco	I 2017	U	105	['Animation', ' Adventure', ' Comedy']	8.4	['Lee Unkrich, Adrian Molina']	['Anthony Gonzalez, Gael García Bernal, Benjamin Bratt, Alanna Ubach']	264381	209.73
+398	Avengers: Infinity War	2018	UA	149	['Action', ' Adventure', ' Sci-Fi']	8.5	['Anthony Russo, Joe Russo']	['Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans']	611591	678.82
+399	Mission: Impossible - Fallout	2018	PG-13	147	['Action', ' Adventure', ' Thriller']	7.8	['Christopher McQuarrie']	['Tom Cruise, Henry Cavill, Ving Rhames, Simon Pegg']	222698	220.16
+400	The Wind that Shakes the Barley	2006		127	['Drama', ' War']	7.5	['Ken Loach']	['Cillian Murphy, Pádraic Delaney, Liam Cunningham, Orla Fitzgerald']	42143	1.83
+401	Cemetery Junction	2010	R	95	['Comedy', ' Drama']	6.9	['Ricky Gervais, Stephen Merchant']	['Christian Cooke, Felicity Jones, Tom Hughes, Jack Doolan']	19029	
+402	Before the Devil Knows You're Dead	2007	R	117	['Crime', ' Drama', ' Thriller']	7.3	['Sidney Lumet']	['Philip Seymour Hoffman, Ethan Hawke, Albert Finney, Marisa Tomei']	89808	7.08
+403	Sunset Blvd.	1950		110	['Drama', ' Film-Noir']	8.4	['Billy Wilder']	['William Holden, Gloria Swanson, Erich von Stroheim, Nancy Olson']	176312	
+404	8 Mile	2002	A	110	['Drama', ' Music']	7.1	['Curtis Hanson']	['Eminem, Brittany Murphy, Kim Basinger, Mekhi Phifer']	226529	116.72
+405	The Incredibles	2004	U	115	['Animation', ' Action', ' Adventure']	8	['Brad Bird']	['Craig T. Nelson, Samuel L. Jackson, Holly Hunter, Jason Lee']	593826	261.44
+406	The Hurt Locker	2008	R	131	['Drama', ' Thriller', ' War']	7.6	['Kathryn Bigelow']	['Jeremy Renner, Anthony Mackie, Brian Geraghty, Guy Pearce']	389109	17.02
+407	Santa Sangre	1989	NC-17	123	['Drama', ' Fantasy', ' Horror']	7.7	['Alejandro Jodorowsky']	['Axel Jodorowsky, Blanca Guerra, Guy Stockwell, Thelma Tixou']	16751	
+408	Gangs of New York	2002	A	167	['Crime', ' Drama']	7.5	['Martin Scorsese']	['Leonardo DiCaprio, Cameron Diaz, Daniel Day-Lewis, Jim Broadbent']	368368	77.81
+409	Basic Instinct	1992	A	127	['Drama', ' Mystery', ' Thriller']	6.9	['Paul Verhoeven']	['Michael Douglas, Sharon Stone, George Dzundza, Jeanne Tripplehorn']	155371	117.73
+410	Sing Street	2016	PG-13	106	['Comedy', ' Drama', ' Music']	8	['John Carney']	['Ferdia Walsh-Peelo, Aidan Gillen, Maria Doyle Kennedy, Jack Reynor']	73511	3.24
+411	The Omen	1976		111	['Horror']	7.6	['Richard Donner']	['Gregory Peck, Lee Remick, Harvey Stephens, David Warner']	96693	4.27
+412	Winter's Bone	2010	R	100	['Drama', ' Mystery']	7.2	['Debra Granik']	['Jennifer Lawrence, John Hawkes, Garret Dillahunt, Isaiah Stone']	126979	6.53
+413	The Avengers	2012	UA	143	['Action', ' Adventure', ' Sci-Fi']	8.1	['Joss Whedon']	['Robert Downey Jr., Chris Evans, Scarlett Johansson, Jeremy Renner']	1159381	623.36
+414	Die Hard 2	1990		124	['Action', ' Thriller']	7.1	['Renny Harlin']	['Bruce Willis, William Atherton, Bonnie Bedelia, Reginald VelJohnson']	310591	117.54
+415	Affliction	1997	R	114	['Drama', ' Mystery', ' Thriller']	7	['Paul Schrader']	['Nick Nolte, Sissy Spacek, James Coburn, Brigid Tierney']	13709	6.30
+416	Invasion of the Body Snatchers	1978		115	['Horror', ' Sci-Fi']	7.4	['Philip Kaufman']	['Donald Sutherland, Brooke Adams, Jeff Goldblum, Veronica Cartwright']	45802	24.95
+417	American Pie 2	2001	R	108	['Comedy']	6.4	['J.B. Rogers']	['Jason Biggs, Seann William Scott, Shannon Elizabeth, Alyson Hannigan']	224058	145.10
+418	Buffalo Soldiers	2001	R	98	['Comedy', ' Crime', ' Drama']	6.8	['Gregor Jordan']	['Joaquin Phoenix, Anna Paquin, Ed Harris, Scott Glenn']	22155	0.35
+419	Wolf Creek	2005	R	99	['Horror', ' Thriller']	6.3	['Greg McLean']	['Nathan Phillips, Cassandra Magrath, Kestie Morassi, John Jarratt']	62877	16.19
+420	Four Lions	2010	R	97	['Comedy', ' Crime', ' Drama']	7.3	['Christopher Morris']	['Will Adamsdale, Riz Ahmed, Adeel Akhtar, Arsher Ali']	65720	0.30
+421	Dip huet seung hung	1989	R	111	['Action', ' Crime', ' Drama']	7.8	['John Woo']	['Yun-Fat Chow, Danny Lee, Sally Yeh, Kong Chu']	42785	
+422	Say Anything...	1989		100	['Comedy', ' Drama', ' Romance']	7.4	['Cameron Crowe']	['John Cusack, Ione Skye, John Mahoney, Lili Taylor']	75886	20.78
+423	The Insider	1999	R	157	['Biography', ' Drama', ' Thriller']	7.9	['Michael Mann']	['Russell Crowe, Al Pacino, Christopher Plummer, Diane Venora']	148726	28.97
+424	Home Alone	1990		103	['Comedy', ' Family']	7.5	['Chris Columbus']	['Macaulay Culkin, Joe Pesci, Daniel Stern, John Heard']	403007	285.76
+425	Dances with Wolves	1990		181	['Adventure', ' Drama', ' Western']	8	['Kevin Costner']	['Kevin Costner, Mary McDonnell, Graham Greene, Rodney A. Grant']	218638	184.21
+426	25th Hour	2002	R	135	['Drama']	7.7	['Spike Lee']	['Edward Norton, Barry Pepper, Philip Seymour Hoffman, Rosario Dawson']	162085	13.06
+427	Rosemary's Baby	1968	A	137	['Drama', ' Horror']	8	['Roman Polanski']	['Mia Farrow, John Cassavetes, Ruth Gordon, Sidney Blackmer']	167943	
+428	Easy Rider	1969		95	['Adventure', ' Drama']	7.4	['Dennis Hopper']	['Peter Fonda, Dennis Hopper, Jack Nicholson, Antonio Mendoza']	87519	41.73
+429	Exit Through the Gift Shop	2010	R	87	['Documentary', ' Comedy', ' Crime']	8	['Banksy']	['Banksy, Mr. Brainwash, Space Invader, Debora Guetta']	58359	3.29
+430	Artificial Intelligence: AI	2001	PG-13	146	['Adventure', ' Drama', ' Sci-Fi']	7.1	['Steven Spielberg']	"[""Haley Joel Osment, Jude Law, Frances O'Connor, Sam Robards""]"	272479	78.62
+431	Total Recall	1990	A	113	['Action', ' Sci-Fi', ' Thriller']	7.5	['Paul Verhoeven']	['Arnold Schwarzenegger, Sharon Stone, Michael Ironside, Rachel Ticotin']	275957	119.39
+432	Side Effects	I 2013	R	106	['Crime', ' Drama', ' Mystery']	7.1	['Steven Soderbergh']	['Rooney Mara, Channing Tatum, Jude Law, Catherine Zeta-Jones']	167493	32.17
+433	Killer Joe	2011	R	102	['Crime', ' Drama', ' Thriller']	6.7	['William Friedkin']	['Matthew McConaughey, Emile Hirsch, Juno Temple, Thomas Haden Church']	67446	1.99
+434	The Queen of Versailles	2012	PG	100	['Documentary']	7.1	['Lauren Greenfield']	['Jaqueline Siegel, David Siegel, Lorraine Barrett, June Downs']	11864	2.40
+435	Taxi to the Dark Side	2007	R	106	['Documentary', ' Crime', ' War']	7.5	['Alex Gibney']	['Alex Gibney, Brian Keith Allen, Moazzam Begg, Christopher Beiring']	13624	0.27
+436	Point Blank	1967		92	['Crime', ' Drama', ' Thriller']	7.4	['John Boorman']	"[""Lee Marvin, Angie Dickinson, Keenan Wynn, Carroll O'Connor""]"	16440	
+437	Back to the Future Part II	1989	U	108	['Adventure', ' Comedy', ' Sci-Fi']	7.8	['Robert Zemeckis']	['Michael J. Fox, Christopher Lloyd, Lea Thompson, Thomas F. Wilson']	420474	118.50
+438	Leaving Las Vegas	1995	R	111	['Drama', ' Romance']	7.5	['Mike Figgis']	['Nicolas Cage, Elisabeth Shue, Julian Sands, Richard Lewis']	106047	31.97
+439	Poltergeist	1982		114	['Horror', ' Thriller']	7.4	['Tobe Hooper']	"[""JoBeth Williams, Heather O'Rourke, Craig T. Nelson, Beatrice Straight""]"	127708	76.61
+440	Tinker Tailor Soldier Spy	2011	A	122	['Drama', ' Mystery', ' Thriller']	7.1	['Tomas Alfredson']	['Gary Oldman, Colin Firth, Tom Hardy, Mark Strong']	173737	24.15
+441	The Searchers	1956		119	['Adventure', ' Drama', ' Western']	8	['John Ford']	['John Wayne, Jeffrey Hunter, Vera Miles, Ward Bond']	72461	
+442	The Spectacular Now	2013	R	95	['Comedy', ' Drama', ' Romance']	7.1	['James Ponsoldt']	['Miles Teller, Shailene Woodley, Kyle Chandler, Jennifer Jason Leigh']	132439	6.85
+443	Deliverance	1972		109	['Adventure', ' Drama', ' Thriller']	7.7	['John Boorman']	['Jon Voight, Burt Reynolds, Ned Beatty, Ronny Cox']	90169	
+444	From Russia with Love	1963	PG	115	['Action', ' Adventure', ' Thriller']	7.4	['Terence Young']	['Sean Connery, Robert Shaw, Lotte Lenya, Daniela Bianchi']	104978	24.80
+445	American Movie	1999	R	107	['Documentary', ' Comedy']	7.9	['Chris Smith']	['Mark Borchardt, Mike Schank, Tom Schimmels, Monica Borchardt']	15387	1.16
+446	Trois couleurs: Bleu	1993	R	98	['Drama', ' Music', ' Mystery']	8	['Krzysztof Kieslowski']	['Juliette Binoche, Zbigniew Zamachowski, Julie Delpy, Benoît Régent']	77166	1.32
+447	Monsters, Inc.	2001	G	92	['Animation', ' Adventure', ' Comedy']	8.1	['Pete Docter, David Silverman, Lee Unkrich']	['Billy Crystal, John Goodman, Mary Gibbs, Steve Buscemi']	729902	289.92
+448	Life of Pi	2012	U	127	['Adventure', ' Drama', ' Fantasy']	7.9	['Ang Lee']	['Suraj Sharma, Irrfan Khan, Adil Hussain, Tabu']	529510	124.99
+449	Good Vibrations	2012		103	['Biography', ' Drama', ' Music']	7.2	"[""Lisa Barros D'Sa, Glenn Leyburn""]"	['Jodie Whittaker, Liam Cunningham, Richard Dormer, Adrian Dunbar']	4400	
+450	Revenge of the Nerds	1984		90	['Comedy']	6.6	['Jeff Kanew']	['Robert Carradine, Anthony Edwards, Timothy Busfield, Andrew Cassese']	45270	40.90
+451	Blade Runner	1982	R	117	['Sci-Fi', ' Thriller']	8.2	['Ridley Scott']	['Harrison Ford, Rutger Hauer, Sean Young, Edward James Olmos']	620800	27.00
+452	Captain America: The Winter Soldier	2014	UA	136	['Action', ' Adventure', ' Sci-Fi']	7.8	['Anthony Russo, Joe Russo']	['Chris Evans, Samuel L. Jackson, Scarlett Johansson, Robert Redford']	646756	259.77
+453	The Great Escape	1963		172	['Adventure', ' Drama', ' History']	8.2	['John Sturges']	['Steve McQueen, James Garner, Richard Attenborough, Charles Bronson']	203112	12.10
+454	The Last Waltz	1978		117	['Documentary', ' Music']	8.2	['Martin Scorsese']	['Robbie Robertson, Muddy Waters, Neil Young, Van Morrison']	14524	0.32
+455	Scent of a Woman	1992	R	156	['Drama']	8	['Martin Brest']	"[""Al Pacino, Chris O'Donnell, James Rebhorn, Gabrielle Anwar""]"	230271	63.90
+456	Midnight Run	1988		126	['Action', ' Comedy', ' Crime']	7.6	['Martin Brest']	['Robert De Niro, Charles Grodin, Yaphet Kotto, John Ashton']	63902	38.41
+457	Thief	1981		123	['Action', ' Crime', ' Drama']	7.4	['Michael Mann']	['James Caan, Tuesday Weld, Willie Nelson, Jim Belushi']	21213	11.49
+458	The Elephant Man	1980		124	['Biography', ' Drama']	8.2	['David Lynch']	['Anthony Hopkins, John Hurt, Anne Bancroft, John Gielgud']	198450	
+459	Rocky	1976		120	['Drama', ' Sport']	8.1	['John G. Avildsen']	['Sylvester Stallone, Talia Shire, Burt Young, Carl Weathers']	467276	117.24
+460	Vertigo	1958	PG	128	['Mystery', ' Romance', ' Thriller']	8.3	['Alfred Hitchcock']	['James Stewart, Kim Novak, Barbara Bel Geddes, Tom Helmore']	315785	3.20
+461	El Topo	1970		125	['Drama', ' Western']	7.5	['Alejandro Jodorowsky']	['Alejandro Jodorowsky, Brontis Jodorowsky, José Legarreta, Alfonso Arau']	22613	
+462	Kill List	2011		95	['Crime', ' Drama', ' Horror']	6.4	['Ben Wheatley']	['Neil Maskell, MyAnna Buring, Harry Simpson, Michael Smiley']	32465	0.03
+463	The Dead Zone	1983		103	['Drama', ' Horror', ' Sci-Fi']	7.2	['David Cronenberg']	['Christopher Walken, Brooke Adams, Tom Skerritt, Herbert Lom']	54056	20.77
+464	Mary and Max	2009		92	['Animation', ' Comedy', ' Drama']	8.1	['Adam Elliot']	['Toni Collette, Philip Seymour Hoffman, Eric Bana, Barry Humphries']	149480	
+465	Dr. No	1962	PG	110	['Action', ' Adventure', ' Thriller']	7.3	['Terence Young']	['Sean Connery, Ursula Andress, Bernard Lee, Joseph Wiseman']	133266	16.07
+466	GoldenEye	1995	PG-13	130	['Action', ' Adventure', ' Thriller']	7.2	['Martin Campbell']	['Pierce Brosnan, Sean Bean, Izabella Scorupco, Famke Janssen']	221578	106.60
+467	Zero Dark Thirty	2012	A	157	['Drama', ' Thriller']	7.4	['Kathryn Bigelow']	['Jessica Chastain, Joel Edgerton, Chris Pratt, Mark Strong']	248677	95.72
+468	The World's End	2013	R	109	['Action', ' Comedy', ' Sci-Fi']	7	['Edgar Wright']	['Simon Pegg, Nick Frost, Martin Freeman, Rosamund Pike']	230275	26.00
+469	Election	1999	R	103	['Comedy', ' Drama', ' Romance']	7.3	['Alexander Payne']	['Matthew Broderick, Reese Witherspoon, Chris Klein, Jessica Campbell']	82602	14.88
+470	Escape from Alcatraz	1979		112	['Biography', ' Crime', ' Drama']	7.6	['Don Siegel']	['Clint Eastwood, Patrick McGoohan, Roberts Blossom, Jack Thibeau']	103835	43.00
+471	Un condamné à mort s'est échappé ou Le vent souffle où il veut	1956		101	['Drama']	8.2	['Robert Bresson']	['François Leterrier, Charles Le Clainche, Maurice Beerblock, Roland Monod']	15771	
+472	The Cabin in the Woods	2011	A	95	['Comedy', ' Horror']	7	['Drew Goddard']	['Kristen Connolly, Chris Hemsworth, Anna Hutchison, Fran Kranz']	334859	42.07
+473	Silver Linings Playbook	2012	R	122	['Comedy', ' Drama', ' Romance']	7.7	['David O. Russell']	['Bradley Cooper, Jennifer Lawrence, Robert De Niro, Jacki Weaver']	617018	132.09
+474	Rush	I 2013	UA	123	['Action', ' Biography', ' Drama']	8.1	['Ron Howard']	['Daniel Brühl, Chris Hemsworth, Olivia Wilde, Alexandra Maria Lara']	387802	26.95
+475	Elf	2003	PG	97	['Comedy', ' Family', ' Fantasy']	6.9	['Jon Favreau']	['Will Ferrell, James Caan, Bob Newhart, Zooey Deschanel']	189786	173.40
+476	The Abyss	1989	PG-13	145	['Adventure', ' Drama', ' Mystery']	7.6	['James Cameron']	['Ed Harris, Mary Elizabeth Mastrantonio, Michael Biehn, Leo Burmester']	150036	54.46
+477	Gravity	2013	UA	91	['Drama', ' Sci-Fi', ' Thriller']	7.7	['Alfonso Cuarón']	['Sandra Bullock, George Clooney, Ed Harris, Orto Ignatiussen']	701812	274.09
+478	Her	2013	A	126	['Drama', ' Romance', ' Sci-Fi']	8	['Spike Jonze']	['Joaquin Phoenix, Amy Adams, Scarlett Johansson, Rooney Mara']	459944	25.57
+479	Captain Phillips	2013	UA	134	['Biography', ' Drama', ' Thriller']	7.8	['Paul Greengrass']	['Tom Hanks, Barkhad Abdi, Barkhad Abdirahman, Catherine Keener']	383954	107.10
+480	Bound	1996	R	109	['Crime', ' Romance', ' Thriller']	7.4	['Lana Wachowski, Lilly Wachowski']	['Jennifer Tilly, Gina Gershon, Joe Pantoliano, John P. Ryan']	46688	3.80
+481	Half Nelson	2006	R	106	['Drama']	7.2	['Ryan Fleck']	['Ryan Gosling, Anthony Mackie, Shareeka Epps, Jeff Lima']	80092	2.69
+482	Munich	2005	A	164	['Drama', ' History', ' Thriller']	7.6	['Steven Spielberg']	['Eric Bana, Daniel Craig, Marie-Josée Croze, Ciarán Hinds']	197558	47.40
+483	Traffic	2000	R	147	['Crime', ' Drama', ' Thriller']	7.6	['Steven Soderbergh']	['Michael Douglas, Benicio Del Toro, Catherine Zeta-Jones, Jacob Vargas']	185361	124.12
+484	Nightcrawler	2014	A	117	['Crime', ' Drama', ' Thriller']	7.9	['Dan Gilroy']	['Jake Gyllenhaal, Rene Russo, Bill Paxton, Riz Ahmed']	398768	32.38
+485	X-Men: Days of Future Past	2014	UA	132	['Action', ' Adventure', ' Sci-Fi']	8	['Bryan Singer']	['Patrick Stewart, Ian McKellen, Hugh Jackman, James McAvoy']	611966	233.92
+486	Mistaken for Strangers	2013		75	['Documentary', ' Comedy', ' Music']	7.3	['Tom Berninger']	['Tom Berninger, Matt Berninger, Bryce Dessner, Bryan Devendorf']	4093	0.14
+487	The Bad Lieutenant: Port of Call - New Orleans	2009	R	122	['Crime', ' Drama']	6.6	['Werner Herzog']	['Nicolas Cage, Eva Mendes, Russell M. Haeuser, Val Kilmer']	70561	1.70
+488	A Bug's Life	1998		95	['Animation', ' Adventure', ' Comedy']	7.2	['John Lasseter, Andrew Stanton']	['Kevin Spacey, Dave Foley, Julia Louis-Dreyfus, Hayden Panettiere']	245046	162.80
+489	Whiplash	2014	A	106	['Drama', ' Music']	8.5	['Damien Chazelle']	['Miles Teller, J.K. Simmons, Melissa Benoist, Paul Reiser']	603669	13.09
+490	Shutter Island	2010	R	138	['Mystery', ' Thriller']	8.1	['Martin Scorsese']	['Leonardo DiCaprio, Emily Mortimer, Mark Ruffalo, Ben Kingsley']	991985	128.01
+491	Star Wars: Episode VII - The Force Awakens	2015	U	136	['Action', ' Adventure', ' Fantasy']	8	['J.J. Abrams']	['Daisy Ridley, John Boyega, Oscar Isaac, Domhnall Gleeson']	776356	936.66
+492	Lat sau san taam	1992	R	128	['Action', ' Crime', ' Drama']	7.9	['John Woo']	['Yun-Fat Chow, Tony Chiu-Wai Leung, Teresa Mo, Philip Chan']	43279	
+493	The Place Beyond the Pines	2012	A	140	['Crime', ' Drama', ' Thriller']	7.3	['Derek Cianfrance']	['Ryan Gosling, Bradley Cooper, Eva Mendes, Craig Van Hook']	224933	21.38
+494	Happy Gilmore	1996	PG-13	92	['Comedy', ' Sport']	7	['Dennis Dugan']	['Adam Sandler, Christopher McDonald, Julie Bowen, Frances Bay']	179164	38.62
+495	Kramer vs. Kramer	1979	PG	105	['Drama']	7.8	['Robert Benton']	['Dustin Hoffman, Meryl Streep, Jane Alexander, Justin Henry']	117176	106.26
+496	Wonder Boys	2000	R	107	['Comedy', ' Drama']	7.4	['Curtis Hanson']	['Michael Douglas, Tobey Maguire, Frances McDormand, Robert Downey Jr.']	58475	19.39
+497	War of the Worlds	2005	PG-13	116	['Adventure', ' Sci-Fi', ' Thriller']	6.5	['Steven Spielberg']	['Tom Cruise, Dakota Fanning, Tim Robbins, Miranda Otto']	384333	234.28
+498	Four Weddings and a Funeral	1994	R	117	['Comedy', ' Drama', ' Romance']	7.1	['Mike Newell']	['Hugh Grant, Andie MacDowell, James Fleet, Simon Callow']	125339	52.70
+499	E.T. the Extra-Terrestrial	1982	U	115	['Family', ' Sci-Fi']	7.9	['Steven Spielberg']	['Henry Thomas, Drew Barrymore, Peter Coyote, Dee Wallace']	333632	435.11
+500	Nixon	1995	R	192	['Biography', ' Drama', ' History']	7.1	['Oliver Stone']	['Anthony Hopkins, Joan Allen, Powers Boothe, Ed Harris']	26848	13.56
+501	Star Wars: Episode III - Revenge of the Sith	2005	PG-13	140	['Action', ' Adventure', ' Fantasy']	7.6	['George Lucas']	['Hayden Christensen, Natalie Portman, Ewan McGregor, Samuel L. Jackson']	633065	380.26
+502	Army of Darkness	1992	R	81	['Comedy', ' Horror']	7.6	['Sam Raimi']	['Bruce Campbell, Embeth Davidtz, Marcus Gilbert, Ian Abercrombie']	149970	11.50
+503	Manhunter	1986		120	['Crime', ' Horror', ' Mystery']	7.2	['Michael Mann']	['William Petersen, Kim Greist, Joan Allen, Brian Cox']	58941	8.62
+504	Catfish	2010	PG-13	87	['Documentary', ' Drama', ' Mystery']	7.1	['Henry Joost, Ariel Schulman']	['Nev Schulman, Ariel Schulman, Henry Joost, Angela Wesselman-Pierce']	38487	3.23
+505	Tootsie	1982		116	['Comedy', ' Drama', ' Romance']	7.4	['Sydney Pollack']	['Dustin Hoffman, Jessica Lange, Teri Garr, Dabney Coleman']	88619	177.20
+506	Boyz n the Hood	1991	R	112	['Crime', ' Drama']	7.8	['John Singleton']	['Cuba Gooding Jr., Laurence Fishburne, Hudhail Al-Amir, Lloyd Avery II']	110422	57.50
+507	Do the Right Thing	1989		120	['Comedy', ' Drama']	7.9	['Spike Lee']	['Danny Aiello, Ossie Davis, Ruby Dee, Richard Edson']	73891	27.55
+508	Crumb	1994	R	119	['Documentary', ' Biography', ' Comedy']	8	['Terry Zwigoff']	['Robert Crumb, Aline Kominsky, Charles Crumb, Maxon Crumb']	16685	3.17
+509	A Fish Called Wanda	1988		108	['Comedy', ' Crime']	7.6	['Charles Crichton, John Cleese']	['John Cleese, Jamie Lee Curtis, Kevin Kline, Michael Palin']	121636	63.49
+510	To Live and Die in L.A.	1985		116	['Action', ' Crime', ' Drama']	7.3	['William Friedkin']	['William Petersen, Willem Dafoe, John Pankow, Debra Feuer']	25696	17.31
+511	Superman II	1980		127	['Action', ' Adventure', ' Sci-Fi']	6.8	['Richard Lester, Richard Donner']	['Gene Hackman, Christopher Reeve, Margot Kidder, Ned Beatty']	89893	108.19
+512	Confessions of a Dangerous Mind	2002	R	113	['Biography', ' Comedy', ' Crime']	7.1	['George Clooney']	['Sam Rockwell, Drew Barrymore, George Clooney, Julia Roberts']	78576	16.00
+513	Paper Moon	1973		102	['Comedy', ' Drama']	8.1	['Peter Bogdanovich']	"[""Ryan O'Neal, Tatum O'Neal, Madeline Kahn, John Hillerman""]"	37677	30.93
+514	Wo hu cang long	2000	PG-13	120	['Action', ' Adventure', ' Fantasy']	7.9	['Ang Lee']	['Yun-Fat Chow, Michelle Yeoh, Ziyi Zhang, Chen Chang']	238578	128.08
+515	Angel Heart	1987		113	['Horror', ' Mystery', ' Thriller']	7.3	['Alan Parker']	['Mickey Rourke, Robert De Niro, Lisa Bonet, Charlotte Rampling']	72340	17.19
+516	Days of Wine and Roses	1962		117	['Drama']	7.9	['Blake Edwards']	['Jack Lemmon, Lee Remick, Charles Bickford, Jack Klugman']	10345	
+517	You're Next	2011	R	95	['Comedy', ' Horror', ' Thriller']	6.6	['Adam Wingard']	['Sharni Vinson, Joe Swanberg, AJ Bowen, Nicholas Tucci']	78577	18.47
+518	Bugsy Malone	1976		93	['Comedy', ' Crime', ' Family']	6.9	['Alan Parker']	['Jodie Foster, Scott Baio, Florence Garland, John Cassisi']	14381	2.78
+519	Gattaca	1997	PG-13	106	['Drama', ' Sci-Fi', ' Thriller']	7.8	['Andrew Niccol']	['Ethan Hawke, Uma Thurman, Jude Law, Gore Vidal']	258132	12.34
+520	Strange Days	1995	R	145	['Action', ' Crime', ' Drama']	7.2	['Kathryn Bigelow']	['Ralph Fiennes, Angela Bassett, Juliette Lewis, Tom Sizemore']	62130	7.92
+521	The Other Guys	2010	PG-13	107	['Action', ' Comedy', ' Crime']	6.7	['Adam McKay']	['Will Ferrell, Mark Wahlberg, Derek Jeter, Eva Mendes']	219616	119.22
+522	L'ennemi public n°1	2008	R	133	['Action', ' Biography', ' Crime']	7.5	['Jean-François Richet']	['Vincent Cassel, Ludivine Sagnier, Mathieu Amalric, Samuel Le Bihan']	26518	0.28
+523	Biloxi Blues	1988		106	['Comedy', ' Drama']	6.6	['Mike Nichols']	['Matthew Broderick, Christopher Walken, Matt Mulhern, Corey Parker']	13315	43.18
+524	A Simple Plan	1998	R	121	['Crime', ' Drama', ' Thriller']	7.5	['Sam Raimi']	['Bill Paxton, Billy Bob Thornton, Bridget Fonda, Brent Briscoe']	57806	16.31
+525	Sleepers	1996	R	147	['Crime', ' Drama', ' Thriller']	7.6	['Barry Levinson']	['Robert De Niro, Kevin Bacon, Brad Pitt, Jason Patric']	174007	49.10
+526	Letters from Iwo Jima	2006	R	141	['Drama', ' History', ' War']	7.9	['Clint Eastwood']	['Ken Watanabe, Kazunari Ninomiya, Tsuyoshi Ihara, Ryo Kase']	145645	13.76
+527	Psycho	1960	R	109	['Horror', ' Mystery', ' Thriller']	8.5	['Alfred Hitchcock']	['Anthony Perkins, Janet Leigh, Vera Miles, John Gavin']	529658	32.00
+528	The Muppet Christmas Carol	1992		85	['Comedy', ' Drama', ' Family']	7.7	['Brian Henson']	['Michael Caine, Dave Goelz, Steve Whitmire, Jerry Nelson']	42569	27.28
+529	How to Train Your Dragon	2010	PG	98	['Animation', ' Action', ' Adventure']	8.1	['Dean DeBlois, Chris Sanders']	['Jay Baruchel, Gerard Butler, Christopher Mintz-Plasse, Craig Ferguson']	602387	217.58
+530	The World Is Not Enough	1999	PG-13	128	['Action', ' Adventure', ' Thriller']	6.4	['Michael Apted']	['Pierce Brosnan, Sophie Marceau, Robert Carlyle, Denise Richards']	174978	126.94
+531	Up in the Air	I 2009	R	109	['Comedy', ' Drama', ' Romance']	7.4	['Jason Reitman']	['George Clooney, Vera Farmiga, Anna Kendrick, Jason Bateman']	299213	83.82
+532	Avatar	2009	PG-13	162	['Action', ' Adventure', ' Fantasy']	7.8	['James Cameron']	['Sam Worthington, Zoe Saldana, Sigourney Weaver, Michelle Rodriguez']	1033028	760.51
+533	Bug	2006	R	102	['Drama', ' Thriller']	6.1	['William Friedkin']	['Ashley Judd, Michael Shannon, Harry Connick Jr., Lynn Collins']	31138	7.01
+534	V for Vendetta	2005	A	132	['Action', ' Drama', ' Sci-Fi']	8.2	['James McTeigue']	['Hugo Weaving, Natalie Portman, Rupert Graves, Stephen Rea']	943619	70.51
+535	His Girl Friday	1940		92	['Comedy', ' Drama', ' Romance']	8	['Howard Hawks']	['Cary Grant, Rosalind Russell, Ralph Bellamy, Gene Lockhart']	48093	0.30
+536	King of New York	1990		103	['Crime', ' Thriller']	7	['Abel Ferrara']	['Christopher Walken, David Caruso, Laurence Fishburne, Victor Argo']	27399	2.55
+537	Adaptation.	2002	R	115	['Comedy', ' Drama']	7.7	['Spike Jonze']	['Nicolas Cage, Meryl Streep, Chris Cooper, Tilda Swinton']	164127	22.25
+538	The Butcher Boy	1997	R	110	['Comedy', ' Drama']	7.2	['Neil Jordan']	['Stephen Rea, Fiona Shaw, Eamonn Owens, Alan Boyle']	8620	1.82
+539	Dead Man's Shoes	2004		90	['Crime', ' Drama', ' Thriller']	7.7	['Shane Meadows']	['Paddy Considine, Gary Stretch, Toby Kebbell, Stuart Wolfenden']	45635	0.01
+540	Punch-Drunk Love	2002	R	95	['Comedy', ' Drama', ' Romance']	7.3	['Paul Thomas Anderson']	['Adam Sandler, Emily Watson, Philip Seymour Hoffman, Jason Andrews']	131185	17.84
+541	Master and Commander: The Far Side of the World	2003	PG-13	138	['Action', ' Adventure', ' Drama']	7.4	['Peter Weir']	"[""Russell Crowe, Paul Bettany, Billy Boyd, James D'Arcy""]"	188236	93.93
+542	Born on the Fourth of July	1989		145	['Biography', ' Drama', ' War']	7.2	['Oliver Stone']	['Tom Cruise, Raymond J. Barry, Caroline Kava, Josh Evans']	89230	70.00
+543	Twin Peaks: Fire Walk with Me	1992	R	134	['Drama', ' Horror', ' Mystery']	7.2	['David Lynch']	['Sheryl Lee, Ray Wise, Mädchen Amick, Dana Ashbrook']	75819	4.16
+544	Irréversible	2002		97	['Crime', ' Drama', ' Mystery']	7.4	['Gaspar Noé']	['Monica Bellucci, Vincent Cassel, Albert Dupontel, Jo Prestia']	105720	0.75
+545	Ed Wood	1994	R	127	['Biography', ' Comedy', ' Drama']	7.9	['Tim Burton']	['Johnny Depp, Martin Landau, Sarah Jessica Parker, Patricia Arquette']	156573	5.89
+546	Nochnoy dozor	2004	R	114	['Action', ' Fantasy', ' Horror']	6.5	['Timur Bekmambetov']	['Konstantin Khabenskiy, Vladimir Menshov, Mariya Poroshina, Valeriy Zolotukhin']	50420	1.49
+547	Bad Lieutenant	1992	NC-17	96	['Crime', ' Drama', ' Thriller']	7.1	['Abel Ferrara']	['Harvey Keitel, Brian McElroy, Frank Acciarito, Peggy Gormley']	34297	2.00
+548	The Lincoln Lawyer	2011	R	118	['Crime', ' Drama', ' Thriller']	7.3	['Brad Furman']	['Matthew McConaughey, Marisa Tomei, Ryan Phillippe, William H. Macy']	194901	58.01
+549	Wanted	2008	A	110	['Action', ' Crime', ' Fantasy']	6.7	['Timur Bekmambetov']	['Angelina Jolie, James McAvoy, Morgan Freeman, Terence Stamp']	337476	134.51
+550	Brokeback Mountain	2005	A	134	['Drama', ' Romance']	7.7	['Ang Lee']	['Jake Gyllenhaal, Heath Ledger, Michelle Williams, Randy Quaid']	297016	83.04
+551	Near Dark	1987		94	['Action', ' Crime', ' Drama']	7	['Kathryn Bigelow']	['Adrian Pasdar, Jenny Wright, Lance Henriksen, Bill Paxton']	29711	3.37
+552	The Wild Bunch	1969		135	['Action', ' Adventure', ' Western']	8	['Sam Peckinpah']	"[""William Holden, Ernest Borgnine, Robert Ryan, Edmond O'Brien""]"	71517	
+553	A Few Good Men	1992	R	138	['Drama', ' Thriller']	7.7	['Rob Reiner']	['Tom Cruise, Jack Nicholson, Demi Moore, Kevin Bacon']	212755	141.34
+554	Enron: The Smartest Guys in the Room	2005		110	['Documentary']	7.7	['Alex Gibney']	['John Beard, Tim Belden, Barbara Boxer, George W. Bush']	15155	
+555	Predator	1987	A	107	['Action', ' Adventure', ' Sci-Fi']	7.8	['John McTiernan']	['Arnold Schwarzenegger, Carl Weathers, Kevin Peter Hall, Elpidia Carrillo']	342352	59.74
+556	La haine	1995		98	['Crime', ' Drama']	8.1	['Mathieu Kassovitz']	['Vincent Cassel, Hubert Koundé, Saïd Taghmaoui, Abdel Ahmed Ghili']	130584	0.31
+557	The Matrix Reloaded	2003	A	138	['Action', ' Sci-Fi']	7.2	['Lana Wachowski, Lilly Wachowski']	['Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving']	474082	281.49
+558	The Revenant	2015	A	156	['Action', ' Adventure', ' Biography']	8	['Alejandro G. Iñárritu']	['Leonardo DiCaprio, Tom Hardy, Will Poulter, Domhnall Gleeson']	610067	183.64
+559	Deadpool	2016	A	108	['Action', ' Adventure', ' Comedy']	8	['Tim Miller']	['Ryan Reynolds, Morena Baccarin, T.J. Miller, Ed Skrein']	806081	363.07
+560	La vita è bella	1997	PG-13	116	['Comedy', ' Drama', ' Romance']	8.6	['Roberto Benigni']	['Roberto Benigni, Nicoletta Braschi, Giorgio Cantarini, Giustino Durano']	544089	57.60
+561	Anvil: The Story of Anvil	2008		80	['Documentary', ' Biography', ' Drama']	7.9	['Sacha Gervasi']	"[""Robb Reiner, Steve 'Lips' Kudlow, Tiziana Arrigoni, Scott Ian""]"	14891	0.67
+562	Eden Lake	2008	R	91	['Horror', ' Thriller']	6.8	['James Watkins']	"[""Kelly Reilly, Michael Fassbender, Tara Ellis, Jack O'Connell""]"	69422	0.01
+563	The Last Seduction	1994	R	110	['Crime', ' Drama', ' Romance']	7.1	['John Dahl']	['Linda Fiorentino, Peter Berg, Bill Pullman, Michael Raysses']	18835	6.14
+564	In America	2002	PG-13	105	['Drama']	7.8	['Jim Sheridan']	['Paddy Considine, Samantha Morton, Djimon Hounsou, Sarah Bolger']	38917	15.54
+565	Pinocchio	1940	G	88	['Animation', ' Comedy', ' Family']	7.5	['Norman Ferguson, T. Hee, Wilfred Jackson, Jack Kinney, Hamilton Luske, Bill Roberts, Ben Sharpsteen']	['Dickie Jones, Christian Rub, Jack Bailey, Mel Blanc']	114456	84.25
+566	Splice	2009	R	104	['Drama', ' Horror', ' Sci-Fi']	5.7	['Vincenzo Natali']	['Adrien Brody, Sarah Polley, Delphine Chanéac, Brandon McGibbon']	87209	17.00
+567	 Screen Two	1985–2002		67	['Drama']	7.3	['Alan Clarke']	['Gary Oldman, Lesley Manville, Phil Davis, Andrew Wilde']	2838	
+568	Blood Simple	1984		99	['Crime', ' Drama', ' Thriller']	7.6	['Joel Coen, Ethan Coen']	['John Getz, Frances McDormand, Dan Hedaya, M. Emmet Walsh']	78995	2.15
+569	The Guest	I 2014	R	100	['Action', ' Crime', ' Horror']	6.7	['Adam Wingard']	['Dan Stevens, Sheila Kelley, Maika Monroe, Joel David Moore']	81315	0.32
+570	Next Goal Wins	2014		97	['Documentary', ' Sport']	7.9	['Mike Brett, Steve Jamison']	"[""Thomas Rongen, Jaiyah Saelua, Nicky Salapu, Gene Ne'emia""]"	2039	0.04
+571	Taxi	I 1998		86	['Action', ' Comedy', ' Crime']	7	['Gérard Pirès']	['Samy Naceri, Frédéric Diefenthal, Marion Cotillard, Manuela Gourary']	70990	0.27
+572	Secretary	2002	R	107	['Comedy', ' Drama', ' Romance']	7	['Steven Shainberg']	['James Spader, Maggie Gyllenhaal, Jeremy Davies, Lesley Ann Warren']	76804	4.06
+573	Garden State	2004	R	102	['Comedy', ' Drama', ' Romance']	7.5	['Zach Braff']	['Zach Braff, Peter Sarsgaard, Natalie Portman, Ian Holm']	200666	26.78
+574	Frost/Nixon	2008	R	122	['Biography', ' Drama', ' History']	7.7	['Ron Howard']	['Frank Langella, Michael Sheen, Kevin Bacon, Sam Rockwell']	96634	18.59
+575	Ne le dis à personne	2006		131	['Crime', ' Drama', ' Mystery']	7.5	['Guillaume Canet']	['François Cluzet, Marie-Josée Croze, André Dussollier, Kristin Scott Thomas']	46093	6.18
+576	22 Jump Street	2014	R	112	['Action', ' Comedy', ' Crime']	7	['Phil Lord, Christopher Miller']	['Channing Tatum, Jonah Hill, Ice Cube, Nick Offerman']	316096	191.72
+577	21 Grams	2003	R	124	['Crime', ' Drama', ' Thriller']	7.7	['Alejandro G. Iñárritu']	['Sean Penn, Benicio Del Toro, Naomi Watts, Danny Huston']	211652	16.25
+578	Bugsy	1991	R	136	['Biography', ' Crime', ' Drama']	6.8	['Barry Levinson']	['Warren Beatty, Annette Bening, Harvey Keitel, Ben Kingsley']	23589	49.11
+579	Local Hero	1983		111	['Comedy', ' Drama']	7.4	['Bill Forsyth']	['Burt Lancaster, Peter Riegert, Fulton Mackay, Denis Lawson']	18497	5.90
+580	Annie Hall	1977	A	93	['Comedy', ' Romance']	8	['Woody Allen']	['Woody Allen, Diane Keaton, Tony Roberts, Carol Kane']	234955	39.20
+581	Heathers	1988		103	['Comedy', ' Crime']	7.3	['Michael Lehmann']	['Winona Ryder, Christian Slater, Shannen Doherty, Lisanne Falk']	76838	1.11
+582	Adventureland	2009	R	107	['Comedy', ' Drama', ' Romance']	6.8	['Greg Mottola']	['Jesse Eisenberg, Kristen Stewart, Ryan Reynolds, Kelsey Ledgin']	145921	16.03
+583	The Conversation	1974		113	['Drama', ' Mystery', ' Thriller']	7.9	['Francis Ford Coppola']	['Gene Hackman, John Cazale, Allen Garfield, Frederic Forrest']	86687	4.42
+584	Watchmen	2009	R	162	['Action', ' Drama', ' Mystery']	7.6	['Zack Snyder']	['Jackie Earle Haley, Patrick Wilson, Carla Gugino, Malin Akerman']	450895	107.51
+585	The Ghost Writer	2010	PG-13	128	['Drama', ' Mystery', ' Thriller']	7.2	['Roman Polanski']	['Ewan McGregor, Pierce Brosnan, Olivia Williams, Jon Bernthal']	147588	15.54
+586	[Rec]	2007	R	78	['Horror', ' Mystery', ' Thriller']	7.5	['Jaume Balagueró, Paco Plaza']	['Manuela Velasco, Ferran Terraza, Jorge-Yamam Serrano, Pablo Rosso']	151979	
+587	Dnevnoy dozor	2006	R	132	['Action', ' Fantasy', ' Horror']	6.5	['Timur Bekmambetov']	['Konstantin Khabenskiy, Mariya Poroshina, Vladimir Menshov, Galina Tyunina']	32064	0.45
+588	Fish Tank	2009		123	['Drama']	7.3	['Andrea Arnold']	['Katie Jarvis, Michael Fassbender, Kierston Wareing, Rebecca Griffiths']	54494	0.37
+589	Sling Blade	1996	R	135	['Drama']	8	['Billy Bob Thornton']	['Billy Bob Thornton, Dwight Yoakam, J.T. Walsh, John Ritter']	81065	24.48
+590	When Harry Met Sally...	1989		95	['Comedy', ' Drama', ' Romance']	7.6	['Rob Reiner']	['Billy Crystal, Meg Ryan, Carrie Fisher, Bruno Kirby']	175691	92.82
+591	The Kid Stays in the Picture	2002	R	93	['Documentary', ' Biography']	7.4	['Nanette Burstein, Brett Morgen']	['Robert Evans, Eddie Albert, Peter Bart, Charlie Bluhdorn']	6532	1.43
+592	Ferris Bueller's Day Off	1986		103	['Comedy']	7.8	['John Hughes']	['Matthew Broderick, Alan Ruck, Mia Sara, Jeffrey Jones']	286584	70.14
+593	I Love You Phillip Morris	2009	R	98	['Biography', ' Comedy', ' Crime']	6.6	['Glenn Ficarra, John Requa']	['Jim Carrey, Ewan McGregor, Leslie Mann, Rodrigo Santoro']	86854	2.04
+594	Rio Bravo	1959		141	['Action', ' Drama', ' Western']	8	['Howard Hawks']	['John Wayne, Dean Martin, Ricky Nelson, Angie Dickinson']	50406	12.54
+595	Kind Hearts and Coronets	1949	U	106	['Comedy', ' Crime']	8.1	['Robert Hamer']	['Dennis Price, Alec Guinness, Valerie Hobson, Joan Greenwood']	31596	
+596	Choke	2008	R	92	['Comedy', ' Drama']	6.5	['Clark Gregg']	['Sam Rockwell, Anjelica Huston, Kelly Macdonald, Kathryn Alexander']	30383	2.93
+597	The Conjuring	2013	A	112	['Horror', ' Mystery', ' Thriller']	7.5	['James Wan']	['Patrick Wilson, Vera Farmiga, Ron Livingston, Lili Taylor']	390382	137.40
+598	Body Heat	1981		113	['Crime', ' Drama', ' Romance']	7.4	['Lawrence Kasdan']	['William Hurt, Kathleen Turner, Richard Crenna, Ted Danson']	27557	24.06
+599	The Big Red One	1980	R	113	['Drama', ' War']	7.2	['Samuel Fuller']	['Lee Marvin, Mark Hamill, Robert Carradine, Bobby Di Cicco']	17271	
+600	The Rover	2014	R	103	['Action', ' Crime', ' Drama']	6.4	['David Michôd']	['Guy Pearce, Robert Pattinson, Scoot McNairy, David Field']	40118	1.11
+601	Moulin Rouge!	2001	PG-13	127	['Drama', ' Musical', ' Romance']	7.6	['Baz Luhrmann']	['Nicole Kidman, Ewan McGregor, John Leguizamo, Jim Broadbent']	250473	57.39
+602	Harry Brown	2009	R	103	['Action', ' Crime', ' Drama']	7.2	['Daniel Barber']	['Michael Caine, Emily Mortimer, David Bradley, Charlie Creed-Miles']	80458	1.82
+603	The Contender	2000	R	126	['Drama', ' Thriller']	7	['Rod Lurie']	['Joan Allen, Gary Oldman, Jeff Bridges, Christian Slater']	21883	17.87
+604	Siu Lam juk kau	2001	PG	113	['Action', ' Comedy', ' Fantasy']	7.3	['Stephen Chow']	['Stephen Chow, Wei Zhao, Yat-Fei Wong, Man-Tat Ng']	67918	0.49
+605	Spoorloos	1988		107	['Mystery', ' Thriller']	7.8	['George Sluizer']	['Bernard-Pierre Donnadieu, Gene Bervoets, Johanna ter Steege, Gwen Eckhaus']	29746	
+606	Michael Collins	1996	R	133	['Biography', ' Drama', ' Thriller']	7.2	['Neil Jordan']	['Liam Neeson, Aidan Quinn, Julia Roberts, Ian Hart']	27457	11.09
+607	Mad Max 2	1981		95	['Action', ' Adventure', ' Sci-Fi']	7.6	['George Miller']	['Mel Gibson, Bruce Spence, Michael Preston, Max Phipps']	153534	12.47
+608	Love and Death	1975		85	['Comedy', ' War']	7.8	['Woody Allen']	['Woody Allen, Diane Keaton, Georges Adet, Frank Adu']	32609	
+609	Blue Valentine	2010	R	112	['Drama', ' Romance']	7.4	['Derek Cianfrance']	['Ryan Gosling, Michelle Williams, John Doman, Faith Wladyka']	168757	9.74
+610	Slap Shot	1977		123	['Comedy', ' Drama', ' Sport']	7.4	['George Roy Hill']	['Paul Newman, Michael Ontkean, Strother Martin, Jennifer Warren']	31820	28.00
+611	Gremlins 2: The New Batch	1990		106	['Comedy', ' Fantasy', ' Horror']	6.4	['Joe Dante']	['Zach Galligan, Phoebe Cates, John Glover, Robert Prosky']	83287	41.48
+612	Wall Street	1987		126	['Crime', ' Drama']	7.4	['Oliver Stone']	['Charlie Sheen, Michael Douglas, Tamara Tunie, Franklin Cover']	133703	43.85
+613	Tommy	1975		111	['Drama', ' Musical']	6.6	['Ken Russell']	['Roger Daltrey, Ann-Margret, Oliver Reed, Elton John']	17678	34.25
+614	Gomorra	2008		137	['Crime', ' Drama']	7	['Matteo Garrone']	['Gianfelice Imparato, Salvatore Abbruzzese, Toni Servillo, Simone Sacchettino']	43229	1.58
+615	The King of Comedy	1982		109	['Comedy', ' Crime', ' Drama']	7.8	['Martin Scorsese']	['Robert De Niro, Jerry Lewis, Diahnne Abbott, Sandra Bernhard']	66301	2.50
+616	House of Games	1987		102	['Crime', ' Thriller']	7.3	['David Mamet']	['Lindsay Crouse, Joe Mantegna, Mike Nussbaum, Lilia Skala']	18587	2.59
+617	The Tree of Life	2011	PG-13	139	['Drama', ' Fantasy']	6.8	['Terrence Malick']	['Brad Pitt, Sean Penn, Jessica Chastain, Hunter McCracken']	155305	13.30
+618	Lethal Weapon	1987		109	['Action', ' Crime', ' Thriller']	7.6	['Richard Donner']	['Mel Gibson, Danny Glover, Gary Busey, Mitchell Ryan']	217930	65.21
+619	Stranger Than Fiction	2006	PG-13	113	['Comedy', ' Drama', ' Fantasy']	7.6	['Marc Forster']	['Will Ferrell, Emma Thompson, Dustin Hoffman, Queen Latifah']	205778	40.14
+620	Into the Abyss	2011	PG-13	107	['Documentary', ' Crime', ' Drama']	7.3	['Werner Herzog']	['Werner Herzog, Richard Lopez, Michael Perry, Damon Hall']	14796	0.22
+621	The Mask	1994	PG-13	101	['Comedy', ' Fantasy']	6.9	['Chuck Russell']	['Jim Carrey, Cameron Diaz, Peter Riegert, Peter Greene']	311555	119.94
+622	The Muppets	2011	U	103	['Adventure', ' Comedy', ' Family']	7.1	['James Bobin']	['Amy Adams, Jason Segel, Chris Cooper, Rashida Jones']	82347	88.63
+623	Gonzo: The Life and Work of Dr. Hunter S. Thompson	2008	R	120	['Documentary', ' Biography', ' Music']	7.7	['Alex Gibney']	['Hunter S. Thompson, Johnny Depp, Joe Cairo, David Carlo']	7108	1.25
+624	Prometheus	I 2012	A	124	['Adventure', ' Mystery', ' Sci-Fi']	7	['Ridley Scott']	['Noomi Rapace, Logan Marshall-Green, Michael Fassbender, Charlize Theron']	535159	126.48
+625	Blazing Saddles	1974		93	['Comedy', ' Western']	7.8	['Mel Brooks']	['Cleavon Little, Gene Wilder, Slim Pickens, Harvey Korman']	114864	119.50
+626	Win Win	2011	R	106	['Comedy', ' Drama', ' Sport']	7.2	['Tom McCarthy']	['Paul Giamatti, Amy Ryan, Jeffrey Tambor, Bobby Cannavale']	51515	10.18
+627	Dead Man Walking	1995	R	122	['Crime', ' Drama']	7.5	['Tim Robbins']	['Susan Sarandon, Sean Penn, Robert Prosky, Raymond J. Barry']	82297	39.39
+628	Mou gaan dou	2002	UA	101	['Crime', ' Drama', ' Mystery']	8.1	['Andrew Lau Wai-Keung, Alan Mak']	['Andy Lau, Tony Chiu-Wai Leung, Anthony Chau-Sang Wong, Eric Tsang']	110447	0.17
+629	The Way of the Gun	2000	R	119	['Action', ' Crime', ' Drama']	6.7	['Christopher McQuarrie']	['Ryan Phillippe, Benicio Del Toro, Juliette Lewis, Taye Diggs']	30080	6.06
+630	Lawrence of Arabia	1962		216	['Adventure', ' Biography', ' Drama']	8.3	['David Lean']	"[""Peter O'Toole, Alec Guinness, Anthony Quinn, Jack Hawkins""]"	238762	44.82
+631	Brüno	2009	R	81	['Comedy']	5.8	['Larry Charles']	['Sacha Baron Cohen, Gustaf Hammarsten, Clifford Bañagale, Chibundu Orukwowu']	133405	60.05
+632	Redbelt	2008	R	99	['Drama', ' Sport']	6.8	['David Mamet']	['Chiwetel Ejiofor, Tim Allen, Emily Mortimer, Max Martini']	19723	2.34
+633	Lethal Weapon 2	1989	R	114	['Action', ' Crime', ' Thriller']	7.2	['Richard Donner']	['Mel Gibson, Danny Glover, Joe Pesci, Patsy Kensit']	147738	147.25
+634	Atonement	2007	R	123	['Drama', ' Mystery', ' Romance']	7.8	['Joe Wright']	['Keira Knightley, James McAvoy, Brenda Blethyn, Saoirse Ronan']	226557	50.93
+635	Lost Highway	1997	R	134	['Mystery', ' Thriller']	7.6	['David Lynch']	['Bill Pullman, Patricia Arquette, John Roselius, Louis Eppolito']	117367	3.80
+636	Re-Animator	1985	Unrated	105	['Comedy', ' Horror', ' Sci-Fi']	7.2	['Stuart Gordon']	['Jeffrey Combs, Bruce Abbott, Barbara Crampton, David Gale']	49057	2.02
+637	The Wizard of Oz	1939	PG	102	['Adventure', ' Family', ' Fantasy']	8	['Victor Fleming, George Cukor, Mervyn LeRoy, Norman Taurog, King Vidor']	['Judy Garland, Frank Morgan, Ray Bolger, Bert Lahr']	348873	2.08
+638	Iron Man	2008	U	126	['Action', ' Adventure', ' Sci-Fi']	7.9	['Jon Favreau']	['Robert Downey Jr., Gwyneth Paltrow, Terrence Howard, Jeff Bridges']	842091	318.41
+639	The Girl with the Dragon Tattoo	2011	(Banned)	158	['Crime', ' Drama', ' Mystery']	7.8	['David Fincher']	['Daniel Craig, Rooney Mara, Christopher Plummer, Stellan Skarsgård']	384644	102.52
+640	Incendies	2010	R	131	['Drama', ' Mystery', ' War']	8.3	['Denis Villeneuve']	['Lubna Azabal, Mélissa Désormeaux-Poulin, Maxim Gaudette, Mustafa Kamel']	121860	6.86
+641	The Intouchables	2011	UA	112	['Biography', ' Comedy', ' Drama']	8.5	['Olivier Nakache, Éric Toledano']	['François Cluzet, Omar Sy, Anne Le Ny, Audrey Fleurot']	664766	13.18
+642	Mr. Smith Goes to Washington	1939		129	['Comedy', ' Drama']	8.2	['Frank Capra']	['James Stewart, Jean Arthur, Claude Rains, Edward Arnold']	97359	9.60
+643	Celda 211	2009		113	['Action', ' Crime', ' Drama']	7.7	['Daniel Monzón']	['Luis Tosar, Alberto Ammann, Antonio Resines, Manuel Morón']	59010	
+644	The Guard	2011	R	96	['Comedy', ' Crime', ' Thriller']	7.3	['John Michael McDonagh']	['Brendan Gleeson, Don Cheadle, Mark Strong, Ronan Collins']	74724	5.36
+645	Beauty and the Beast	1991		84	['Animation', ' Family', ' Fantasy']	8	['Gary Trousdale, Kirk Wise']	"[""Paige O'Hara, Robby Benson, Jesse Corti, Rex Everhart""]"	384597	218.97
+646	Pirates of the Caribbean: Dead Man's Chest	2006	PG-13	151	['Action', ' Adventure', ' Fantasy']	7.3	['Gore Verbinski']	['Johnny Depp, Orlando Bloom, Keira Knightley, Jack Davenport']	607814	423.32
+647	The Big Sleep	1946		114	['Crime', ' Film-Noir', ' Mystery']	8	['Howard Hawks']	['Humphrey Bogart, Lauren Bacall, John Ridgely, Martha Vickers']	73036	6.54
+648	Star Wars: Episode VI - Return of the Jedi	1983	PG	131	['Action', ' Adventure', ' Fantasy']	8.3	['Richard Marquand']	['Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams']	850796	309.13
+649	Easy A	2010	PG-13	92	['Comedy', ' Drama', ' Romance']	7.1	['Will Gluck']	['Emma Stone, Amanda Bynes, Penn Badgley, Dan Byrd']	327054	58.40
+650	Babel	I 2006	R	143	['Drama']	7.5	['Alejandro G. Iñárritu']	['Brad Pitt, Cate Blanchett, Gael García Bernal, Mohamed Akhzam']	271814	34.30
+651	The Maltese Falcon	1941		100	['Film-Noir', ' Mystery']	8.1	['John Huston']	['Humphrey Bogart, Mary Astor, Gladys George, Peter Lorre']	139224	
+652	In the Line of Fire	1993	R	128	['Action', ' Crime', ' Drama']	7.2	['Wolfgang Petersen']	['Clint Eastwood, John Malkovich, Rene Russo, Dylan McDermott']	84410	102.31
+653	Bringing Out the Dead	1999	R	121	['Drama', ' Thriller']	6.8	['Martin Scorsese']	['Nicolas Cage, Patricia Arquette, John Goodman, Ving Rhames']	58586	16.64
+654	White Heat	1949		114	['Action', ' Crime', ' Drama']	8.2	['Raoul Walsh']	"[""James Cagney, Virginia Mayo, Edmond O'Brien, Margaret Wycherly""]"	24272	
+655	Chasing Amy	1997	R	113	['Comedy', ' Drama', ' Romance']	7.3	['Kevin Smith']	['Ben Affleck, Joey Lauren Adams, Ethan Suplee, Scott Mosier']	124785	12.01
+656	Angela's Ashes	1999	R	145	['Drama']	7.3	['Alan Parker']	['Emily Watson, Robert Carlyle, Joe Breen, Ciaran Owens']	19014	13.04
+657	I'm Not There	2007	R	135	['Biography', ' Drama', ' Music']	7	['Todd Haynes']	['Christian Bale, Cate Blanchett, Heath Ledger, Ben Whishaw']	53780	4.02
+658	Misery	1990		107	['Drama', ' Thriller']	7.8	['Rob Reiner']	['James Caan, Kathy Bates, Richard Farnsworth, Frances Sternhagen']	162326	61.28
+659	The Thomas Crown Affair	1999	R	113	['Crime', ' Romance', ' Thriller']	6.8	['John McTiernan']	['Pierce Brosnan, Rene Russo, Denis Leary, Ben Gazzara']	81144	69.30
+660	The Hobbit: An Unexpected Journey	2012	UA	169	['Adventure', ' Family', ' Fantasy']	7.9	['Peter Jackson']	['Martin Freeman, Ian McKellen, Richard Armitage, Andy Serkis']	715349	303.00
+661	Who Framed Roger Rabbit	1988		104	['Animation', ' Adventure', ' Comedy']	7.7	['Robert Zemeckis']	['Bob Hoskins, Christopher Lloyd, Joanna Cassidy, Charles Fleischer']	167142	156.45
+662	The Treasure of the Sierra Madre	1948		126	['Adventure', ' Drama', ' Western']	8.2	['John Huston']	['Humphrey Bogart, Walter Huston, Tim Holt, Bruce Bennett']	100559	5.01
+663	Lost in Translation	2003	R	102	['Drama']	7.8	['Sofia Coppola']	['Bill Murray, Scarlett Johansson, Giovanni Ribisi, Anna Faris']	371233	44.59
+664	Primal Fear	1996	R	129	['Crime', ' Drama', ' Mystery']	7.7	['Gregory Hoblit']	['Richard Gere, Laura Linney, Edward Norton, John Mahoney']	162036	56.12
+665	Mulholland Dr.	2001	R	147	['Drama', ' Mystery', ' Thriller']	8	['David Lynch']	['Naomi Watts, Laura Harring, Justin Theroux, Jeanne Bates']	288160	7.22
+666	Walk the Line	2005	PG-13	136	['Biography', ' Drama', ' Music']	7.9	['James Mangold']	['Joaquin Phoenix, Reese Witherspoon, Ginnifer Goodwin, Robert Patrick']	211091	119.52
+667	The China Syndrome	1979		122	['Drama', ' Thriller']	7.4	['James Bridges']	['Jane Fonda, Jack Lemmon, Michael Douglas, Scott Brady']	24044	51.72
+668	Narc	2002	R	105	['Crime', ' Drama', ' Mystery']	7.2	['Joe Carnahan']	['Ray Liotta, Jason Patric, Chi McBride, Dan Leis']	36644	10.46
+669	El orfanato	2007	R	105	['Drama', ' Horror', ' Mystery']	7.5	['J.A. Bayona']	['Belén Rueda, Fernando Cayo, Roger Príncep, Mabel Rivera']	136598	7.16
+670	De rouille et d'os	2012	R	120	['Drama', ' Romance']	7.5	['Jacques Audiard']	['Marion Cotillard, Matthias Schoenaerts, Armand Verdure, Céline Sallette']	58430	2.06
+671	Bridesmaids	I 2011	R	125	['Comedy', ' Romance']	6.8	['Paul Feig']	['Kristen Wiig, Maya Rudolph, Rose Byrne, Terry Crews']	247712	169.11
+672	Les quatre cents coups	1959		99	['Crime', ' Drama']	8.1	['François Truffaut']	['Jean-Pierre Léaud, Albert Rémy, Claire Maurier, Guy Decomble']	91166	
+673	Hunger	2008		96	['Biography', ' Drama']	7.6	['Steve McQueen']	['Stuart Graham, Laine Megaw, Brian Milligan, Liam McMahon']	60753	0.15
+674	Koroshiya 1	2001	R	129	['Action', ' Comedy', ' Crime']	7.1	['Takashi Miike']	"[""Tadanobu Asano, Nao Ohmori, Shin'ya Tsukamoto, Paulyn Sun""]"	48268	0.02
+675	The Dark Knight Rises	2012	UA	164	['Action', ' Thriller']	8.4	['Christopher Nolan']	['Christian Bale, Tom Hardy, Anne Hathaway, Gary Oldman']	1370198	448.14
+676	X-Men	2000	PG-13	104	['Action', ' Adventure', ' Sci-Fi']	7.4	['Bryan Singer']	['Patrick Stewart, Hugh Jackman, Ian McKellen, Famke Janssen']	529933	157.30
+677	Filth	I 2013	R	97	['Comedy', ' Crime', ' Drama']	7.1	['Jon S. Baird']	['James McAvoy, Jamie Bell, Eddie Marsan, Imogen Poots']	92585	0.03
+678	White Lightnin'	2009		92	['Biography', ' Drama']	7.1	['Dominic Murphy']	['Muse Watson, Carrie Fisher, Wallace Merck, Stephanie Astalos-Jones']	1570	
+679	Looper	2012	A	113	['Action', ' Crime', ' Drama']	7.4	['Rian Johnson']	['Joseph Gordon-Levitt, Bruce Willis, Emily Blunt, Paul Dano']	496328	66.49
+680	La La Land	I 2016	A	128	['Comedy', ' Drama', ' Music']	8	['Damien Chazelle']	['Ryan Gosling, Emma Stone, Rosemarie DeWitt, J.K. Simmons']	426762	151.10
+681	Get Out	I 2017	R	104	['Horror', ' Mystery', ' Thriller']	7.7	['Jordan Peele']	['Daniel Kaluuya, Allison Williams, Bradley Whitford, Catherine Keener']	382316	176.04
+682	Logan	2017	A	137	['Action', ' Drama', ' Sci-Fi']	8.1	['James Mangold']	['Hugh Jackman, Patrick Stewart, Dafne Keen, Boyd Holbrook']	544638	226.28
+683	American Gangster	2007	R	157	['Biography', ' Crime', ' Drama']	7.8	['Ridley Scott']	['Denzel Washington, Russell Crowe, Chiwetel Ejiofor, Josh Brolin']	363962	130.16
+684	Interstellar	2014	UA	169	['Adventure', ' Drama', ' Sci-Fi']	8.6	['Christopher Nolan']	['Matthew McConaughey, Anne Hathaway, Jessica Chastain, Mackenzie Foy']	1273439	188.02
+685	Der amerikanische Freund	1977		125	['Crime', ' Drama', ' Mystery']	7.4	['Wim Wenders']	['Dennis Hopper, Bruno Ganz, Lisa Kreuzer, Gérard Blain']	11679	
+686	Alan Partridge: Alpha Papa	2013	R	90	['Action', ' Comedy', ' Crime']	6.9	['Declan Lowney']	['Steve Coogan, Colm Meaney, Tim Key, Karl Theobald']	27789	0.15
+687	X: First Class	2011	PG-13	131	['Action', ' Adventure', ' Sci-Fi']	7.7	['Matthew Vaughn']	['James McAvoy, Michael Fassbender, Jennifer Lawrence, Kevin Bacon']	602036	146.41
+688	Crash	1996	NC-17	100	['Drama']	6.4	['David Cronenberg']	['James Spader, Holly Hunter, Elias Koteas, Deborah Kara Unger']	47557	2.04
+689	Mona Lisa	1986		104	['Crime', ' Drama', ' Romance']	7.4	['Neil Jordan']	['Bob Hoskins, Cathy Tyson, Michael Caine, Robbie Coltrane']	11647	5.79
+690	Pitch Black	2000	R	109	['Horror', ' Sci-Fi']	7.1	['David Twohy']	['Radha Mitchell, Cole Hauser, Vin Diesel, Keith David']	212894	39.24
+691	Synecdoche, New York	2008	R	124	['Comedy', ' Drama']	7.5	['Charlie Kaufman']	['Philip Seymour Hoffman, Samantha Morton, Michelle Williams, Catherine Keener']	71076	3.08
+692	The Town	2010	R	125	['Crime', ' Drama', ' Thriller']	7.6	['Ben Affleck']	['Ben Affleck, Rebecca Hall, Jon Hamm, Jeremy Renner']	319993	92.19
+693	Once in a Lifetime: The Extraordinary Story of the New York Cosmos	2006	PG-13	97	['Documentary', ' Sport']	7.3	['Paul Crowder, John Dower']	['Pelé, Giorgio Chinaglia, Matt Dillon, Ahmet Ertegun']	1385	0.14
+694	Mission: Impossible III	2006	UA	126	['Action', ' Adventure', ' Thriller']	6.9	['J.J. Abrams']	['Tom Cruise, Michelle Monaghan, Ving Rhames, Philip Seymour Hoffman']	303526	134.03
+695	On Her Majesty's Secret Service	1969	UA	142	['Action', ' Adventure', ' Thriller']	6.8	['Peter R. Hunt']	['George Lazenby, Diana Rigg, Telly Savalas, Gabriele Ferzetti']	70972	22.80
+696	Ace Ventura: Pet Detective	1994	PG-13	86	['Comedy']	6.9	['Tom Shadyac']	['Jim Carrey, Courteney Cox, Sean Young, Tone Loc']	252729	72.22
+697	Lions for Lambs	2007	R	92	['Drama', ' Thriller', ' War']	6.2	['Robert Redford']	['Tom Cruise, Meryl Streep, Robert Redford, Michael Peña']	45194	15.00
+698	Sherlock Holmes	2009	PG-13	128	['Action', ' Adventure', ' Crime']	7.6	['Guy Ritchie']	['Robert Downey Jr., Jude Law, Rachel McAdams, Mark Strong']	544278	209.03
+699	Piranha 3D	2010	A	88	['Comedy', ' Horror']	5.4	['Alexandre Aja']	"[""Elisabeth Shue, Jerry O'Connell, Richard Dreyfuss, Ving Rhames""]"	80857	25.00
+700	Kingsman: The Secret Service	2014	R	129	['Action', ' Adventure', ' Comedy']	7.7	['Matthew Vaughn']	['Colin Firth, Taron Egerton, Samuel L. Jackson, Michael Caine']	537510	128.26
+701	Song of the Sea	2014	PG	93	['Animation', ' Adventure', ' Drama']	8.1	['Tomm Moore']	['David Rawle, Brendan Gleeson, Lisa Hannigan, Fionnula Flanagan']	43196	0.86
+702	Creed	2015	A	133	['Drama', ' Sport']	7.6	['Ryan Coogler']	['Michael B. Jordan, Sylvester Stallone, Tessa Thompson, Phylicia Rashad']	220676	109.77
+703	Star Wars: Episode VIII - The Last Jedi	2017	UA	152	['Action', ' Adventure', ' Fantasy']	7.2	['Rian Johnson']	['Daisy Ridley, John Boyega, Mark Hamill, Carrie Fisher']	451389	620.18
+704	Hacksaw Ridge	2016	R	139	['Biography', ' Drama', ' History']	8.1	['Mel Gibson']	['Andrew Garfield, Sam Worthington, Luke Bracey, Teresa Palmer']	358920	67.21
+705	Dunkirk	2017	UA	106	['Action', ' Drama', ' History']	7.9	['Christopher Nolan']	['Fionn Whitehead, Barry Keoghan, Mark Rylance, Tom Hardy']	455629	188.37
+706	Kinsey	2004	R	118	['Biography', ' Drama', ' Romance']	7.1	['Bill Condon']	"[""Liam Neeson, Laura Linney, Chris O'Donnell, Peter Sarsgaard""]"	45691	10.21
+707	Gimme Shelter	1970		91	['Documentary', ' Music', ' Thriller']	7.9	['Albert Maysles, David Maysles, Charlotte Zwerin']	['Mick Jagger, Keith Richards, Mick Taylor, Charlie Watts']	9678	0.25
+708	Frenzy	1972		116	['Thriller']	7.4	['Alfred Hitchcock']	['Jon Finch, Barry Foster, Barbara Leigh-Hunt, Anna Massey']	36808	
+709	Amadeus	1984	R	160	['Biography', ' Drama', ' History']	8.3	['Milos Forman']	['F. Murray Abraham, Tom Hulce, Elizabeth Berridge, Roy Dotrice']	332514	51.97
+710	Jodaeiye Nader az Simin	2011	PG-13	123	['Drama', ' Thriller']	8.3	['Asghar Farhadi']	['Payman Maadi, Leila Hatami, Sareh Bayat, Shahab Hosseini']	193061	7.10
+711	Dallas Buyers Club	2013	R	117	['Biography', ' Drama']	8	['Jean-Marc Vallée']	['Matthew McConaughey, Jennifer Garner, Jared Leto, Steve Zahn']	398918	27.30
+712	Die Hard: With a Vengeance	1995	R	128	['Action', ' Adventure', ' Thriller']	7.6	['John McTiernan']	['Bruce Willis, Jeremy Irons, Samuel L. Jackson, Graham Greene']	338543	100.01
+713	Freeway	1996	R	102	['Comedy', ' Crime', ' Drama']	6.9	['Matthew Bright']	['Reese Witherspoon, Kiefer Sutherland, Bokeem Woodbine, Paul Perri']	24587	0.30
+714	The Fog of War: Eleven Lessons from the Life of Robert S. McNamara	2003	PG-13	107	['Documentary', ' Biography', ' History']	8.2	['Errol Morris']	['Robert McNamara, John F. Kennedy, Fidel Castro, Richard Nixon']	21624	4.19
+715	Carlos	2010		334	['Biography', ' Crime', ' Drama']	7.7		['Edgar Ramírez, Alexander Scheer, Fadi Abi Samra, Lamia Ahmed']	11916	0.15
+716	Per qualche dollaro in più	1965	R	132	['Western']	8.3	['Sergio Leone']	['Clint Eastwood, Lee Van Cleef, Gian Maria Volontè, Mario Brega']	202360	15.00
+717	Ratatouille	2007	G	111	['Animation', ' Adventure', ' Comedy']	8	['Brad Bird, Jan Pinkava']	['Brad Garrett, Lou Romano, Patton Oswalt, Ian Holm']	571598	206.45
+718	The Funeral	1996	R	99	['Crime', ' Drama']	6.6	['Abel Ferrara']	['Christopher Walken, Chris Penn, Annabella Sciorra, Isabella Rossellini']	7697	1.23
+719	The Devil's Advocate	1997	R	144	['Drama', ' Mystery', ' Thriller']	7.5	['Taylor Hackford']	['Keanu Reeves, Al Pacino, Charlize Theron, Jeffrey Jones']	299300	60.98
+720	The Player	1992	R	124	['Comedy', ' Crime', ' Drama']	7.6	['Robert Altman']	['Tim Robbins, Greta Scacchi, Fred Ward, Whoopi Goldberg']	49109	21.71
+721	Thank You for Smoking	2005	R	92	['Comedy', ' Drama']	7.6	['Jason Reitman']	['Aaron Eckhart, Cameron Bright, Maria Bello, Joan Lunden']	205240	24.79
+722	Seven Psychopaths	2012	R	110	['Comedy', ' Crime']	7.2	['Martin McDonagh']	['Colin Farrell, Woody Harrelson, Sam Rockwell, Christopher Walken']	221709	15.02
+723	Skyfall	2012	UA	143	['Action', ' Adventure', ' Thriller']	7.8	['Sam Mendes']	['Daniel Craig, Javier Bardem, Naomie Harris, Judi Dench']	588328	304.36
+724	Hereditary	2018	A	127	['Drama', ' Horror', ' Mystery']	7.3	['Ari Aster']	['Toni Collette, Milly Shapiro, Gabriel Byrne, Alex Wolff']	140641	44.07
+725	Starred Up	2013		106	['Crime', ' Drama']	7.4	['David Mackenzie']	"[""Jack O'Connell, Ben Mendelsohn, Rupert Friend, Sam Spruell""]"	39020	0.03
+726	Paddington	2014	PG	95	['Adventure', ' Comedy', ' Family']	7.2	['Paul King']	['Hugh Bonneville, Sally Hawkins, Julie Walters, Jim Broadbent']	83077	76.27
+727	Joe	I 2013	R	117	['Crime', ' Drama']	6.9	['David Gordon Green']	['Nicolas Cage, Tye Sheridan, Gary Poulter, Ronnie Gene Blevins']	42502	0.37
+728	Bloody Sunday	2002	R	107	['Drama', ' History', ' War']	7.7	['Paul Greengrass']	['James Nesbitt, Tim Pigott-Smith, Nicholas Farrell, Allan Gildea']	21956	0.77
+729	Sen to Chihiro no kamikakushi	2001	PG	125	['Animation', ' Adventure', ' Family']	8.6	['Hayao Miyazaki, Kirk Wise']	['Daveigh Chase, Suzanne Pleshette, Miyu Irino, Rumi Hiiragi']	548130	10.06
+730	Neds	2010		124	['Drama']	7	['Peter Mullan']	['Conor McCarron, Greg Forrest, Joe Szula, Mhairi Anderson']	7598	
+731	Michael	II 2011		96	['Drama', ' Thriller']	7	['Markus Schleinzer, Kathrin Resetarits']	['Michael Fuith, David Rauchenberger, Christine Kain, Ursula Strauss']	4121	0.02
+732	The Shape of Water	2017	R	123	['Adventure', ' Drama', ' Fantasy']	7.3	['Guillermo del Toro']	['Sally Hawkins, Octavia Spencer, Michael Shannon, Doug Jones']	298296	63.86
+733	Three Billboards Outside Ebbing, Missouri	2017	R	115	['Crime', ' Drama']	8.2	['Martin McDonagh']	['Frances McDormand, Woody Harrelson, Sam Rockwell, Caleb Landry Jones']	331711	54.51
+734	Three Identical Strangers	2018	PG-13	96	['Documentary', ' Biography', ' Drama']	7.7	['Tim Wardle']	['Robert Shafran, Michael Domnitz, Howard Schneider, Ellen Cervone']	13466	12.32
+735	State of Play	2009	PG-13	127	['Crime', ' Drama', ' Mystery']	7.1	['Kevin Macdonald']	['Russell Crowe, Rachel McAdams, Ben Affleck, Helen Mirren']	126268	37.02
+736	The Wackness	2008	R	99	['Comedy', ' Drama', ' Romance']	7	['Jonathan Levine']	['Josh Peck, Ben Kingsley, Olivia Thirlby, Famke Janssen']	28972	2.08
+737	Dirty Rotten Scoundrels	1988		110	['Comedy', ' Crime']	7.3	['Frank Oz']	['Steve Martin, Michael Caine, Glenne Headly, Anton Rodgers']	58559	42.04
+738	Los ojos de Julia	2010		118	['Horror', ' Mystery', ' Thriller']	6.7	['Guillem Morales']	['Belén Rueda, Lluís Homar, Pablo Derqui, Francesc Orella']	28801	
+739	Ghostbusters II	1989		108	['Action', ' Comedy', ' Fantasy']	6.5	['Ivan Reitman']	['Bill Murray, Dan Aykroyd, Sigourney Weaver, Harold Ramis']	166115	112.49
+740	Jackass 3D	2010	R	95	['Documentary', ' Action', ' Comedy']	7	['Jeff Tremaine']	['Johnny Knoxville, Steve-O, Bam Margera, Ryan Dunn']	52971	117.22
+741	Stake Land	2010	R	98	['Drama', ' Horror', ' Sci-Fi']	6.5	['Jim Mickle']	['Connor Paolo, Nick Damici, Kelly McGillis, Gregory Jones']	38568	0.02
+742	No	I 2012	R	118	['Drama']	7.4	['Pablo Larraín']	['Gael García Bernal, Alfredo Castro, Antonia Zegers, Luis Gnecco']	21337	2.34
+743	Empire of the Sun	1987		153	['Drama', ' History', ' War']	7.8	['Steven Spielberg']	['Christian Bale, John Malkovich, Miranda Richardson, Nigel Havers']	104940	22.24
+744	Tombstone	1993	R	130	['Action', ' Biography', ' Drama']	7.8	['George P. Cosmatos, Kevin Jarre']	['Kurt Russell, Val Kilmer, Sam Elliott, Bill Paxton']	113847	56.51
+745	I Heart Huckabees	2004	R	107	['Comedy']	6.7	['David O. Russell']	['Jason Schwartzman, Jude Law, Naomi Watts, Mark Wahlberg']	60336	12.78
+746	The Addiction	1995		82	['Horror']	6.4	['Abel Ferrara']	['Lili Taylor, Christopher Walken, Annabella Sciorra, Edie Falco']	7830	0.30
+747	Indiana Jones and the Temple of Doom	1984	(Banned)	118	['Action', ' Adventure']	7.6	['Steven Spielberg']	['Harrison Ford, Kate Capshaw, Jonathan Ke Quan, Amrish Puri']	400686	179.87
+748	Paris, je t'aime	2006	R	120	['Comedy', ' Drama', ' Romance']	7.3	['Olivier Assayas, Frédéric Auburtin, Emmanuel Benbihy, Gurinder Chadha, Sylvain Chomet, Ethan Coen, Joel Coen, Isabel Coixet, Wes Craven, Alfonso Cuarón, Gérard Depardieu, Christopher Doyle, Richard LaGravenese, Vincenzo Natali, Alexander Payne, Bruno Podalydès, Walter Salles, Oliver Schmitz, Nobuhiro Suwa, Daniela Thomas, Tom Tykwer, Gus Van Sant']	['Juliette Binoche, Leonor Watling, Ludivine Sagnier, Fanny Ardant']	67716	4.86
+749	Get Him to the Greek	2010	R	109	['Adventure', ' Comedy', ' Music']	6.4	['Nicholas Stoller']	['Jonah Hill, Russell Brand, Elisabeth Moss, Rose Byrne']	160847	60.97
+750	Scream	1996	R	111	['Horror', ' Mystery']	7.2	['Wes Craven']	['Neve Campbell, Courteney Cox, David Arquette, Skeet Ulrich']	258643	103.05
+751	Iron Man Three	2013	UA	130	['Action', ' Adventure', ' Sci-Fi']	7.2	['Shane Black']	['Robert Downey Jr., Guy Pearce, Gwyneth Paltrow, Don Cheadle']	676032	409.01
+752	The Village	2004	PG-13	108	['Drama', ' Mystery', ' Thriller']	6.5	['M. Night Shyamalan']	['Sigourney Weaver, William Hurt, Joaquin Phoenix, Bryce Dallas Howard']	225866	114.20
+753	21 Jump Street	2012	R	109	['Action', ' Comedy', ' Crime']	7.2	['Phil Lord, Christopher Miller']	['Jonah Hill, Channing Tatum, Ice Cube, Brie Larson']	473780	138.45
+754	Pacific Rim	2013	UA	131	['Action', ' Adventure', ' Sci-Fi']	6.9	['Guillermo del Toro']	['Idris Elba, Charlie Hunnam, Rinko Kikuchi, Charlie Day']	440250	101.80
+755	Shoot 'Em Up	2007	R	86	['Action', ' Comedy', ' Crime']	6.7	['Michael Davis']	['Clive Owen, Monica Bellucci, Paul Giamatti, Stephen McHattie']	139318	12.81
+756	Angels with Dirty Faces	1938		97	['Crime', ' Drama', ' Film-Noir']	7.9	['Michael Curtiz']	"[""James Cagney, Pat O'Brien, Humphrey Bogart, Ann Sheridan""]"	18231	
+757	Rachel Getting Married	2008	R	113	['Drama', ' Romance']	6.7	['Jonathan Demme']	['Anne Hathaway, Rosemarie DeWitt, Debra Winger, Sebastian Stan']	44804	12.80
+758	Planet Terror	2007		105	['Action', ' Comedy', ' Horror']	7.1	['Robert Rodriguez']	['Rose McGowan, Freddy Rodríguez, Josh Brolin, Marley Shelton']	187231	
+759	Private Parts	1997	R	109	['Biography', ' Comedy', ' Drama']	6.8	['Betty Thomas']	['Howard Stern, Mary McCormack, Robin Quivers, Fred Norris']	32041	41.20
+760	Spring Breakers	2012	R	94	['Comedy', ' Crime', ' Drama']	5.3	['Harmony Korine']	['Vanessa Hudgens, Selena Gomez, Ashley Benson, Rachel Korine']	125208	14.12
+761	Wag the Dog	1997	R	97	['Comedy', ' Drama']	7.1	['Barry Levinson']	['Dustin Hoffman, Robert De Niro, Anne Heche, Woody Harrelson']	74121	43.02
+762	Margin Call	2011	R	107	['Drama', ' Thriller']	7.1	['J.C. Chandor']	['Zachary Quinto, Stanley Tucci, Kevin Spacey, Paul Bettany']	106552	5.35
+763	Cinderella Man	2005	PG-13	144	['Biography', ' Drama', ' Sport']	8	['Ron Howard']	['Russell Crowe, Renée Zellweger, Craig Bierko, Paul Giamatti']	165562	61.65
+764	Paris, Texas	1984		145	['Drama']	8.1	['Wim Wenders']	['Harry Dean Stanton, Nastassja Kinski, Dean Stockwell, Aurore Clément']	73289	2.18
+765	Prisoners	2013	R	153	['Crime', ' Drama', ' Mystery']	8.1	['Denis Villeneuve']	['Hugh Jackman, Jake Gyllenhaal, Viola Davis, Melissa Leo']	519058	61.00
+766	Bone Tomahawk	2015		132	['Adventure', ' Drama', ' Horror']	7.1	['S. Craig Zahler']	['Kurt Russell, Patrick Wilson, Matthew Fox, Richard Jenkins']	67782	
+767	Westworld	1973		88	['Action', ' Sci-Fi', ' Thriller']	7	['Michael Crichton']	['Yul Brynner, Richard Benjamin, James Brolin, Norman Bartold']	46249	
+768	The Hateful Eight	2015	A	187	['Crime', ' Drama', ' Mystery']	7.8	['Quentin Tarantino']	['Samuel L. Jackson, Kurt Russell, Jennifer Jason Leigh, Walton Goggins']	425758	54.12
+769	Room	I 2015	R	118	['Drama', ' Thriller']	8.2	['Lenny Abrahamson']	['Brie Larson, Jacob Tremblay, Sean Bridgers, Wendy Crewson']	309950	14.68
+770	The Nice Guys	2016	R	116	['Action', ' Comedy', ' Crime']	7.4	['Shane Black']	['Russell Crowe, Ryan Gosling, Angourie Rice, Matt Bomer']	235967	36.26
+771	Hell or High Water	II 2016	R	102	['Action', ' Crime', ' Drama']	7.6	['David Mackenzie']	['Chris Pine, Ben Foster, Jeff Bridges, Gil Birmingham']	172642	26.86
+772	Nocturnal Animals	2016	R	116	['Drama', ' Thriller']	7.5	['Tom Ford']	['Amy Adams, Jake Gyllenhaal, Michael Shannon, Aaron Taylor-Johnson']	201890	10.64
+773	Spotlight	I 2015	R	129	['Crime', ' Drama']	8.1	['Tom McCarthy']	['Mark Ruffalo, Michael Keaton, Rachel McAdams, Liev Schreiber']	359056	45.06
+774	The Loved Ones	2009	R	84	['Horror', ' Thriller']	6.7	['Sean Byrne']	['Xavier Samuel, Robin McLeavy, John Brumpton, Richard Wilson']	34001	
+775	Good Morning, Vietnam	1987		121	['Biography', ' Comedy', ' Drama']	7.3	['Barry Levinson']	['Robin Williams, Forest Whitaker, Tung Thanh Tran, Chintara Sukapatana']	115405	123.92
+776	Badlands	1973		94	['Crime', ' Drama']	7.9	['Terrence Malick']	['Martin Sheen, Sissy Spacek, Warren Oates, Ramon Bieri']	57716	
+777	The Class of 92	2013		99	['Documentary', ' Sport']	8.1	['Benjamin Turner, Gabe Turner']	['David Beckham, Nicky Butt, Ryan Giggs, Gary Neville']	7130	
+778	Withnail & I	1987		107	['Comedy', ' Drama']	7.8	['Bruce Robinson']	['Richard E. Grant, Paul McGann, Richard Griffiths, Ralph Brown']	36159	1.54
+779	Bowfinger	1999	PG-13	97	['Comedy']	6.4	['Frank Oz']	['Steve Martin, Eddie Murphy, Heather Graham, Christine Baranski']	62299	66.38
+780	Diamonds Are Forever	1971		120	['Action', ' Adventure', ' Thriller']	6.7	['Guy Hamilton']	['Sean Connery, Jill St. John, Charles Gray, Lana Wood']	85870	43.82
+781	Live and Let Die	1973		121	['Action', ' Adventure', ' Thriller']	6.8	['Guy Hamilton']	['Roger Moore, Yaphet Kotto, Jane Seymour, Clifton James']	86953	35.38
+782	127 Hours	2010	R	94	['Adventure', ' Biography', ' Drama']	7.6	['Danny Boyle']	['James Franco, Amber Tamblyn, Kate Mara, Sean Bott']	320844	18.34
+783	Jacob's Ladder	I 1990		113	['Drama', ' Horror', ' Mystery']	7.5	['Adrian Lyne']	['Tim Robbins, Elizabeth Peña, Danny Aiello, Matt Craven']	89515	26.12
+784	Black Hawk Down	2001	A	144	['Drama', ' History', ' War']	7.7	['Ridley Scott']	['Josh Hartnett, Ewan McGregor, Tom Sizemore, Eric Bana']	336681	108.64
+785	Machete	2010	R	105	['Action', ' Crime', ' Thriller']	6.6	['Ethan Maniquis, Robert Rodriguez']	['Danny Trejo, Michelle Rodriguez, Robert De Niro, Jessica Alba']	181352	26.59
+786	The Adventures of Tintin	2011	U	107	['Animation', ' Action', ' Adventure']	7.3	['Steven Spielberg']	['Jamie Bell, Andy Serkis, Daniel Craig, Simon Pegg']	201001	77.59
+787	Mission: Impossible II	2000	A	123	['Action', ' Adventure', ' Thriller']	6.1	['John Woo']	['Tom Cruise, Dougray Scott, Thandie Newton, Ving Rhames']	288280	215.41
+788	A Matter of Life and Death	1946	PG	104	['Comedy', ' Drama', ' Fantasy']	8.1	['Michael Powell, Emeric Pressburger']	['David Niven, Kim Hunter, Robert Coote, Kathleen Byron']	16910	
+789	Kubo and the Two Strings	2016	PG	101	['Animation', ' Action', ' Adventure']	7.8	['Travis Knight']	['Charlize Theron, Art Parkinson, Matthew McConaughey, Ralph Fiennes']	103778	48.02
+790	Arbitrage	2012	A	107	['Drama', ' Thriller']	6.6	['Nicholas Jarecki']	['Richard Gere, Susan Sarandon, Brit Marling, Tim Roth']	46529	7.92
+791	Ringu	1998		96	['Horror', ' Mystery']	7.3	['Hideo Nakata']	['Nanako Matsushima, Miki Nakatani, Yûko Takeuchi, Hitomi Satô']	57949	
+792	Suspiria	1977	A	98	['Horror']	7.5	['Dario Argento']	['Jessica Harper, Stefania Casini, Flavio Bucci, Miguel Bosé']	66619	
+793	Carrie	1976		98	['Horror']	7.4	['Brian De Palma']	['Sissy Spacek, Piper Laurie, Amy Irving, John Travolta']	150129	33.80
+794	Dark City	1998	R	100	['Mystery', ' Sci-Fi', ' Thriller']	7.7	['Alex Proyas']	['Rufus Sewell, Kiefer Sutherland, Jennifer Connelly, William Hurt']	176305	14.38
+795	Breakfast at Tiffany's	1961		115	['Comedy', ' Drama', ' Romance']	7.7	['Blake Edwards']	['Audrey Hepburn, George Peppard, Patricia Neal, Buddy Ebsen']	150044	
+796	Thirteen Days	2000	PG-13	145	['Drama', ' History', ' Thriller']	7.3	['Roger Donaldson']	['Kevin Costner, Bruce Greenwood, Shawn Driscoll, Drake Cook']	50398	34.59
+797	Source Code	2011	PG-13	93	['Action', ' Drama', ' Sci-Fi']	7.5	['Duncan Jones']	['Jake Gyllenhaal, Michelle Monaghan, Vera Farmiga, Jeffrey Wright']	448445	54.71
+798	The Jungle Book	2016	UA	106	['Adventure', ' Drama', ' Family']	7.4	['Jon Favreau']	['Neel Sethi, Bill Murray, Ben Kingsley, Idris Elba']	238547	364.00
+799	Supersonic	2016	R	122	['Documentary', ' Biography', ' Music']	7.9	['Mat Whitecross']	['Paul Arthurs, Christine Biller, Mark Coyle, Debbie Turner']	8476	0.24
+800	The Killing	1956	Not Rated	84	['Crime', ' Drama', ' Film-Noir']	8	['Stanley Kubrick']	['Sterling Hayden, Coleen Gray, Vince Edwards, Jay C. Flippen']	72765	
+801	True Lies	1994	R	141	['Action', ' Comedy', ' Thriller']	7.2	['James Cameron']	['Arnold Schwarzenegger, Jamie Lee Curtis, Tom Arnold, Bill Paxton']	217938	146.28
+802	Swimming with Sharks	1994	R	93	['Comedy', ' Crime']	7.1	['George Huang']	['Kevin Spacey, Frank Whaley, Michelle Forbes, Benicio Del Toro']	20850	0.38
+803	Nurse Betty	2000	R	110	['Comedy', ' Crime', ' Drama']	6.2	['Neil LaBute']	['Renée Zellweger, Morgan Freeman, Chris Rock, Greg Kinnear']	31763	25.17
+804	Henry: Portrait of a Serial Killer	1986		83	['Biography', ' Crime', ' Drama']	7	['John McNaughton']	['Michael Rooker, Tracy Arnold, Tom Towles, Mary Demas']	27983	0.61
+805	Buffalo '66	1998	R	110	['Comedy', ' Crime', ' Drama']	7.5	['Vincent Gallo']	['Vincent Gallo, Christina Ricci, Ben Gazzara, Mickey Rourke']	42484	2.38
+806	Der Untergang	2004	R	156	['Biography', ' Drama', ' History']	8.2	['Oliver Hirschbiegel']	['Bruno Ganz, Alexandra Maria Lara, Ulrich Matthes, Juliane Köhler']	301518	5.51
+807	Sid and Nancy	1986		112	['Biography', ' Drama', ' Music']	7.1	['Alex Cox']	['Gary Oldman, Chloe Webb, David Hayman, Debby Bishop']	27167	2.83
+808	Star Wars: Episode I - The Phantom Menace	1999	PG	136	['Action', ' Adventure', ' Fantasy']	6.5	['George Lucas']	['Ewan McGregor, Liam Neeson, Natalie Portman, Jake Lloyd']	646991	474.54
+809	Manhattan Murder Mystery	1993	PG	104	['Comedy', ' Mystery']	7.4	['Woody Allen']	['Woody Allen, Diane Keaton, Jerry Adler, Lynn Cohen']	33722	11.29
+810	Risky Business	1983		99	['Comedy', ' Crime', ' Drama']	6.8	['Paul Brickman']	['Tom Cruise, Rebecca De Mornay, Joe Pantoliano, Richard Masur']	72944	63.50
+811	The Last King of Scotland	2006	R	123	['Biography', ' Drama', ' History']	7.7	['Kevin Macdonald']	['James McAvoy, Forest Whitaker, Gillian Anderson, Kerry Washington']	164372	17.61
+812	Short Cuts	1993	R	188	['Comedy', ' Drama']	7.7	['Robert Altman']	['Andie MacDowell, Julianne Moore, Tim Robbins, Bruce Davison']	39344	6.11
+813	Witness	1985		112	['Crime', ' Drama', ' Romance']	7.4	['Peter Weir']	['Harrison Ford, Kelly McGillis, Lukas Haas, Josef Sommer']	77762	68.71
+814	The Limey	1999	R	89	['Crime', ' Drama', ' Mystery']	7.1	['Steven Soderbergh']	['Terence Stamp, Peter Fonda, Lesley Ann Warren, Luis Guzmán']	27411	3.19
+815	Cast Away	2000	UA	143	['Adventure', ' Drama', ' Romance']	7.8	['Robert Zemeckis']	['Tom Hanks, Helen Hunt, Paul Sanchez, Lari White']	468176	233.63
+816	Gangster No. 1	2000	R	103	['Crime', ' Drama', ' Thriller']	6.8	['Paul McGuigan']	['Malcolm McDowell, David Thewlis, Paul Bettany, Saffron Burrows']	12317	0.03
+817	The Godfather: Part III	1990	R	162	['Crime', ' Drama']	7.6	['Francis Ford Coppola']	['Al Pacino, Diane Keaton, Andy Garcia, Talia Shire']	323306	66.67
+818	The Crow	1994	R	102	['Action', ' Drama', ' Fantasy']	7.6	['Alex Proyas']	['Brandon Lee, Michael Wincott, Rochelle Davis, Ernie Hudson']	154055	50.69
+819	Eastern Promises	2007	R	100	['Crime', ' Drama', ' Thriller']	7.7	['David Cronenberg']	['Naomi Watts, Viggo Mortensen, Armin Mueller-Stahl, Josef Altin']	213111	17.11
+820	The Hobbit: The Desolation of Smaug	2013	UA	161	['Adventure', ' Fantasy']	7.8	['Peter Jackson']	['Ian McKellen, Martin Freeman, Richard Armitage, Ken Stott']	561058	258.37
+821	Manhattan	1979		96	['Comedy', ' Drama', ' Romance']	8	['Woody Allen']	['Woody Allen, Diane Keaton, Mariel Hemingway, Michael Murphy']	120837	45.70
+822	Kingpin	1996	PG-13	114	['Comedy', ' Sport']	6.9	['Bobby Farrelly, Peter Farrelly']	['Woody Harrelson, Randy Quaid, Bill Murray, Vanessa Angel']	71378	24.94
+823	Quantum of Solace	2008	UA	106	['Action', ' Adventure', ' Thriller']	6.6	['Marc Forster']	['Daniel Craig, Olga Kurylenko, Mathieu Amalric, Judi Dench']	374984	168.37
+824	El mariachi	1992	R	81	['Action', ' Crime', ' Thriller']	6.9	['Robert Rodriguez']	['Carlos Gallardo, Consuelo Gómez, Jaime de Hoyos, Peter Marquardt']	58712	2.04
+825	Big Trouble in Little China	1986		99	['Action', ' Adventure', ' Comedy']	7.3	['John Carpenter']	['Kurt Russell, Kim Cattrall, Dennis Dun, James Hong']	111603	11.10
+826	The Sting	1973		129	['Comedy', ' Crime', ' Drama']	8.3	['George Roy Hill']	['Paul Newman, Robert Redford, Robert Shaw, Charles Durning']	216684	159.60
+827	Apollo 13	I 1995	PG	140	['Adventure', ' Drama', ' History']	7.6	['Ron Howard']	['Tom Hanks, Bill Paxton, Kevin Bacon, Gary Sinise']	243506	173.84
+828	Noah	2014	UA	138	['Action', ' Adventure', ' Drama']	5.8	['Darren Aronofsky']	['Russell Crowe, Jennifer Connelly, Anthony Hopkins, Emma Watson']	227628	101.20
+829	Once	I 2007	R	86	['Drama', ' Music', ' Romance']	7.9	['John Carney']	['Glen Hansard, Markéta Irglová, Hugh Walsh, Gerard Hendrick']	104500	9.44
+830	Captain Fantastic	2016	R	118	['Comedy', ' Drama']	7.9	['Matt Ross']	['Viggo Mortensen, George MacKay, Samantha Isler, Annalise Basso']	156313	5.88
+831	Lord of War	2005	R	122	['Crime', ' Drama', ' Thriller']	7.6	['Andrew Niccol']	['Nicolas Cage, Ethan Hawke, Jared Leto, Bridget Moynahan']	276174	24.15
+832	The Last of the Mohicans	1992	R	112	['Action', ' Adventure', ' Drama']	7.8	['Michael Mann']	['Daniel Day-Lewis, Madeleine Stowe, Russell Means, Eric Schweig']	134937	75.51
+833	Lone Survivor	2013	A	121	['Action', ' Biography', ' Drama']	7.5	['Peter Berg']	['Mark Wahlberg, Taylor Kitsch, Emile Hirsch, Ben Foster']	244521	125.10
+834	Jumanji	1995	UA	104	['Adventure', ' Comedy', ' Family']	7	['Joe Johnston']	['Robin Williams, Kirsten Dunst, Bonnie Hunt, Jonathan Hyde']	266080	100.48
+835	Apocalypto	2006	R	139	['Action', ' Adventure', ' Drama']	7.8	['Mel Gibson']	['Gerardo Taracena, Raoul Max Trujillo, Dalia Hernández, Rudy Youngblood']	268867	50.87
+836	Youth in Revolt	2009	R	90	['Comedy', ' Drama', ' Romance']	6.5	['Miguel Arteta']	['Michael Cera, Portia Doubleday, Ray Liotta, Jean Smart']	70117	15.28
+837	Lords of Dogtown	2005	PG-13	107	['Biography', ' Drama', ' Sport']	7.1	['Catherine Hardwicke']	['Heath Ledger, Emile Hirsch, Victor Rasuk, Johnny Knoxville']	48905	11.01
+838	Team America: World Police	2004	R	98	['Action', ' Comedy']	7.2	['Trey Parker']	['Trey Parker, Matt Stone, Elle Russ, Kristen Miller']	150074	32.77
+839	After Hours	1985		97	['Comedy', ' Crime', ' Drama']	7.7	['Martin Scorsese']	['Griffin Dunne, Rosanna Arquette, Verna Bloom, Tommy Chong']	49204	10.60
+840	Man on the Moon	1999	R	118	['Biography', ' Comedy', ' Drama']	7.4	['Milos Forman']	['Jim Carrey, Danny DeVito, Gerry Becker, Greyson Erik Pendry']	115895	34.58
+841	Trolljegeren	2010	PG-13	103	['Drama', ' Fantasy', ' Horror']	7	['André Øvredal']	['Otto Jespersen, Robert Stoltenberg, Knut Nærum, Glenn Erland Tosterud']	63028	0.25
+842	Snitch	1998	R	93	['Crime', ' Drama', ' Thriller']	6.6	['Ted Demme']	['Denis Leary, Ian Hart, Jason Barry, Lenny Clarke']	1467	0.33
+843	Heavenly Creatures	1994	R	99	['Biography', ' Crime', ' Drama']	7.4	['Peter Jackson']	['Melanie Lynskey, Kate Winslet, Sarah Peirse, Diana Kent']	55692	3.05
+844	Monsoon Wedding	2001	A	114	['Comedy', ' Drama', ' Romance']	7.4	['Mira Nair']	['Naseeruddin Shah, Lillete Dubey, Shefali Shah, Vijay Raaz']	22005	13.88
+845	The Sweet Hereafter	1997	R	112	['Drama']	7.6	['Atom Egoyan']	['Ian Holm, Sarah Polley, Caerthan Banks, Tom McCamus']	29882	3.25
+846	Cube	1997	R	90	['Drama', ' Mystery', ' Sci-Fi']	7.3	['Vincenzo Natali']	['Nicole de Boer, Maurice Dean Wint, David Hewlett, Andrew Miller']	189158	0.50
+847	Breaking the Waves	1996	R	159	['Drama']	7.9	['Lars von Trier']	['Emily Watson, Stellan Skarsgård, Katrin Cartlidge, Jean-Marc Barr']	56643	4.04
+848	The Man with Two Brains	1983		93	['Comedy', ' Romance', ' Sci-Fi']	6.4	['Carl Reiner']	['Steve Martin, Kathleen Turner, David Warner, Paul Benedict']	22272	10.10
+849	Birdman or (The Unexpected Virtue of Ignorance)	2014	A	119	['Comedy', ' Drama']	7.7	['Alejandro G. Iñárritu']	['Michael Keaton, Zach Galifianakis, Edward Norton, Andrea Riseborough']	512597	42.34
+850	Beverly Hills Cop	1984		105	['Action', ' Comedy', ' Crime']	7.3	['Martin Brest']	['Eddie Murphy, Judge Reinhold, John Ashton, Lisa Eilbacher']	147700	234.76
+851	The Ring	2002	PG-13	115	['Horror', ' Mystery']	7.1	['Gore Verbinski']	['Naomi Watts, Martin Henderson, Brian Cox, David Dorfman']	295475	129.13
+852	Kids	1995		91	['Drama']	7	['Larry Clark']	['Leo Fitzpatrick, Justin Pierce, Chloë Sevigny, Sarah Henderson']	67125	7.42
+853	Hearts of Darkness: A Filmmaker's Apocalypse	1991	R	96	['Documentary']	8.2	['Fax Bahr, George Hickenlooper, Eleanor Coppola']	['Dennis Hopper, Martin Sheen, Marlon Brando, George Lucas']	16624	1.32
+854	Roger Dodger	2002	R	106	['Comedy', ' Drama']	7	['Dylan Kidd']	['Campbell Scott, Jesse Eisenberg, Isabella Rossellini, Elizabeth Berkley']	16294	1.27
+855	Hard Candy	2005	R	104	['Crime', ' Drama', ' Thriller']	7.1	['David Slade']	['Patrick Wilson, Ellen Page, Sandra Oh, Odessa Rae']	146027	1.01
+856	Sicko	2007	PG-13	123	['Documentary', ' Drama']	8	['Michael Moore']	['Michael Moore, Tucker Albrizzi, Tony Benn, George W. Bush']	71387	24.54
+857	Lenny	1974		111	['Biography', ' Drama']	7.6	['Bob Fosse']	['Dustin Hoffman, Valerie Perrine, Jan Miner, Stanley Beck']	12916	
+858	Persepolis	2007	PG-13	96	['Animation', ' Biography', ' Drama']	8.1	['Vincent Paronnaud, Marjane Satrapi']	['Chiara Mastroianni, Catherine Deneuve, Gena Rowlands, Danielle Darrieux']	81411	4.44
+859	The Others	2001	PG-13	101	['Horror', ' Mystery', ' Thriller']	7.6	['Alejandro Amenábar']	['Nicole Kidman, Christopher Eccleston, Fionnula Flanagan, Alakina Mann']	311204	96.52
+860	Bill & Ted's Excellent Adventure	1989		90	['Adventure', ' Comedy', ' Music']	6.9	['Stephen Herek']	['Keanu Reeves, Alex Winter, George Carlin, Terry Camilleri']	98645	40.49
+861	Zoolander	2001	PG-13	90	['Comedy']	6.6	['Ben Stiller']	['Ben Stiller, Owen Wilson, Christine Taylor, Will Ferrell']	229542	45.17
+862	Rescue Dawn	2006	PG-13	120	['Action', ' Adventure', ' Biography']	7.3	['Werner Herzog']	['Christian Bale, Steve Zahn, Jeremy Davies, Zach Grenier']	94543	5.49
+863	Rear Window	1954	PG	112	['Mystery', ' Thriller']	8.5	['Alfred Hitchcock']	['James Stewart, Grace Kelly, Wendell Corey, Thelma Ritter']	393392	36.76
+864	Being There	1979		130	['Comedy', ' Drama']	8	['Hal Ashby']	['Peter Sellers, Shirley MacLaine, Melvyn Douglas, Jack Warden']	59937	30.18
+865	Fear and Loathing in Las Vegas	1998	R	118	['Adventure', ' Comedy', ' Drama']	7.7	['Terry Gilliam']	['Johnny Depp, Benicio Del Toro, Tobey Maguire, Michael Lee Gogin']	240656	10.68
+866	John Wick	2014	A	101	['Action', ' Crime', ' Thriller']	7.3	['Chad Stahelski, David Leitch']	['Keanu Reeves, Michael Nyqvist, Alfie Allen, Willem Dafoe']	424022	43.04
+867	Rope	1948		80	['Crime', ' Drama', ' Mystery']	8	['Alfred Hitchcock']	['James Stewart, John Dall, Farley Granger, Dick Hogan']	114271	
+868	Enter the Dragon	1973	R	102	['Action', ' Crime', ' Drama']	7.7	['Robert Clouse']	['Bruce Lee, John Saxon, Jim Kelly, Ahna Capri']	88017	25.00
+869	Wayne's World	1992	PG-13	94	['Comedy', ' Music']	7	['Penelope Spheeris']	['Mike Myers, Dana Carvey, Rob Lowe, Tia Carrere']	131613	121.70
+870	This Is Spinal Tap	1984		82	['Comedy', ' Music']	8	['Rob Reiner']	['Rob Reiner, Michael McKean, Christopher Guest, Kimberly Stringer']	119323	0.19
+871	Old School	2003	R	88	['Comedy']	7.1	['Todd Phillips']	['Luke Wilson, Vince Vaughn, Will Ferrell, Jeremy Piven']	202688	75.59
+872	Top Five	2014	R	102	['Comedy', ' Romance']	6.4	['Chris Rock']	['Chris Rock, Rosario Dawson, Gabrielle Union, Kevin Hart']	24626	25.28
+873	All About Eve	1950		138	['Drama']	8.3	['Joseph L. Mankiewicz']	['Bette Davis, Anne Baxter, George Sanders, Celeste Holm']	106185	0.01
+874	Scum	1979		98	['Crime', ' Drama']	7.6	['Alan Clarke']	['Ray Winstone, Mick Ford, Julian Firth, John Blundell']	8906	
+875	Blackfish	2013	PG-13	83	['Documentary', ' Drama']	8.1	['Gabriela Cowperthwaite']	['Tilikum, Dave Duffus, Samantha Berg, Dean Gomersall']	56050	2.06
+876	The Martian	2015	UA	144	['Adventure', ' Drama', ' Sci-Fi']	8	['Ridley Scott']	['Matt Damon, Jessica Chastain, Kristen Wiig, Kate Mara']	669008	228.43
+877	The Cove	2009	PG-13	92	['Documentary', ' Crime']	8.4	['Louie Psihoyos']	"[""Richard O'Barry, Louie Psihoyos, Hardy Jones, Michael Illiff""]"	44991	0.87
+878	Dope	2015	R	103	['Comedy', ' Crime', ' Drama']	7.2	['Rick Famuyiwa']	['Shameik Moore, Tony Revolori, Kiersey Clemons, Kimberly Elise']	76050	17.47
+879	Steve Jobs	2015	R	122	['Biography', ' Drama']	7.2	['Danny Boyle']	['Michael Fassbender, Kate Winslet, Seth Rogen, Jeff Daniels']	137297	17.77
+880	First Blood	1982		93	['Action', ' Adventure']	7.7	['Ted Kotcheff']	['Sylvester Stallone, Brian Dennehy, Richard Crenna, Bill McKinney']	200498	47.21
+881	A Nightmare on Elm Street	1984	A	91	['Horror']	7.5	['Wes Craven']	['Heather Langenkamp, Johnny Depp, Robert Englund, John Saxon']	182973	25.50
+882	You Only Live Twice	1967	PG	117	['Action', ' Adventure', ' Thriller']	6.9	['Lewis Gilbert']	['Sean Connery, Akiko Wakabayashi, Mie Hama, Tetsurô Tanba']	87458	43.08
+883	Bronson	2008	R	92	['Action', ' Biography', ' Crime']	7.1	['Nicolas Winding Refn']	['Tom Hardy, Kelly Adams, Luing Andrews, Katy Barker']	108760	0.10
+884	Project Nim	2011	PG-13	93	['Documentary']	7.4	['James Marsh']	['Nim Chimpsky, Stephanie LaFarge, Herbert Terrace, Wer LaFarge']	7899	0.41
+885	Three Days of the Condor	1975		117	['Mystery', ' Thriller']	7.5	['Sydney Pollack']	['Robert Redford, Faye Dunaway, Cliff Robertson, Max von Sydow']	42054	41.51
+886	Cape Fear	1991	A	128	['Crime', ' Thriller']	7.3	['Martin Scorsese']	['Robert De Niro, Nick Nolte, Jessica Lange, Juliette Lewis']	152293	79.10
+887	Glory	1989		122	['Biography', ' Drama', ' History']	7.9	['Edward Zwick']	['Matthew Broderick, Denzel Washington, Cary Elwes, Morgan Freeman']	112486	26.83
+888	Pink Flamingos	1972	NC-17	93	['Comedy', ' Crime']	6.1	['John Waters']	['Divine, David Lochary, Mary Vivian Pearce, Mink Stole']	19843	0.18
+889	Eraserhead	1977		89	['Horror']	7.4	['David Lynch']	['Jack Nance, Charlotte Stewart, Allen Joseph, Jeanne Bates']	89283	7.00
+890	Tucker and Dale vs Evil	2010	R	89	['Comedy', ' Horror']	7.5	['Eli Craig']	['Tyler Labine, Alan Tudyk, Katrina Bowden, Jesse Moss']	152309	0.22
+891	The Man Who Wasn't There	2001	R	116	['Crime', ' Drama']	7.6	['Joel Coen, Ethan Coen']	['Billy Bob Thornton, Frances McDormand, Michael Badalucco, James Gandolfini']	96739	7.49
+892	Django	1966	A	91	['Action', ' Western']	7.3	['Sergio Corbucci']	['Franco Nero, José Canalejas, José Bódalo, Loredana Nusciak']	21906	0.03
+893	Singin' in the Rain	1952	G	103	['Comedy', ' Musical', ' Romance']	8.3	['Stanley Donen, Gene Kelly']	"[""Gene Kelly, Donald O'Connor, Debbie Reynolds, Jean Hagen""]"	193498	8.82
+894	Auto Focus	2002	R	105	['Biography', ' Crime', ' Drama']	6.6	['Paul Schrader']	['Greg Kinnear, Willem Dafoe, Maria Bello, Rita Wilson']	12383	2.06
+895	The Iron Giant	1999	PG	86	['Animation', ' Action', ' Adventure']	8	['Brad Bird']	['Eli Marienthal, Harry Connick Jr., Jennifer Aniston, Vin Diesel']	155232	23.16
+896	Mononoke-hime	1997	PG-13	134	['Animation', ' Adventure', ' Fantasy']	8.4	['Hayao Miyazaki']	['Yôji Matsuda, Yuriko Ishida, Yûko Tanaka, Billy Crudup']	289530	2.38
+897	Mission: Impossible - Rogue Nation	2015	UA	131	['Action', ' Adventure', ' Thriller']	7.4	['Christopher McQuarrie']	['Tom Cruise, Rebecca Ferguson, Jeremy Renner, Simon Pegg']	307746	195.04
+898	Aladdin	1992		90	['Animation', ' Adventure', ' Comedy']	8	['Ron Clements, John Musker']	['Scott Weinger, Robin Williams, Linda Larkin, Jonathan Freeman']	315209	217.35
+899	It Follows	2014	R	100	['Horror', ' Mystery']	6.8	['David Robert Mitchell']	['Maika Monroe, Keir Gilchrist, Olivia Luccardi, Lili Sepe']	179601	14.67
+900	Furious Seven	2015	A	137	['Action', ' Crime', ' Thriller']	7.2	['James Wan']	['Vin Diesel, Paul Walker, Dwayne Johnson, Jason Statham']	332258	353.01
