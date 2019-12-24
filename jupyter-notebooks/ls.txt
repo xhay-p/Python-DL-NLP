@@ -1,0 +1,11 @@
+total 132
+drwxr-xr-x 3 labpc labpc  4096 Nov 22 09:28 .
+drwxr-xr-x 7 labpc labpc  4096 Nov 22 09:26 ..
+-rw-r--r-- 1 labpc labpc    26 Nov 22 09:29 hello.txt
+drwxr-xr-x 2 labpc labpc  4096 Nov 22 09:26 .ipynb_checkpoints
+-rw-r--r-- 1 labpc labpc     0 Nov 22 09:29 ls.txt
+-rw-r--r-- 1 labpc labpc  8047 Nov 22 09:25 matplotlib.ipynb
+-rw-r--r-- 1 labpc labpc 18511 Nov 22 09:26 numpy.ipynb
+-rw-r--r-- 1 labpc labpc  7516 Nov 22 09:26 oops.ipynb
+-rw-r--r-- 1 labpc labpc 68422 Nov 22 09:28 python-basics.ipynb
+-rw-r--r-- 1 labpc labpc 10802 Nov 19 10:24 tensorflow.ipynb
