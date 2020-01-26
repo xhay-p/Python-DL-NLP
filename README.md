@@ -34,8 +34,9 @@
 2. Most distribution comes with pip, [if not](https://www.liquidweb.com/kb/install-pip-windows/)
 3. Download and Install Virtual Environment `pip install virtualenv`
 4. [Creating and Activating Virtual Environment](https://programwithus.com/learn-to-code/Pip-and-virtualenv-on-Windows/)
-5. Installing necessary libraries in virtual environment: `pip install jupyter ipython numpy matplotlib pandas tensorflow nltk spacy `
-`python -m spacy download en_core_web_sm`
+5. Installing necessary libraries in virtual environment: `pip install jupyter ipython numpy matplotlib pandastensorflow nltk spacy ` <br>
+`python -m spacy download en_core_web_sm` <br>
+Check https://www.nltk.org/data.html for NLTK required data.
 `pip3 install torch==1.4.0+cpu torchvision==0.5.0+cpu -f https://download.pytorch.org/whl/torch_stable.html`
 6. Well Done! You are ready for hands-on-sessions.
 
