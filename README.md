@@ -1,4 +1,4 @@
-# Hands-on-Python
+# Python for Data Science
 ## Requirements
 1. [Python3](https://www.python.org/)
 2. [Ipython](https://ipython.org/index.html)
