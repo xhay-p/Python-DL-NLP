@@ -53,6 +53,7 @@ Check https://www.nltk.org/data.html for NLTK required data.
 3. **Numpy** - primitive data-types support in numpy, ndarry, creating array, basic operations and in-built functions, reshaping, multi-dimension array, indexing, slicing, broadcasting, linear algebra
 *File* : numpy.ipynb
 4. **Visualization (using matplotlib and seaborn)** - plotting a figure, adding labels to the axis, adding title, adding legends, adding grids, multiple plots using subplot, scatter plot, step plot, bar plot, histogram, reading .csv through pandas.
+5. **Pandas** - Creation, indexing and slicing, manipulation, grouping, sorting and few usefull functionalities associated with DatFrames and Series.
 5. **Tensorflow** - Covers how tensors, variables, and placeholders are created, graph and session creation, variable initialization. This tutorial covers earlier version of tensorflow (Tensorflow1.x prior to eager execution and estimators).
 6. **PyTorch** - Covers pyTorch basic on creating different types of tensors in cpu and gpu. Also include basic linear algebra operation, some statistical operation, arithmetic operations on tensors. Also covers Variable and autograd differention basics.
 7. **Text Processing using NLTK and Spacy** - [Work in Progress]
