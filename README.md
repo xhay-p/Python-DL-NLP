@@ -48,28 +48,37 @@ Check https://www.nltk.org/data.html for NLTK required data.
 
 ## Topics Covered
 1. **Python Basics** - Data-types, Variables, Operators and Operations, Conditionals (if, if-else, if-elif-else), Loops (for and while), Exception Handling, Strings, Lists, Dictionaries, Tuples, File & I/O, command-line and os-module. <br>
+
 *File:*  python_basics/basic-python.ipynb
 
 2. **Object-Oriented Concepts** - Classes, Objects, Classes and Functions, Methods, Inheritence.
+
 *File:*  python_basics/oops.ipynb
 
 3. **Numpy** - primitive data-types support in numpy, ndarry, creating array, basic operations and in-built functions, reshaping, multi-dimension array, indexing, slicing, broadcasting, linear algebra.
+
 *File:*  python_basics/numpy.ipynb
 
 4. **Visualization (using matplotlib and seaborn)** - plotting a figure, adding labels to the axis, adding title, adding legends, adding grids, multiple plots using subplot, scatter plot, step plot, bar plot, histogram, reading .csv through pandas.
+
 *File:*  python_basics/matplotlib-seaborn.ipynb
 
 5. **Pandas** - Creation, indexing and slicing, manipulation, grouping, sorting and few usefull functionalities associated with DatFrames and Series.
+
 *File:*  python_basics/pandas.ipynb
 
 6. **PyTorch** - Covers pyTorch basic on creating different types of tensors in cpu and gpu, basic linear algebra operation, some statistical operation, arithmetic operations on tensors, Variable and autograd differention basics.
+
 *Folder:* pytorch_basics
 
 7. **Text Processing using NLTK and Spacy** - Covers basic text pre-processing and feature exploration using both nltk and spacy suite. [Work in Progress]
+
 *File:*  text_feature_exploration.ipynb
 
 8. **Word Embeddings using Word2Vec** - Covers loading and exploring pre-trained Word2Vec embeddings using Gensim. [Work in Progress]
+
 *File:*  word_embeddings_gensim_word2vec.ipynb
 
 9. **Transformers Pipeline** - Covers using huggingface transformers pipeline module and models from hub for some major NLP tasks such as *Sentiment Analysis*, *Text Generation*, *Named Entity Recognition*, *Question Answering*, and *Summarization*.
+
 *File:*  transformers_basics/pipeline_module.ipynb
