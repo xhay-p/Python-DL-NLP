@@ -7,10 +7,11 @@
 5. [Matplotlib](https://pypi.org/project/matplotlib/)
 6. [Seaborn](https://seaborn.pydata.org/)
 7. [Pandas](https://pypi.org/project/pandas/)
-8. [Tensorflow](https://www.tensorflow.org/)
 9. [PyTorch](https://pytorch.org/)
 10. [NLTK](https://www.nltk.org/)
 11. [Spacy](https://spacy.io/)
+12. [Huggingface Transformers](https://huggingface.co/docs/transformers/index)
+13. [Sentence transformers](https://www.sbert.net/)
 ## Installation
 
 **Linux (Ubuntu)**
@@ -18,16 +19,16 @@
 2. Download and install pip3: `sudo apt-get install python3-pip`
 3. Download and install virtual environment: `pip3 install virtualenv`
 4. Update: `sudo apt-get update`
-5. Download the file **requirements.sh**
-6. `chmod +x requirements.sh`
-7. `./requirements.sh`
+5. Download the file **setup.sh** & **requirements.txt**
+6. `chmod +x setup.sh`
+7. `./setup.sh`
 9. Well Done! You are ready for hands-on-sessions
 
 **Mac OS**
 1. Follow the instructions given in the link below, [For installing python 3 and virtual environment](https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-local-programming-environment-on-macos)
-2. Download the file **requirements.sh**
-3. `chmod +x requirements.sh`
-4. `./requirements.sh`
+2. Download the file **setup.sh** & **requirements.txt**
+3. `chmod +x setup.sh`
+4. `./setup.sh`
 6. Well Done! You are ready for hands-on-sessions.
 
 **Windows**
@@ -35,10 +36,10 @@
 2. Most distribution comes with pip, [if not](https://www.liquidweb.com/kb/install-pip-windows/)
 3. Download and Install Virtual Environment `pip install virtualenv`
 4. [Creating and Activating Virtual Environment](https://programwithus.com/learn-to-code/Pip-and-virtualenv-on-Windows/)
-5. Installing necessary libraries in virtual environment: `pip install jupyter ipython numpy matplotlib seaborn pandas tensorflow nltk spacy ` <br>
+5. Installing necessary libraries in virtual environment: `pip install jupyter ipython numpy matplotlib seaborn pandas nltk spacy ` <br>
 `python -m spacy download en_core_web_sm` <br>
 Check https://www.nltk.org/data.html for NLTK required data.
-`pip3 install torch==1.4.0+cpu torchvision==0.5.0+cpu -f https://download.pytorch.org/whl/torch_stable.html`
+`pip install torch transformers sentence-transformers`
 6. Well Done! You are ready for hands-on-sessions.
 
 **NOTE** 
