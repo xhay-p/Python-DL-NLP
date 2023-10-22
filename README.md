@@ -1,4 +1,4 @@
-# Python for Data Science,  Machine Learning, Deep Learning, and NLP
+# Python for Data Science and Deep Learning for NLP
 ## Requirements
 1. [Python3](https://www.python.org/)
 2. [Ipython](https://ipython.org/index.html)
