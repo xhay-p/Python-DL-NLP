@@ -4,8 +4,17 @@ numpy
 matplotlib 
 seaborn 
 pandas
+scipy
 nltk
 spacy
 torch
 transformers
 sentence-transformers
+datasets
+accelerate
+einops
+trl
+bitsandbytes
+xformers
+optimum
+auto-gptq
