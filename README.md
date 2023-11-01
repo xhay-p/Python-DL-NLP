@@ -80,5 +80,10 @@ Check https://www.nltk.org/data.html for NLTK required data.
 *File:*  word_embeddings_gensim_word2vec.ipynb
 
 9. **Transformers** - Covers using huggingface transformers library. It covers pipeline module, models, tokenizer and other concepts from hub for some major NLP tasks such as *Sentiment Analysis*, *Text Generation*, *Named Entity Recognition*, *Question Answering*, and *Summarization*.
+	1. Tokenizer
+	2. Model
+	3. Pipeline
+	4. Trainer
+	5. Quantization
 
 *Folder:*  transformers_basics/
