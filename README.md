@@ -86,3 +86,7 @@ Check https://www.nltk.org/data.html for NLTK required data.
 	5. Quantization
 
 *Folder:*  transformers_basics/
+
+10. **Building Genration applications using langchain** - Covers building RAG, conversational, summarization applications using langcian.
+
+*Folder:*  langchain/
