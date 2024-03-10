@@ -18,3 +18,13 @@ bitsandbytes
 xformers
 optimum
 auto-gptq
+langchain
+langchain-openai
+faiss-cpu
+chromadb
+unstructured
+pypdf
+docx2txt
+python-decouple
+cohere
+llama-cpp-python
