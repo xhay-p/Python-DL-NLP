@@ -91,5 +91,6 @@ Check https://www.nltk.org/data.html for NLTK required data.
 10. **Building Genration applications using langchain** - Covers building RAG, conversational, summarization applications using langcian.
 	1. RAG
 		1. WebQA
+		2. DocQA
 
 *Folder:*  langchain/
