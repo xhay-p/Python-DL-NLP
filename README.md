@@ -12,6 +12,7 @@
 11. [Spacy](https://spacy.io/)
 12. [Huggingface Transformers](https://huggingface.co/docs/transformers/index)
 13. [Sentence transformers](https://www.sbert.net/)
+14. [Langchain](https://python.langchain.com/docs/get_started/introduction)
 ## Installation
 
 **Linux (Ubuntu)**
@@ -88,5 +89,7 @@ Check https://www.nltk.org/data.html for NLTK required data.
 *Folder:*  transformers_basics/
 
 10. **Building Genration applications using langchain** - Covers building RAG, conversational, summarization applications using langcian.
+	1. RAG
+		1. WebQA
 
 *Folder:*  langchain/
