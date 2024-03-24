@@ -27,4 +27,3 @@ pypdf
 docx2txt
 python-decouple
 cohere
-llama-cpp-python
