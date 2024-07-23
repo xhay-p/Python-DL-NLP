@@ -32,7 +32,7 @@ einops
 transformers
 sentence_transformers
 unstructured
-gradio
+gradio==4.37.1
 pypdf
 docx2txt
 cohere
