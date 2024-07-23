@@ -19,7 +19,7 @@ langgraph==0.1.1
 anthropic==0.30.1
 faiss-cpu==1.8.0
 unstructured==0.11.8
-gradio==4.26.0
+gradio==4.37.1
 pypdf==4.2.0
 docx2txt==0.8
 python-decouple==3.8
